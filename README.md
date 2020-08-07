@@ -16,6 +16,7 @@
 - Mailing: Rice University Herman Brown Hall – MS 108, 6100 Main St, Houston, TX 77005
 
 ## Education
+
 My [CV](https://hongyi18.github.io/CV.pdf).
 
 #### 2018-Present
