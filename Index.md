@@ -2,7 +2,7 @@
 
 I'm a PhD candidate in cosmology. My [CV](File/CV.pdf).
 
-![Photo](Picture/Photo.png)
+<img align="left" src="Picture\Photo.png" alt="Photo" style="zoom:50%;" />
 
 ### Research interests
 
