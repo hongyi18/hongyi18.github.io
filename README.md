@@ -1,37 +1,22 @@
-# Welcome to GitHub Pages
+## Research interests
 
-You can use the [editor on GitHub](https://github.com/hongyi18/hongyi18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Dynamics of nontopological solitons.
+- Theory of early universe, e.g. inflation and reheating.
+- Theory of dark matter and dark energy.
+- Nonlinear dynamics and chaos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publication
 
-### Markdown
+- My [Inspire](https://inspirehep.net/authors/1790638).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
 
-```markdown
-Syntax highlighted code block
+- Email: hongyi@rice.edu
+- Office: 306 in Herman Brown Hall
+- Mailing: Rice University Herman Brown Hall – MS 108, 6100 Main St, Houston, TX 77005
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+- 2018-		PhD		Rice University		Advisor: Mustafa Amin
+- 2014-2018	BS		Nanjing University		Thesis advisor: Yeuk-Kwan Edna Cheung
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hongyi18/hongyi18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
