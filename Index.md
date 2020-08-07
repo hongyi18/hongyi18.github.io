@@ -1,6 +1,6 @@
 ### About me
 
-I'm a PhD candidate in cosmology. My [CV](File/CV.pdf).
+I'm a PhD candidate in cosmology. Look at my [CV](File/CV.pdf).
 
 <img src="Picture/Photo.png" alt="Photo" width="300" />
 
