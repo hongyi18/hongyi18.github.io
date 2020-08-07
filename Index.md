@@ -1,8 +1,8 @@
 ### About me
 
-I'm a PhD candidate in cosmology. My [CV](https://hongyi18.github.io/File/CV.pdf).
+I'm a PhD candidate in cosmology. My [CV](File/CV.pdf).
 
-<img align="left" src="hongyi18.github.io\Picture\Photo.png" style="zoom: 50%;" />
+(Picture/Photo.png)
 
 ### Research interests
 
