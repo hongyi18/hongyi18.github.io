@@ -2,7 +2,7 @@
 
 I'm a PhD candidate in cosmology. My [CV](https://hongyi18.github.io/CV.pdf).
 
-<img align="left" src="C:\Users\Hongyi\Documents\GitHub\hongyi18.github.io\Picture\My photo.png" alt="My photo" style="zoom: 50%;" />
+<img align="left" src="hongyi18.github.io\Picture\My photo.png" style="zoom: 50%;" />
 
 ### Research interests
 
