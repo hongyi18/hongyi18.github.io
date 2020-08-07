@@ -1,3 +1,9 @@
+### About me
+
+I'm a PhD candidate in cosmology. My [CV](https://hongyi18.github.io/CV.pdf).
+
+<img align="left" src="C:\Users\Hongyi\Documents\GitHub\hongyi18.github.io\Picture\My photo.png" alt="My photo" style="zoom: 50%;" />
+
 ### Research interests
 
 - Dynamics of nontopological solitons.
@@ -7,7 +13,7 @@
 
 ### Publication
 
-- My [Inspire](https://inspirehep.net/authors/1790638) and [CV](https://hongyi18.github.io/CV.pdf).
+- My [Inspire](https://inspirehep.net/authors/1790638).
 
 ### Contact
 
