@@ -1,6 +1,6 @@
 ### About me
 
-I'm a PhD candidate in cosmology. Look at my [CV](file/CV.pdf).
+I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Look at my [CV](file/CV.pdf).
 
 <img src="picture/photo.png" alt="Photo" width="300" />
 
@@ -23,6 +23,6 @@ I'm a PhD candidate in cosmology. Look at my [CV](file/CV.pdf).
 
 ### Education
 
-- 2018-Present, PhD, [Rice University](https://physics.rice.edu/), Advisor: [Mustafa A. Amin](http://mustafa-amin.com/)
+- 2018-Present, PhD, [Department of Physics & Astronomy, Rice University](https://physics.rice.edu/), Advisor: [Mustafa A. Amin](http://mustafa-amin.com/)
 
-- 2014-2018, BS, [Nanjing University](https://physics.nju.edu.cn/), Thesis advisor: [Yeuk-Kwan Edna Cheung](https://www.lnjsds.com/physicsnjulnjsdscom/Html/2014-5200237_487951.htm)
+- 2014-2018, BS, [School of Physics, Nanjing University](https://physics.nju.edu.cn/), Thesis advisor: [Yeuk-Kwan Edna Cheung](https://www.lnjsds.com/physicsnjulnjsdscom/Html/2014-5200237_487951.htm)
