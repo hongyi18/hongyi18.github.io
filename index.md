@@ -1,6 +1,4 @@
 
-### About me
-
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Look at my [CV](file/CV.pdf).
 
 <img src="picture/photo.png" alt="Photo" width="300" />
