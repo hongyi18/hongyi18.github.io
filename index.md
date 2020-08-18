@@ -1,5 +1,8 @@
-[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Numerics](numerics/numerics.md)
+---
+layout: default
+---
 
+[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Numerics](numerics/numerics.md)
 ------
 
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Look at my [CV](file/CV.pdf).
