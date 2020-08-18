@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Numerics](numerics/numerics.md)
+[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Numerics](numerics.md)
 
 ------
 
