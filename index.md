@@ -1,7 +1,12 @@
+[About me](index.md) <br />[Numerics](numerics/numerics.md)
+
+------
 
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Look at my [CV](file/CV.pdf).
 
 <img src="picture/photo.png" alt="Photo" width="200" />
+
+
 
 ### Research interests
 
@@ -10,15 +15,21 @@ I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Lo
 - Theory of dark matter and dark energy.
 - Nonlinear dynamics and chaos.
 
+
+
 ### Publication
 
 - My [Inspire](https://inspirehep.net/authors/1790638).
+
+
 
 ### Contact
 
 - Email: hongyi@rice.edu
 - Office: 306 in Herman Brown Hall
 - Mailing: Rice University Herman Brown Hall – MS 108, 6100 Main St, Houston, TX 77005
+
+
 
 ### Education & Experiences
 
