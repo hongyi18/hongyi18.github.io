@@ -14,7 +14,7 @@
 
 Non-topological solitons in cosmology are spatially-localized and time-periodic field configurations. They play important roles in many contexts of cosmology research with various names. These exotic celestial objects in certain cases mimic neutron stars and even black holes, and can have profound influences on future astronomy observations. My research focuses on a specific type of these exotic stars, called oscillons. They have great impacts in both the early universe, e.g. reheating and phase transitions, and the late universe, e.g. dark matter and structure formation.
 
-![decay_rate](C:\Users\Hong-Yi\OneDrive\Github\hongyi18.github.io\research\decay_rate.jpg)
+![decay_rate](research/decay_rate.jpg)
 
 
 
