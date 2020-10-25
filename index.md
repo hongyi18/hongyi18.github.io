@@ -1,4 +1,4 @@
-[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp; [Numerics](numerics.md)
+[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp; Cosmology &nbsp;&nbsp;&nbsp;&nbsp; [Numerics](numerics.md)&nbsp;&nbsp;&nbsp;&nbsp; Music
 
 ------
 
