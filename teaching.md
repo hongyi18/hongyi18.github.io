@@ -114,7 +114,7 @@
 
 ### Linux and windows
 
-- [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf) and my cheat sheet
+- [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf) and [my cheat sheet](teaching/linux_cheat_sheet.md)
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/), [BASH Programming – Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) and [Linux思维导图](https://mp.weixin.qq.com/s?__biz=MzIzNTg3MDQyMQ==&mid=2247485955&idx=3&sn=d25925a933539d55f540143b12ad26d0&chksm=e8e1cbb9df9642af70a10f0abd501f63400e14582854262853b1ca09612c4c77e7bd4adb512c&mpshare=1&scene=1&srcid=1112OeS7C1pmQ5LCe1WplcAh&sharer_sharetime=1573534488008&sharer_shareid=d1611a30a34604128c2a4aa7756c5869&key=b08e6dc0faeae2de81801ef2ffe8508cc27f8ebd991a7a64599ea8b094a6645f3b8b5a86340c621f31ac813f333b2502ca09361f10318ebdbeeb6c47c6489d4a44c7083e4a1deaa6d2af05830b9cb317&ascene=1&uin=ODM4MzYyNzM1&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=Ov13KP%2Fa3sH%2FWr8Zu1CMH0p078d80mg%2BUfaPyebXSQS9Qjs%2FKIAv17ymKrkrMSG3)
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
 - [Vim/Guide](https://wiki.gentoo.org/wiki/Vim/Guide) and [Vim tips and tricks](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
@@ -128,7 +128,7 @@
 
 #### Using clusters
 
-- [Cheat Sheet for Clusters at Rice](http://hongyi.blogs.rice.edu/cheatsheet-for-clusters-at-rice/) and [Cluster (CRC) Documentation at Rice](https://docs.rice.edu/confluence/display/CD/Research+Computing)
+- [Cluster (CRC) Documentation at Rice](https://docs.rice.edu/confluence/display/CD/Research+Computing)
 - [Research Computing Documentation, University of South Florida](https://wiki.rc.usf.edu/index.php/Main_Page) (involving settings for specific softwares)
 - [Exercise: running python in the cluster](https://dccn-hpc-wiki.readthedocs.io/en/latest/docs/cluster_howto/exercise_python/exercise.html)
 - How to run graphical user interface on Windows? (1) Have a SSH client, e.g. Linux subsystem. (2) Install and open [Xming](http://www.straightrunning.com/XmingNotes/). (3) Enter in BASH “export DISPLAY=localhost:0.0”. (4) Connect cluster through “ssh -X user@nots.rice.edu”. (5) Try “xterm” to see if there is a window opening. If yes, then congratulations!
