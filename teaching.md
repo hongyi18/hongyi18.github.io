@@ -93,6 +93,7 @@
 - [Leonid Shifrin, *Mathematica®* programming: an advanced introduction](http://www.mathprogramming-intro.org/)
 - [10 Tips for Writing Fast *Mathematica* Code](https://blog.wolfram.com/2011/12/07/10-tips-for-writing-fast-mathematica-code/)
 - [How do I accelerate NIntegrate evaluations?](http://support.wolfram.com/kb/12485)
+- [Examples for random walk](teaching/random_walk.nb)
 
 #### C/C++ and Fortran
 
