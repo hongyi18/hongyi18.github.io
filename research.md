@@ -4,3 +4,18 @@
 
 
 
+### Publications
+
+- My [Inspire](https://inspirehep.net/authors/1790638).
+
+
+
+### Dynamics of non-topological solitons
+
+Non-topological solitons in cosmology are spatially-localized and time-periodic field configurations. They play important roles in many contexts of cosmology research with various names. These exotic celestial objects in certain cases mimic neutron stars and even black holes, and can have profound influences on future astronomy observations. My research focuses on a specific type of these exotic stars, called oscillons. It has great impacts in both early universe, e.g. reheating and phase transitions, and late universe, e.g. dark matter and structure formation.
+
+
+
+### Axion-like dark matter
+
+Axions are well-motivated particles to solve the strong CP problem. 
