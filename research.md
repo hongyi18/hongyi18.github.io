@@ -18,4 +18,5 @@ Non-topological solitons in cosmology are spatially-localized and time-periodic 
 
 ### Axion-like dark matter
 
-Axions are well-motivated particles to solve the strong CP problem. 
+Axions are well-motivated particles to solve the strong CP problem. Moreover, strings theory motivates a number of pseudoscalar particles similar with axions. These together provide a large parameter space for axion-like dark matters. If the Peccei-Quinn symmetry is broken after the inflation, the axionic dark matter distribution is expected to be highly inhomogeneous, leading to the formation of axion miniclusters and axion stars (oscillons). It is probable that a great amount of axion-like dark matter is in the form of oscillons and thus have exotic observational signatures.
+
