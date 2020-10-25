@@ -1,5 +1,6 @@
-[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp;[Numerics](numerics.md)
-
+&nbsp;
+[About me](index.md)&nbsp;&nbsp;&nbsp;&nbsp; 
+[Numerics](numerics.md)
 ------
 
 [TOC]
