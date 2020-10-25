@@ -1,8 +1,6 @@
-
 [About me](index.md) &nbsp;&nbsp;&nbsp;&nbsp; [Research](research.md) &nbsp;&nbsp;&nbsp;&nbsp; [Talks](talks.md) &nbsp;&nbsp;&nbsp;&nbsp; [Teaching](teaching.md) &nbsp;&nbsp;&nbsp;&nbsp; [Music](music.md)
 
 ------
-
 
 
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Look at my [CV](file/CV.pdf).
