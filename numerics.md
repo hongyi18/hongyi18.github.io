@@ -4,7 +4,7 @@
 
 
 
-## Numerical methods
+### Numerical methods
 
 - Alejandro Garcia, [Numerical Methods for Physics](http://www.algarcia.org/nummeth/nummeth.html) (Python, Matlab, C/C++, Fortran)
 - Morten Hjorth-Jensen, [COMPUTATIONAL PHYSICS lecture note](https://www.uio.no/studier/emner/matnat/fys/FYS3150/h10/undervisningsmateriale/Lecture Notes/lectures2010.pdf) (C/C++, Fortran)
@@ -13,7 +13,7 @@
 
 
 
-## Programming tutorials
+### Programming tutorials
 
 #### Python
 
@@ -36,7 +36,7 @@
 
 
 
-## Data visualization
+### Data visualization
 
 - Python [matplotlib](https://matplotlib.org/gallery/index.html). (1) Nicolas P. Rougier, github [matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet). (2) To customize the plot style (figure size, fonts etc.), just write a “style” file saving in path like “C:\(user name)\.matplotlib\stylelib\” (on Windows). See [customizing matplotlib](https://matplotlib.org/2.0.1/users/customizing.html) and [changes to the default style](https://matplotlib.org/3.1.1/users/dflt_style_changes.html) for detailed description. My style file [example](https://hongyi.blogs.rice.edu/files/2020/06/mystyle.txt) (one needs to replace “.txt” by “.mplstyle”, and LaTeX is required before using it).
 - Mathematica plot.(1) Choose [appropriate plots](https://reference.wolfram.com/language/guide/DataVisualization.html). (2) Do specify [PlotTheme](https://reference.wolfram.com/language/ref/PlotTheme.html). (3) Using [MaTeX](https://github.com/szhorvat/MaTeX) to create LaTeX fonts for ticks and labels.
@@ -46,7 +46,7 @@
 
 
 
-## Linux and windows
+### Linux and windows
 
 - [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf) and my cheat sheet
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/), [BASH Programming – Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) and [Linux思维导图](https://mp.weixin.qq.com/s?__biz=MzIzNTg3MDQyMQ==&mid=2247485955&idx=3&sn=d25925a933539d55f540143b12ad26d0&chksm=e8e1cbb9df9642af70a10f0abd501f63400e14582854262853b1ca09612c4c77e7bd4adb512c&mpshare=1&scene=1&srcid=1112OeS7C1pmQ5LCe1WplcAh&sharer_sharetime=1573534488008&sharer_shareid=d1611a30a34604128c2a4aa7756c5869&key=b08e6dc0faeae2de81801ef2ffe8508cc27f8ebd991a7a64599ea8b094a6645f3b8b5a86340c621f31ac813f333b2502ca09361f10318ebdbeeb6c47c6489d4a44c7083e4a1deaa6d2af05830b9cb317&ascene=1&uin=ODM4MzYyNzM1&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=Ov13KP%2Fa3sH%2FWr8Zu1CMH0p078d80mg%2BUfaPyebXSQS9Qjs%2FKIAv17ymKrkrMSG3)
@@ -58,7 +58,7 @@
 
 
 
-## High performance computing
+### High performance computing
 
 #### Using clusters
 
@@ -74,7 +74,7 @@
 
 
 
-## Advanced scientific programs/examples
+### Advanced scientific programs/examples
 
 - [Mpmath, for real and complex floating-point arithmetic with arbitrary precision](http://mpmath.org/). (Python)
 - [LATTICEEASY](http://www.felderbooks.com/latticeeasy/), for lattice simulations of the evolution of interacting scalar fields in an expanding universe. (C/C++)
@@ -82,14 +82,14 @@
 
 
 
-## Numerical relativity
+### Numerical relativity
 
 - Miguel Alcubierre, [Introduction to 3+1 Numerical Relativity](https://www.mobt3ath.com/uplode/book/book-45864.pdf)
 - Thomas W. Baumgarte, [Numerical Relativity](https://www.cambridge.org/core/books/numerical-relativity/72D4F6D791BC6F8F9CF87A60FC354D6A)
 
 
 
-## LaTeX
+### LaTeX
 
 #### Tutorial
 
