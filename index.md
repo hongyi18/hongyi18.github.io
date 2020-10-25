@@ -19,12 +19,6 @@ I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Lo
 
 
 
-### Publication
-
-- My [Inspire](https://inspirehep.net/authors/1790638).
-
-
-
 ### Contact
 
 - Email: hongyi@rice.edu
