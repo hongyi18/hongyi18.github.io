@@ -34,4 +34,4 @@ I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Lo
 
 - 2016.07, Summer Undergraduate Research Fellowship, The Institute of High Energy Physics of the Chinese Academy of Sciences.
 
-- 2014.09-2018.06, BS, [School of Physics, Nanjing University](https://physics.nju.edu.cn/). Thesis advisor: [Yeuk-Kwan Edna Cheung](https://www.lnjsds.com/physicsnjulnjsdscom/Html/2014-5200237_487951.htm).
+- 2014.09-2018.06, BS, [School of Physics, Nanjing University](https://physics.nju.edu.cn/). Thesis advisor: [Yeuk-Kwan Edna Cheung](https://physics.nju.edu.cn//ry/qymc/jxky/20190904/i18681.html).
