@@ -6,7 +6,7 @@
 
 ### Publications
 
-- My [Inspire](https://inspirehep.net/authors/1790638).
+- My [Inspire](https://inspirehep.net/authors/1790638?ui-citation-summary=true).
 
 
 
