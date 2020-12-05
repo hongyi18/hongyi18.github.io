@@ -1,0 +1,3 @@
+For tables without header in kramdown (align images):
+| A1 | B1 |
+| A2 | B2 |
