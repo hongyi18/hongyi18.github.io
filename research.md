@@ -24,6 +24,4 @@ Axions are well-motivated particles to solve the strong CP problem. Moreover, th
 
 ### One-page summary of some of my publications
 
-|                                                   |                                                              |
-| ------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="research/decay_rates.png" width="1000"> | <img src="research/gravitational_effects.png" width="1000"> |
