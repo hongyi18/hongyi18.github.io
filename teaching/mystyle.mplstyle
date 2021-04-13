@@ -4,7 +4,7 @@ figure.dpi       :  72
 savefig.dpi      :  150
 
 # Line
-lines.linewidth  :  2.5
+lines.linewidth  :  3.5
 
 # Fontsize
 font.size        :  30
@@ -22,6 +22,8 @@ axes.titlepad    :  15
 axes.labelpad    :  10
 xtick.major.pad  :  8
 ytick.major.pad  :  8
+xtick.major.size :  4
+ytick.major.size :  4
 
 # Labels and ticks
 xtick.direction  :  in
