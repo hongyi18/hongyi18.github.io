@@ -4,7 +4,7 @@
 
 
 
-My [quick note](research/note.md) for research.
+My [quick note](research_note.md) for research.
 
 ### Publications
 
