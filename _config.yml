@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 title : Hong-Yi Zhang
 description : Cosmology
 google_analytics : 
