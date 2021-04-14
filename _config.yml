@@ -2,6 +2,6 @@ plugins:
   - jekyll-seo-tag
 
 title : Hong-Yi Zhang
-description : Cosmology
+description : Theoretical cosmology at Rice University
 google_analytics : 
 markdown : kramdown
