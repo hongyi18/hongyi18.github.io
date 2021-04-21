@@ -20,10 +20,12 @@ text.latex.preamble : \usepackage{amsmath}
 # Distance between label and axes
 axes.titlepad    :  15
 axes.labelpad    :  10
-xtick.major.pad  :  8
+xtick.major.pad  :  8 # Distance in points between ticks and tick labels.
 ytick.major.pad  :  8
-xtick.major.size :  4
-ytick.major.size :  4
+xtick.major.size :  6 # Length of the tick.
+xtick.minor.size :  3
+ytick.major.size :  6
+ytick.minor.size :  3
 
 # Labels and ticks
 xtick.direction  :  in

@@ -26,6 +26,10 @@
 - Jakob Schwichtenberg, [Physics from Symmetry](http://physicsfromsymmetry.com/).
 - Howard Georgi, [Lie Algebras in Particle Physics](http://mural.uv.es/rusanra/Lie Algebras in Particle Physics 2ª ed - From Isospin to Unified Theories (Georgi, 1999).pdf).
 
+#### Beyond GR and QFT
+
+- Tom Hartman, [Course Website: Quantum Gravity and Black Holes](http://www.hartmanhep.net/topics2015/).
+
 #### Giving a talk
 
 - Henning Schulzrinne, [Hints for Giving Technical Talks](https://www.cs.columbia.edu/~hgs/etc/talk-hints.html)
