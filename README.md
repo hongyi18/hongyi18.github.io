@@ -12,7 +12,7 @@ Website menu:
 - Teaching (teaching.md)
 - Music (music.md)
 
-New pages should be added by copying the "template.md" in order to keep the consistency of menu hyperlinks.
+New pages should be added by copying the "template.md" in order to keep the consistency of menu hyperlinks. All pages should be put in the main folder. All files (documents, images, etc..) should be put in the folder named by the corresponding menu.
 
 
 

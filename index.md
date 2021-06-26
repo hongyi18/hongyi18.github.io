@@ -4,9 +4,9 @@
 
 
 
-I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Here is my [CV](file/CV.pdf).
+I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Here is my [CV](index/CV.pdf).
 
-<img src="picture/photo.png" alt="Photo" width="200" />
+<img src="index/photo.png" alt="Photo" width="200" />
 
 
 
