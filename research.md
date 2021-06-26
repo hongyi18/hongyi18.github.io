@@ -4,7 +4,7 @@
 
 
 
-My [quick note](research_note.md) for research.
+Here is my [quick note](research_note.md) for research.
 
 ### Publications
 
@@ -14,7 +14,7 @@ My [quick note](research_note.md) for research.
 
 ### Dynamics of non-topological solitons
 
-Non-topological solitons in cosmology are spatially-localized and time-periodic field configurations. They play important roles in many contexts of cosmology research with various names. These exotic celestial objects in certain cases mimic neutron stars and even black holes, and can have profound influences on future astronomy observations. My research focuses on a specific type of these exotic stars, called oscillons. They have great impacts in both the early universe, e.g. reheating and phase transitions, and the late universe, e.g. dark matter and structure formation.
+Non-topological solitons in cosmology are spatially-localized and time-periodic field configurations. They play important roles in many contexts of cosmology research with various names. These exotic celestial objects in certain cases mimic neutron stars and even black holes, and can have profound influences on future astronomy observations. Examples include Q-balls, oscillons, oscillatons, axion stars. They have great impacts in both the early universe, e.g. reheating and cosmological phase transitions, and the late universe, e.g. dark matter and structure formation.
 
 
 
@@ -26,6 +26,6 @@ Axions are well-motivated particles to solve the strong CP problem. Moreover, th
 
 ### One-page summary of some of my publications
 
-To zoom in the picture, just right click and open it in a new tab.
+Pictures are listed in reversed chronological order. To zoom in the picture, just right click and open it in a new tab.
 
 | <img src="research/NREFT.png" width="500"> | <img src="research/gravitational_effects.png" width="500"> | <img src="research/decay_rates.png" width="500"> |
