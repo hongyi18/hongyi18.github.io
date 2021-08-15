@@ -18,7 +18,7 @@ header_pages:
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
-  skin: dark
+  skin: solarized
 
   # generate social links in footer
   social_links:
