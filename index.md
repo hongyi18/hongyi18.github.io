@@ -12,7 +12,7 @@ layout: home
 
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Here is my [CV](CV.pdf).
 
-<img src="C:/Users/Hongyi/OneDrive/Github/hongyi18.github.io - Copy/photo.png" alt="Photo" width="200" />
+<img src="photo.png" alt="Photo" width="200" />
 
 
 
