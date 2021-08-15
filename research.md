@@ -4,7 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-### My research note
+
+
+My research note:
 
 - [Foundations of cosmology.](research/cosmology.md)
 - [Numerics.](research/numerics.md)
