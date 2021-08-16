@@ -87,7 +87,7 @@ During the process you will be required to type your username and personal acces
 
 ### Update the website and local files
 
-You don't have to repeat all steps above when making any changes of the local files of the website, simply execute the following commands in order
+You don't have to repeat all steps above when making any changes of the local files of the website. Instead, simply execute the following commands in order
 
 ```bash
 git add --all
