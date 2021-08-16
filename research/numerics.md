@@ -59,43 +59,13 @@ Numerical relativity
 
 ### Linux and windows
 
-- [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf).
+- [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf) and [my cheat sheet](numerics_linux.md).
 - [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/), [BASH Programming – Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) and [Linux思维导图](https://mp.weixin.qq.com/s?__biz=MzIzNTg3MDQyMQ==&mid=2247485955&idx=3&sn=d25925a933539d55f540143b12ad26d0&chksm=e8e1cbb9df9642af70a10f0abd501f63400e14582854262853b1ca09612c4c77e7bd4adb512c&mpshare=1&scene=1&srcid=1112OeS7C1pmQ5LCe1WplcAh&sharer_sharetime=1573534488008&sharer_shareid=d1611a30a34604128c2a4aa7756c5869&key=b08e6dc0faeae2de81801ef2ffe8508cc27f8ebd991a7a64599ea8b094a6645f3b8b5a86340c621f31ac813f333b2502ca09361f10318ebdbeeb6c47c6489d4a44c7083e4a1deaa6d2af05830b9cb317&ascene=1&uin=ODM4MzYyNzM1&devicetype=Windows+10&version=62070152&lang=en&pass_ticket=Ov13KP%2Fa3sH%2FWr8Zu1CMH0p078d80mg%2BUfaPyebXSQS9Qjs%2FKIAv17ymKrkrMSG3)
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
 - [Vim/Guide](https://wiki.gentoo.org/wiki/Vim/Guide) and [Vim tips and tricks](https://www.cs.oberlin.edu/~kuperman/help/vim/home.html)
 - [Table of Basic PowerShell Commands](https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/)
 - [BASH and PowerShell Quick Reference](https://cecs.wright.edu/~pmateti/Courses/233/Labs/Scripting/bashVsPowerShellTable.html)
 - [Windows Command Prompt Cheatsheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command Prompt Cheatsheet.pdf)
-
-#### Cheat sheet for Linux
-
-About softwares
-
-- sudo apt-get upgrade (update the whole apt-get library)
-- sudo apt install build-essential (install basic functions and dependencies)
-- sudo apt install xxx (install the software of xxx)
-- sudo apt install -f (fix the last installation)
-- sudo apt upgrade xxx (upgrade the software of xxx)
-
-#### Cheat Sheet for Clusters at Rice
-
-Log in and copy files
-
-- ssh username@nots.rice.edu
-- scp local_file.zip username@nots.rice.edu:
-- (1) sftp username@nots.rice.edu (2) put local_file.zip (3) get remote_file.zip (4) put -r local_directory (5) get -r remote_directory
-
-Check and load modules
-
-- module list (current loaded modules in my environment)
-- module spider GCC (available modules related to GCC)
-- module load GCC/9.3.0 OpenMPI/4.0.3 FFTW/3.3.8 (load related modules, e.g. GCC, OpenMPI and FFTW)
-- module save (save the current environment)
-
-Submit and monitoring jobs
-
-- sbatch myslurm
-- watch squeue -u username
 
 
 
@@ -134,7 +104,7 @@ Install LaTeX on Windows
 
 1. Download MiKTeX on the [official website](http://www.latex-project.org/get/).
 2. Install [TeXstudio](http://texstudio.sourceforge.net/) to write Latex codes.
-3. To set dark theme on windows, download “[texstudio_dark_theme.zip](texstudio_dark_theme.zip)“.
+3. To set dark theme of TeXstudio on windows, download “[texstudio_dark_theme.zip](texstudio_dark_theme.zip)“.
 
 Install LaTeX on Ubuntu
 
