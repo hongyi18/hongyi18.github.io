@@ -1,6 +1,9 @@
 // Placeholder to allow overriding predefined variables smoothly.
 
-// Width of the content area
-$content-width:    900px !default;
-
 $spacing-unit:     10px;
+
+// Width of the content area
+$content-width:    900px;
+
+$on-palm:          600px;
+$on-laptop:        900px;
