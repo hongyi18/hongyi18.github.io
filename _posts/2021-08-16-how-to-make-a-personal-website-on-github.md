@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to make a personal website in Github?"
+title: "How to make a personal website on Github?"
 author:
 - Hong-Yi Zhang
 ---

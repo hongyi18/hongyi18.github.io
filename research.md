@@ -10,7 +10,7 @@ My research note
 
 - [Foundations of cosmology](research/cosmology.md)
 - [Numerics](research/numerics.md)
-- [How to make a personal website in Github?](https://hongyi18.github.io/2021/08/15/how-to-make-a-personal-website-in-github.html)
+- [How to make a personal website on Github?](https://hongyi18.github.io/2021/08/16/how-to-make-a-personal-website-on-github.html)
 
 ### Dynamics of non-topological solitons
 
