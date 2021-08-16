@@ -65,6 +65,8 @@ minima:
 # Build settings
 theme: minima
 
+url: "https://hongyi18.github.io"
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap

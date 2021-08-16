@@ -61,7 +61,7 @@ git init REPOSITORY-NAME # Creates a new folder on your computer, initialized as
 cd REPOSITORY-NAME # Changes the working directory
 ```
 
-For the theme of your website, check [Supported themes](https://pages.github.com/themes/) and pick any one that you like. In my case, I simply choose the "Minima". Download the source codes of your favorite theme, and copy everything to your REPOSITORY folder. From the command line, run
+For the theme of your website, check [Supported themes](https://pages.github.com/themes/) and pick any one that you like. In my case, I simply choose the ["minima"](https://github.com/jekyll/minima). Download the source codes of your favorite theme, and copy everything to your REPOSITORY folder. From the command line, run
 
 ```bash
 bundle install
@@ -153,6 +153,12 @@ However, smaller "spacing-unit" also push the margins and makes the display in c
 h1, h2, h3 { margin-top: $spacing-unit / 2 } # The default values is "$spacing-unit".
 h4, h5, h6 { margin-top: $spacing-unit / 4 } # The default values is "$spacing-unit /2".
 ```
+
+
+
+### Add plugins
+
+Adding plugins can make your website more powerful and easier to be indexed by Google. There are [several useful plugins](https://jekyllrb.com/docs/step-by-step/10-deployment/#plugins) on almost any Jekyll site: jekyll-sitemap (Create a sitemap file to help search engines index content) and jekyll-seo-tag (Adds meta tags to help with SEO). For the "minima" theme, these plugins are installed by default.
 
 
 
