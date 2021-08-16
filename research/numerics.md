@@ -73,7 +73,7 @@ Numerical relativity
 
 #### Using clusters
 
-- [Cluster (CRC) Documentation at Rice](https://docs.rice.edu/confluence/display/CD/Research+Computing)
+- [Center for Research Computing documentation at Rice](https://kb.rice.edu/108191)
 - [Research Computing Documentation, University of South Florida](https://wiki.rc.usf.edu/index.php/Main_Page) (involving settings for specific softwares)
 - [Exercise: running python in the cluster](https://dccn-hpc-wiki.readthedocs.io/en/latest/docs/cluster_howto/exercise_python/exercise.html)
 - How to run graphical user interface on Windows? (1) Have a SSH client, e.g. Linux subsystem. (2) Install and open [Xming](http://www.straightrunning.com/XmingNotes/). (3) Enter in BASH “export DISPLAY=localhost:0.0”. (4) Connect cluster through “ssh -X user@nots.rice.edu”. (5) Try “xterm” to see if there is a window opening. If yes, then congratulations!

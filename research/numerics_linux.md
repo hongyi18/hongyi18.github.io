@@ -3,7 +3,7 @@ layout: page
 title: Cheat sheet for Linux commands
 permalink: /research/numerics/linux
 ---
-#### Cheat sheet for Linux
+### Cheat sheet for Linux
 
 - [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
 
@@ -17,9 +17,9 @@ About softwares
 
 
 
-#### Cheat sheet for clusters at Rice
+### Cheat sheet for clusters at Rice
 
-- [Cluster (CRC) Documentation at Rice](https://docs.rice.edu/confluence/display/CD/Research+Computing)
+- [Documentation of NOTS at Rice](https://kb.rice.edu/108237)
 
 Log in and copy files
 
