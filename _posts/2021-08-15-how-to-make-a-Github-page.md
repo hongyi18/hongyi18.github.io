@@ -81,7 +81,7 @@ Push the repository to Github, replacing BRANCH with the name of the branch you'
 git push -u origin BRANCH
 ```
 
-Waiting for a few seconds, you can check your website "https//username.github.io/" online!
+During the process you will be required to type your username and personal access token ([the account password was no longer accepted when authenticating Git operations since Aug 13, 2021](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)). Waiting for a few seconds, you can check your website "https//username.github.io/" online!
 
 
 
