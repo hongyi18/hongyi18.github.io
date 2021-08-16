@@ -16,20 +16,20 @@ I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). He
 
 
 
-**Research interests**
+## Research interests
 
 - Dynamics of nontopological solitons.
 - Dark matter and dark energy.
 - Theory of early universe, e.g. inflation and reheating.
 - Nonlinear dynamics and chaos.
 
-**Contact**
+## Contact
 
 - Email: hongyi@rice.edu
 - Office: 306 in Herman Brown Hall
 - Mailing: Rice University Herman Brown Hall – MS 108, 6100 Main St, Houston, TX 77005
 
-**Education & Experiences**
+## Education & Experiences
 
 - 2018.08-Present, PhD, [Department of Physics & Astronomy, Rice University](https://physics.rice.edu/). Advisor: [Mustafa A. Amin](http://mustafa-amin.com/).
 
