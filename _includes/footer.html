@@ -15,12 +15,13 @@
           {%- endif %}
         </ul>
       {%- endif %}
+      <p>{{ site.description | escape }}</p>
       </div>
 
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
 	{%- if site.modified_date %}
-	  <p>{{ "Last modified on: site.modified_date" | escape }}</p>
+	  <p>{{ site.modified_date | escape }}</p>
         {%- endif %}
       </div>
     </div>
