@@ -5,8 +5,8 @@ permalink: /research/numerics/
 ---
 Table of contents
 
+* TOC 
 {:toc}
-
 
 
 ### Numerical methods
