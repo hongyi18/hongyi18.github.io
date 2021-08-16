@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-**My publications:** [Inspire](https://inspirehep.net/authors/1790638?ui-citation-summary=true)
+My publications: [Inspire](https://inspirehep.net/authors/1790638?ui-citation-summary=true)
 
-**My research note**
+My research note
 
 - [Foundations of cosmology](research/cosmology.md)
 - [Numerics](research/numerics.md)
