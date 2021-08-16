@@ -49,7 +49,7 @@ Numerical relativity
 
 ### Data visualization
 
-- Python [matplotlib](https://matplotlib.org/gallery/index.html). (1) Nicolas P. Rougier, github [matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet). (2) To customize the plot style (figure size, fonts etc.), just write a “style” file saving in path like “C:\(user name)\.matplotlib\stylelib\” (on Windows). See [customizing matplotlib](https://matplotlib.org/2.0.1/users/customizing.html) and [changes to the default style](https://matplotlib.org/3.1.1/users/dflt_style_changes.html) for detailed description. Download my style file [example](research/mystyle.mplstyle).
+- Python [matplotlib](https://matplotlib.org/gallery/index.html). (1) Nicolas P. Rougier, github [matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet). (2) To customize the plot style (figure size, fonts etc.), just write a “style” file saving in path like “C:\(user name)\.matplotlib\stylelib\” (on Windows). See [customizing matplotlib](https://matplotlib.org/2.0.1/users/customizing.html) and [changes to the default style](https://matplotlib.org/3.1.1/users/dflt_style_changes.html) for detailed description. Download my style file [example](mystyle.mplstyle).
 - Mathematica plot.(1) Choose [appropriate plots](https://reference.wolfram.com/language/guide/DataVisualization.html). (2) Do specify [PlotTheme](https://reference.wolfram.com/language/ref/PlotTheme.html). (3) Using [MaTeX](https://github.com/szhorvat/MaTeX) to create LaTeX fonts for ticks and labels.
 - [Simple 3D Programming Using VPython](https://www.vpython.org/contents/docs/VisualIntro.html)
 - Use [ImageMagick](https://imagemagick.org/) to create .gif from images. (1) **Create .gif**, “convert -delay 50 -loop 0 image_*.png movie.gif“. Here “-delay 50” means the delay between images is 50/100 seconds, “-loop 0” cause the gif to loop over and over again, and the name of images should be in proper alphabetic order like “…, image_09, image_10, image_11, …” instead of “…, image_9, image_10, image_11”.
@@ -134,7 +134,7 @@ Install LaTeX on Windows
 
 1. Download MiKTeX on the [official website](http://www.latex-project.org/get/).
 2. Install [TeXstudio](http://texstudio.sourceforge.net/) to write Latex codes.
-3. To set dark theme on windows, download “[texstudio_dark_theme.zip](file/texstudio_dark_theme.zip)“.
+3. To set dark theme on windows, download “[texstudio_dark_theme.zip](texstudio_dark_theme.zip)“.
 
 Install LaTeX on Ubuntu
 
