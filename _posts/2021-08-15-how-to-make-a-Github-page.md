@@ -105,13 +105,13 @@ git pull origin BRANCH
 
 ### Custom your websites
 
-To make your own webpage, modify "_config.yml" especially the "title" and "description" fields. You can also custom your own page style by modifying the template settings. As an example, here I will describe how to custom the [minima](https://github.com/jekyll/minima) theme.
+To make it your own webpage, modify "_config.yml" especially the "title" and "description" fields. You can also custom your own page style by modifying the template settings. As an example, here I will describe how to custom the [minima](https://github.com/jekyll/minima) theme.
 
-##### Custom the home page
+#### Custom the home page
 
 The default home page "index.md" includes the table of contents of posts, and this usually is not a formal choice for a personal website. To avoid it, in the "_layouts" folder, copy the "page.html" and rename it to "home_page.html". Through this way one can create a new class of page, which can be used as a home page. Then in the front matter of "index.md", you just need to replace the layout "home" by the new class "home_page".
 
-##### Custom the header
+#### Custom the header
 
 Modify "_config.yml", for example
 
@@ -125,11 +125,11 @@ header_pages:
   - music.md
 ```
 
-##### Custom the footer
+#### Custom the footer
 
 Modify the "footer.html" in the folder "_includes".
 
-##### Change the content width and line spacing of head titles
+#### Change the content width and line spacing of head titles
 
 Go to "_sass">"minima">"custom-variables.scss". Add any settings to override the default ones in "initialize.scss". To increase the content width on the webpage, add
 
@@ -158,4 +158,4 @@ h4, h5, h6 { margin-top: $spacing-unit / 4 } # The default values is "$spacing-u
 
 ### Read the documentation
 
-When I first made a Github page, the documentation was confusing to me and I have spent a few days to figure it out. Although my introduction here is different from the documentation, I think it should be clearer and easier to follow. For advanced customization and details of the specs, however, one should still refer to the documentation of [Jekyll](https://jekyllrb.com/docs/) and [Github page](https://docs.github.com/en/pages), and the "README.md" of the site theme.
+When I first made a Github page, the documentation was confusing to me and I have spent days to figure it out. Although my introduction here is different from the documentation, I think it should be clearer and easier to follow. For advanced customization and details of the specs, however, one should still refer to the documentation of [Jekyll](https://jekyllrb.com/docs/) and [Github page](https://docs.github.com/en/pages), and the "README.md" of the site theme.
