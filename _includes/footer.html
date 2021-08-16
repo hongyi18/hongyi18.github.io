@@ -19,9 +19,8 @@
       </div>
 
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
 	{%- if site.modified_date %}
-	  <p>{{ site.modified_date | escape }}</p>
+	  <p>{{ Last updated on: site.modified_date | escape }}</p>
         {%- endif %}
       </div>
     </div>
