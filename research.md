@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
-
 **My publications:** [Inspire](https://inspirehep.net/authors/1790638?ui-citation-summary=true)
 
 **My research note**

@@ -7,10 +7,7 @@
 #
 layout: home_page
 title: About me
-permalink: /
 ---
-
-
 
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Here is my [CV](CV.pdf).
 
