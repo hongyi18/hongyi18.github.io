@@ -9,11 +9,11 @@ permalink: /research/numerics/linux
 
 About softwares
 
-- sudo apt-get upgrade (update the whole apt-get library)
-- sudo apt install build-essential (install basic functions and dependencies)
-- sudo apt install xxx (install the software of xxx)
-- sudo apt install -f (fix the last installation)
-- sudo apt upgrade xxx (upgrade the software of xxx)
+- `sudo apt-get upgrade` (update the whole apt-get library)
+- `sudo apt install build-essential` (install basic functions and dependencies)
+- `sudo apt install xxx` (install the software of xxx)
+- `sudo apt install -f` (fix the last installation)
+- `sudo apt upgrade xxx` (upgrade the software of xxx)
 
 
 
@@ -23,30 +23,30 @@ About softwares
 
 Log in and copy files
 
-- ssh username@nots.rice.edu
-- scp local_file.zip username@nots.rice.edu:
-- (1) sftp username@nots.rice.edu (2) put local_file.zip (3) get remote_file.zip (4) put -r local_directory (5) get -r remote_directory
+- `ssh username@nots.rice.edu`
+- `scp local_file.zip username@nots.rice.edu:`
+- (1) `sftp username@nots.rice.edu` (2) `put local_file.zip` (3) `get remote_file.zip` (4) `put -r local_directory` (5) `get -r remote_directory`.
 
 Check and load modules
 
-- module list (current loaded modules in my environment)
-- module spider GCC (available modules related to GCC)
-- module load GCC/9.3.0 OpenMPI/4.0.3 FFTW/3.3.8 (load related modules, e.g. GCC, OpenMPI and FFTW)
-- module save (save the current environment)
+- `module list` (current loaded modules in my environment)
+- `module spider GCC` (available modules related to GCC)
+- `module load GCC/9.3.0 OpenMPI/4.0.3 FFTW/3.3.8` (load related modules, e.g. GCC, OpenMPI and FFTW)
+- `module save` (save the current environment)
 
 Submit and monitoring jobs
 
 - Write a slurm file, i.e. an example of [my slurm](myslurm).
-- sbatch myslurm (submit the job)
-- watch squeue -u username (check the job status)
+- `sbatch myslurm` (submit the job)
+- `watch squeue -u username` (check the job status)
 
 How to run graphical applications, e.g. Mathematica?
 
 1. Download and run [Xming](https://sourceforge.net/projects/xming/files/Xming/6.9.0.31/Xming-6-9-0-31-setup.exe/download).
-2. To connect the current bash terminal to X11 server, type "export DISPLAY=localhost:0.0".
-3. Connect the cluster through "ssh -X username@nots.rice.edu".
-4. Type "xterm" to see if there is a window opened. If yes, then it works!
-5. In order to run Mathematica, we need to reserve a compute node, say "scavenge", by using "srun --pty --x11 --export=ALL --partition scavenge --nodes=1 --ntasks-per-node=1 --cpus-per-task=20 --mem-per-cpu=1500M --time=00:40:00 $SHELL". Here "--export==ALL" means exporting the same environment to the compute note.
+2. To connect the current bash terminal to X11 server, type `export DISPLAY=localhost:0.0`.
+3. Connect the cluster through `ssh -X username@nots.rice.edu`.
+4. Type `xterm` to see if there is a window opened. If yes, then it works!
+5. In order to run Mathematica, we need to reserve a compute node, say "scavenge", by using `srun --pty --x11 --export=ALL --partition scavenge --nodes=1 --ntasks-per-node=1 --cpus-per-task=20 --mem-per-cpu=1500M --time=00:40:00 $SHELL`. Here `--export==ALL` means exporting the same environment to the compute note.
 6. See the [reference](https://kb.rice.edu/page.php?id=108433).
 
 Data and quotas
