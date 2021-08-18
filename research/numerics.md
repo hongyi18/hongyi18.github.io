@@ -37,7 +37,7 @@ Numerical relativity
 - [Leonid Shifrin, *Mathematica®* programming: an advanced introduction](http://www.mathprogramming-intro.org/)
 - [10 Tips for Writing Fast *Mathematica* Code](https://blog.wolfram.com/2011/12/07/10-tips-for-writing-fast-mathematica-code/) (Very helpful tips).
 - [How do I accelerate NIntegrate evaluations?](http://support.wolfram.com/kb/12485) (Very helpful tips).
-- [Examples for random walk](research/random_walk.nb)
+- [Examples for random walk](random_walk.nb)
 
 #### C/C++ and Fortran
 
