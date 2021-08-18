@@ -5,8 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home2
-title: About me
+layout: home
 ---
 
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Here is my [CV](CV.pdf).
