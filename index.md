@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: About me
+
 ---
 
 I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). Here is my [CV](CV.pdf).
