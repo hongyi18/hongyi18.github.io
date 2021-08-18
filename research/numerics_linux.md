@@ -51,8 +51,10 @@ How to run graphical applications, e.g. Mathematica?
 
 Data and quotas
 
-- $Home: The home directory is where your sessions begin by default. Its intended use is for storing scripts, notes, final products (e.g. figures), etc. Home storage is backed up daily, so you may restore files by contacting the cluster managers. This directory should not be used for running jobs on the cluster.
-- $PROJECTS: Project storage is intended for storing datasets and other files that are accessible by all members of the PI group. This directory should not be used for running jobs on the cluster.
-- $WORK: This is the storage location for running jobs.
-- $SHARED_SCRATCH: This directory is usually intended for reading or writing data required by jobs (job I/O) running on the cluster. It may also be used as a temporary location to hold files if you are over quota. Best practice dictates creating directory for yourself and working with files from inside of said directory.
-- $TMPDIR: ???
+- \$Home: The home directory is where your sessions begin by default. Its intended use is for personal storage of data and files. Since it's not designed for I/O, jobs should not be submitted from here.
+- \$PROJECTS: The project storage is intended for storing datasets, files and software that are accessible by all members of the PI group.
+- \$WORK: This directory is similar to \$PROJECT, but only accessible to compute nodes. Hence jobs should not be submitted from here.
+- \$SHARED_SCRATCH: This is intended for reading and writing data (job I/O) on the cluster. It may also be used as a temporary location to hold files if you are over quota. To use it, you should create a directory for yourself and work with files from inside of said directory. Files here will be purged regularly, so always copy your data to other directories.
+- \$TMPDIR: This is similar to \$SHARED_SCRATCH, but is designed for compute nodes. Data and files here will be purged at the end of each job.
+- In short, submit jobs from and output data to \$SHARED_SCRATCH or \$PROJECT, then copy data to \$HOME, \$PROJECT or \$WORK at the end of each job. 
+- NOTE: The physical paths for the above file systems are subject to change. You should always access the filesystems using environment variables, especially in job scripts.
