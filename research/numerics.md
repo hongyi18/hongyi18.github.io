@@ -54,6 +54,7 @@ Numerical relativity
 - [Simple 3D Programming Using VPython](https://www.vpython.org/contents/docs/VisualIntro.html)
 - Use [ImageMagick](https://imagemagick.org/) to create .gif from images. (1) **Create .gif**, `convert -delay 50 -loop 0 image_*.png movie.gif`. Here `-delay 50` means the delay between images is 50/100 seconds, `-loop 0` cause the gif to loop over and over again, and the name of images should be in proper alphabetic order like “…, image_09, image_10, image_11, …” instead of “…, image_9, image_10, image_11”.
 - Use [FFmpeg](https://www.ffmpeg.org/) to create .flv from images. (1) **Create .flv**, `ffmpeg -i image_%04d.png -r 5 -vcodec flv movie.flv`. Here `-i` specifies the printf string that was used to make the names of the individual plot files, `-r 5` specifies the number of frames per second is 5, and `-vcodec` is the video codec for Flash, which is called `flv`.
+- Use [Mathcha](https://www.mathcha.io/) to draw Feynman diagrams.
 
 
 
