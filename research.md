@@ -28,4 +28,4 @@ Dark photon.
 
 Pictures are listed in reversed chronological order. To zoom in the picture, just right click and open it in a new tab.
 
-| <img src="NREFT.png" alt="Photo" width="500"> | <img src="gravitational_effects.png" alt="Photo" width="500"> | <img src="decay_rates.png" alt="Photo" width="500"> |
+| <img title="" src="research/NREFT.png" alt="Photo" width="500"> | <img title="" src="research/gravitational_effects.png" alt="Photo" width="500"> | <img title="" src="research/decay_rates.png" alt="Photo" width="500"> |
