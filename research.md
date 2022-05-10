@@ -30,7 +30,7 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
     <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%">
   </p>
   <center>
-    <figcaption style="width:70%"> <em>Dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. </em>  
+    <figcaption style="width:70%"> <em>Polarized dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. The directional configurations (left) are composed of spin-0 particles and the spinning configurations (right) are spin-1 particles. </em>
     </figcaption>
   </center>
 </figure>
