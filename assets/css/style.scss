@@ -5,3 +5,6 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+figure { display: table; }
+figcaption { display: table-caption; caption-side: bottom ; }
