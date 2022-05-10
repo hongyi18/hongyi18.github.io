@@ -24,10 +24,9 @@ Axions are well-motivated particles to solve the strong CP problem, while the st
 
 Massive dark photons are also one of the best motivated dark matter candidate. It can be produced purely by gravity after inflation, and it may also steal energy from axions and become the dominant form of dark matter. Due to the more internal degrees of freedom compared with scalars, massive dark photons generally have more interesting phenomenological consequences, e.g. polarized vector solitons, although it is often challenging to construct a consistent interacting vector theory. These are two sides of the same coin.
 
-<figure class="image">
-  <p align="center" width="100%">
-    <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> 
-    <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%"> </p>
+<figure class="image" align="center" width="100%">
+  <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> 
+  <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%">
   <figcaption width="60%"> Dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. </figcaption>
 </figure>
 
