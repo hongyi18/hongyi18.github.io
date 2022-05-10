@@ -29,7 +29,7 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
   <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%">
 </p>
 <p align = "center">
-  Vector solitons. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density.
+  Dark photon solitons (stars). Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density.
 </p>
 
 ### One-page summary of some of my publications
