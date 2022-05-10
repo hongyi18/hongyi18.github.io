@@ -32,7 +32,6 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
   <center> 
     <figcaption style="width:70%"> <em>Dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. </em>  
     </figcaption>
-  </center>
 </figure>
 
 ### One-page summary of some of my publications
