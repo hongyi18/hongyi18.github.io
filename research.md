@@ -28,7 +28,7 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
 <p align="center" width="100%">
   <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> 
   <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%"> </p>
-  <figcaption> Dark photon solitons (stars). Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. </figcaption>
+  <figcaption width="60%"> Dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. </figcaption>
 </figure>
 
 ### One-page summary of some of my publications
@@ -36,7 +36,7 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
 Pictures are listed in reversed chronological order. To zoom in the picture, just right click and open it in a new tab.
 
 <p align="center" width="100%">
-  <img title="" src="NREFT.png" alt="Picture" width="100%">
-  <img title="" src="gravitational_effects.png" alt="Picture" width="100%">
-  <img title="" src="decay_rates.png" alt="Picture" width="100%">
+  <img title="" src="NREFT.png" alt="Picture" width="30%">
+  <img title="" src="gravitational_effects.png" alt="Picture" width="30%">
+  <img title="" src="decay_rates.png" alt="Picture" width="30%">
 </p>
