@@ -26,7 +26,7 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
 
 <figure>
   <p align="center" width="100%">
-    <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%">
+    <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> &nbsp; &nbsp; &nbsp; &nbsp;
     <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%">
   </p>
   <center>
