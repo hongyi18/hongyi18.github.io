@@ -7,8 +7,6 @@ author:
 
 A nice personal webpage is a great way to let other people know about you, and Github page is obviously one of the best choice. However, reading the [documentation](https://docs.github.com/en/pages) can sometimes be confusing. So in this article, I will introduce the basics about making a Github page. Without further ado, let's get started!
 
-
-
 ### Install Jekyll
 
 Jekyll is a static site generator with built-in support for GitHub Pages and a simplified build process. Before you can use Jekyll to create a GitHub Pages site, you must [install Jekyll](https://jekyllrb.com/docs/installation/) and [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git). As an example, you can use following commands to install Jekyll in Win 10 by using the Ubuntu subsystem:
@@ -17,9 +15,9 @@ Jekyll is a static site generator with built-in support for GitHub Pages and a s
 sudo apt-get update -y && sudo apt-get upgrade -y
 sudo apt-add-repository ppa:brightbox/ruby-ng
 sudo apt-get update
-sudo apt-get install ruby2.5 ruby2.5-dev build-essential dh-autoreconf
-gem update
-gem install jekyll bundler
+sudo apt-get install ruby2.7 ruby2.7-dev build-essential dh-autoreconf
+sudo gem update
+sudo gem install jekyll bundler
 ```
 
 Check the Jekyll version to see whether it's successfully installed.
@@ -36,15 +34,11 @@ sudo apt-get install git
 
 set [your username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [commit email](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address) address in Git.
 
-
-
 ### Create a repository for your site
 
 Now you can head over to GitHub and [create a new public repository](https://github.com/new) named *username*.github.io, where *username* is your username (or organization name) on GitHub.
 
 Find the default branch name in your repository, which locates in "Settings" > "Branches". In my case it's called "master".
-
-
 
 ### Create your site
 
@@ -57,7 +51,7 @@ cd PARENT-FOLDER
 Then initialize your repository as a local Git repository, replacing *REPOSITORY-NAME* with the name of your repository.
 
 ```bash
-git init REPOSITORY-NAME # Creates a new folder on your computer, initialized as a Git repository
+git init REPOSITORY-NAME # Creates a new folder on your computer, initialized as a Git repository; Or reinitialize an existing one
 cd REPOSITORY-NAME # Changes the working directory
 ```
 
@@ -83,8 +77,6 @@ git push -u origin BRANCH
 
 During the process you will be required to type your username and personal access token ([the account password was no longer accepted when authenticating Git operations since Aug 13, 2021](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)). Waiting for a few seconds, you can check your website "https//username.github.io/" online!
 
-
-
 ### Update the website and local files
 
 You don't have to repeat all steps above when making any changes of the local files of the website. Instead, simply execute the following commands in order
@@ -100,8 +92,6 @@ Sometimes you modify the files online on Github repository and you need to pull 
 ```bash
 git pull origin BRANCH
 ```
-
-
 
 ### Custom your websites
 
@@ -154,13 +144,9 @@ h1, h2, h3 { margin-top: $spacing-unit / 2 } # The default values is "$spacing-u
 h4, h5, h6 { margin-top: $spacing-unit / 4 } # The default values is "$spacing-unit /2".
 ```
 
-
-
 ### Add plugins
 
 Adding plugins can make your website more powerful and easier to be indexed by Google. There are [several useful plugins](https://jekyllrb.com/docs/step-by-step/10-deployment/#plugins) on almost any Jekyll site: jekyll-sitemap (Create a sitemap file to help search engines index content) and jekyll-seo-tag (Adds meta tags to help with SEO). For the "minima" theme, these plugins are installed by default.
-
-
 
 ### Read the documentation
 
