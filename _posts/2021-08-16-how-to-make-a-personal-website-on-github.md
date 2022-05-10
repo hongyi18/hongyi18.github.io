@@ -87,6 +87,12 @@ git commit -m "Comments and notations"
 git push -u origin BRANCH
 ```
 
+or directly
+
+```bash
+git add --all && git commit -m "Comments and notations" && git push -u origin BRANCH
+```
+
 You may be asked for username and personal token every time you "git push". To store them, run
 
 ```bash
@@ -98,6 +104,16 @@ Sometimes you modify the files online on Github repository and you need to pull 
 ```bash
 git pull origin BRANCH
 ```
+
+
+
+It is usually convenient to test your sites locally before submitting any changes online. To do this, simply run
+
+```bash
+bundle exec jekyll serve
+```
+
+and navigate your web browser to [http://localhost:4000](http://localhost:4000).
 
 ### Custom your websites
 
