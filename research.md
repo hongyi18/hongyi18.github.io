@@ -22,7 +22,7 @@ Axions are well-motivated particles to solve the strong CP problem, while the st
 
 ### Dark photon dark matter
 
-Massive dark photons are also one of the best motivated dark matter candidate. It can be produced purely by gravity after inflation, and it may also steal energy from axions and become the dominant form of dark matter. Due to the more internal degrees of freedom compared with axions, tmassive dark photons have more interesting phenomenological consequences, e.g. vector solitons.
+Massive dark photons are also one of the best motivated dark matter candidate. It can be produced purely by gravity after inflation, and it may also steal energy from axions and become the dominant form of dark matter. Due to the more internal degrees of freedom compared with axions, massive dark photons generally have more interesting phenomenological consequences, e.g. vector solitons.
 
 <p align="left" width="100%">
   <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%">
