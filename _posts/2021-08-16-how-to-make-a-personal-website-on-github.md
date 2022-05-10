@@ -87,6 +87,12 @@ git commit -m "Comments and notations"
 git push -u origin BRANCH
 ```
 
+You may be asked for username and personal token every time you "git push". To store them, run
+
+```bash
+git config --global credential.helper store
+```
+
 Sometimes you modify the files online on Github repository and you need to pull changes from it for keeping local files up to date, in this case simply execute
 
 ```bash
