@@ -9,7 +9,7 @@ A nice personal webpage is a great way to let other people know about you, and G
 
 ### Install Jekyll
 
-Jekyll is a static site generator with built-in support for GitHub Pages and a simplified build process. Before you can use Jekyll to create a GitHub Pages site, you must [install Jekyll](https://jekyllrb.com/docs/installation/) and [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git). As an example, you can use following commands to install Jekyll in Win 10 by using the Ubuntu subsystem:
+Jekyll is a static site generator with built-in support for GitHub Pages and a simplified build process. Before you can use Jekyll to create a GitHub Pages site, you must [install Jekyll](https://jekyllrb.com/docs/installation/) and [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git). As an example, you can use following commands to install Jekyll in Windows by using the Ubuntu subsystem (which can be installed by "wsl --install" in Windows PowerShell):
 
 ```bash
 sudo apt-get update -y && sudo apt-get upgrade -y
