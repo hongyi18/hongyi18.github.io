@@ -87,12 +87,6 @@ git commit -m "Comments and notations"
 git push -u origin BRANCH
 ```
 
-or directly
-
-```bash
-git add --all && git commit -m "Comments and notations" && git push -u origin BRANCH
-```
-
 You may be asked for username and personal token every time you "git push". To store them, run
 
 ```bash
