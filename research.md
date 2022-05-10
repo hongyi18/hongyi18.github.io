@@ -22,12 +22,12 @@ Axions are well-motivated particles to solve the strong CP problem, while the st
 
 ### Dark photon dark matter
 
-Massive dark photons are also one of the best motivated dark matter candidate. It can be produced purely by gravity after inflation, and it may also steal energy from axions and become the dominant form of dark matter. Due to the more internal degrees of freedom compared with axions, massive dark photons generally have more interesting phenomenological consequences, e.g. vector solitons.
+Massive dark photons are also one of the best motivated dark matter candidate. It can be produced purely by gravity after inflation, and it may also steal energy from axions and become the dominant form of dark matter. Due to the more internal degrees of freedom compared with scalars, massive dark photons generally have more interesting phenomenological consequences, e.g. polarized vector solitons, although it is often challenging to construct a consistent interacting vector theory. These are two sides of the same coin.
 
-<figure>
-<p align="center" width="100%">
-  <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> 
-  <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%"> </p>
+<figure class="image">
+  <p align="center" width="100%">
+    <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> 
+    <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%"> </p>
   <figcaption width="60%"> Dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. </figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
 Pictures are listed in reversed chronological order. To zoom in the picture, just right click and open it in a new tab.
 
 <p align="center" width="100%">
-  <img title="" src="NREFT.png" alt="Picture" width="30%">
-  <img title="" src="gravitational_effects.png" alt="Picture" width="30%">
-  <img title="" src="decay_rates.png" alt="Picture" width="30%">
+  <img title="Beyond Schroedinger-Poisson: Nonrelativistic EFT for scalar dark matter" src="NREFT.png" alt="Picture" width="30%">
+  <img title="Gravitational effects on oscillon lifetimes" src="gravitational_effects.png" alt="Picture" width="30%">
+  <img title="Classical decay rates of oscillons" src="decay_rates.png" alt="Picture" width="30%">
 </p>
