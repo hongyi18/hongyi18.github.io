@@ -36,4 +36,5 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
 
 Pictures are listed in reversed chronological order. To zoom in the picture, just right click and open it in a new tab.
 
+|-----|-----|-----|
 | <img title="" src="NREFT.png" alt="Picture" width="100%"> | <img title="" src="gravitational_effects.png" alt="Picture" width="100%"> | <img title="" src="decay_rates.png" alt="Picture" width="100%"> |
