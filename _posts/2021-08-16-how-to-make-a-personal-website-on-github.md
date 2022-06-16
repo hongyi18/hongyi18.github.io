@@ -99,8 +99,6 @@ Sometimes you modify the files online on Github repository and you need to pull 
 git pull origin BRANCH
 ```
 
-
-
 It is usually convenient to test your sites locally before submitting any changes online. To do this, simply run
 
 ```bash
@@ -159,6 +157,25 @@ However, smaller "spacing-unit" also push the margins and makes the display in c
 h1, h2, h3 { margin-top: $spacing-unit / 2 } # The default values is "$spacing-unit".
 h4, h5, h6 { margin-top: $spacing-unit / 4 } # The default values is "$spacing-unit /2".
 ```
+
+### Write LaTeX equations
+
+To support inline LaTeX equations in markdown files, we can use MathJax. First add "markdown: kramdown" in "_config.yml". Then add
+
+```bash
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
+
+```
+
+in the file "_includes/head.html". Now the website will support inline math. Try `$e^{i\theta} = \cos\theta + i\sin\theta$`, which should be displayed as $e^{i\theta} = \cos\theta + i\sin\theta$.
 
 ### Add plugins
 
