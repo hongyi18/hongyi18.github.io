@@ -18,7 +18,7 @@ With my convention,
 
 - "$a\sim b$" means that $a$ and $b$ are equal within an order of magnitude, i.e. a factor of $10$, while I will try to minimize the error within a factor of $3$. For example, both $4\times 10^3 \mathrm{m} \sim 10^3\mathrm{m}$ and $4\times 10^3 \mathrm{m} \sim 10^4\mathrm{m}$ are correct, but I prefer the latter. Also note that if I write something like $a\sim b\sim c\sim d$, I mean that all $a,b,c,d$ are equal within an order of magnitude -- the error should not be amplified.
 
-- "$a\simeq b$" means that $a$ and $b$ are equal up to a factor of $\frac{10}{3}$. 
+- "$a\simeq b$" means that $a$ and $b$ are equal up to a factor of $\sqrt{10}\approx 3.16$. 
 
 - "$a\propto b$" means that $a$ is proportional to $b$, while the value of them may differ a lot or even do not have the same dimension. For example, time=distance/speed, we may write $t\propto s$.
 
@@ -74,7 +74,7 @@ With my convention,
 
 ### US units
 
-The units in US may be a little bit confusing. 
+The units in US are a little bit confusing (at least for me for a long time).
 
 - Length:
   
