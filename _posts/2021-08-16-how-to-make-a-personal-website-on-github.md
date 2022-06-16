@@ -174,7 +174,7 @@ To support inline LaTeX equations in markdown files, we can use MathJax. First a
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
 ```
 
-in the file "_includes/head.html". Now the website will support inline math. Try `\$e^{i\theta} = \cos\theta + i\sin\theta\$`, which should be displayed as $e^{i\theta} = \cos\theta + i\sin\theta$.
+in the file "_includes/head.html". Now the website will support inline math. Try `\$e^{i\theta} = \cos\theta + i\sin\theta\$`, which should be displayed as $e^{i\theta} = \cos\theta + i\sin\theta$. See [this webpage](https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages) for reference.
 
 ### Add plugins
 
