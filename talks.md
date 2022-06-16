@@ -4,6 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
+- 2022.06, A singularity problem for interacting massive vectors, TASI lectures @ CU Boulder.
 - 2022.04, Dark photon substructure and formation of vector solitons, AU seminar @ Rice University.
 - 2021.10, Polarized vector oscillons, AU seminar @ Rice University.
 - 2021.08, [Gravitational effects on oscillon lifetimes](https://drive.google.com/file/d/10U6Iske9a9-RcgLvF0osb1jhMUGdBGYC/view), COSMO'21 @ UIUC.
