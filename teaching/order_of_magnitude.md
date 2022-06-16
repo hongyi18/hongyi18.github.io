@@ -10,7 +10,7 @@ Check [a conversion table](unit_conversion.pdf) for natural units (please let me
 
 ### Order of magnitude physics
 
-Can you imagine that many hard questions can actually be answered with a few sketches? Do you know that many of your “useless" knowledge can actually help solve big puzzles? In my view, order of magnitude physics should be a fundamental course for every physics student. With a few principles, you can miraculously understand within a few minutes those truths that took many great scientists countless efforts to figure out. Read [Guesstimation](https://press.princeton.edu/books/paperback/9780691129495/guesstimation) and [Guesstimation 2.0](https://press.princeton.edu/books/paperback/9780691150802/guesstimation-20) to get a taste of this fantastic subject, and check [Order-of-Magnitude Physics](http://www.inference.org.uk/sanjoy/oom/book-letter.pdf) for a comprehensive tutorial.
+Can you imagine that many hard questions can actually be answered with a few sketches? Do you know that many of your “useless" knowledge can actually help solve big puzzles? In my view, order of magnitude physics should be served as a fundamental course for every physics student. With a few principles, one can miraculously understand within a few minutes those truths that took many great scientists countless efforts to figure out. Read [Guesstimation](https://press.princeton.edu/books/paperback/9780691129495/guesstimation) and [Guesstimation 2.0](https://press.princeton.edu/books/paperback/9780691150802/guesstimation-20) to get a taste of this fantastic subject, and check [Order-of-Magnitude Physics](http://www.inference.org.uk/sanjoy/oom/book-letter.pdf) for a comprehensive tutorial.
 
 With my convention, 
 

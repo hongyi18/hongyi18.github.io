@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### My study notes
+### My notes
 
 - [Constants and order of magnitude physics](teaching/order_of_magnitude.md)
 
