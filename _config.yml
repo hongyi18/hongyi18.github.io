@@ -64,6 +64,7 @@ minima:
 
 # Build settings
 theme: minima
+markdown: kramdown
 
 url: "https://hongyi18.github.io"
 plugins:
