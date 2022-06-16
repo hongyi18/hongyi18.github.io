@@ -4,6 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### My study notes
+
+- [Constants and order of magnitude physics](teaching/order_of_magnitude.md)
+
+### Teaching experiences
+
 - 2021.01-2021.05, TA for “Galaxies and cosmology”. Lecturer: Mustafa Amin.
 - 2020.08-2020.12, TA for “Statistical and thermal physics”. Lecturer: Randy Hulet.
 - 2020.01-2020.05, TA for “Computational physics”. Lecturer: Frank Toffoletto.
