@@ -10,7 +10,6 @@ My research note
 
 - [Foundations of cosmology](research/cosmology.md)
 - [Numerics](research/numerics.md)
-- [How to make a personal website on Github?](https://hongyi18.github.io/2021/08/16/how-to-make-a-personal-website-on-github.html)
 
 ### Dynamics of non-topological solitons
 
@@ -26,7 +25,7 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
 
 <figure>
   <p align="center" width="100%">
-    <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%">        
     <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%">
   </p>
   <center>

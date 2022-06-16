@@ -7,6 +7,7 @@ permalink: /teaching/
 ### My notes
 
 - [Constants and order of magnitude physics](teaching/order_of_magnitude.md)
+- [How to make a personal website on Github?](https://hongyi18.github.io/2021/08/16/how-to-make-a-personal-website-on-github.html)
 
 ### Teaching experiences
 
