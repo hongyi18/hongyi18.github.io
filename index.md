@@ -12,13 +12,12 @@ I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). He
 
 <img src="photo.png" alt="Photo" width="200" />
 
-
-
 ### Research interests
 
-- Dynamics of nontopological solitons.
+- Dynamics of solitons.
 - Dark matter and dark energy.
 - Theory of early universe, e.g. inflation and reheating.
+- Effective field theory.
 - Nonlinear dynamics and chaos.
 
 ### Contact
@@ -31,8 +30,10 @@ I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). He
 
 - 2018.08-Present, PhD, [Department of Physics & Astronomy, Rice University](https://physics.rice.edu/). Advisor: [Mustafa A. Amin](http://mustafa-amin.com/).
 
-- 2017.08-2017.10, Summer Undergraduate Research Fellowship, The Hong Kong University of Science and Technology. Research advisor: [Yi Wang](http://phyw.people.ust.hk/).
+- 2022.06-2022.07, TASI Lectures, University of Colorado Boulder.
 
-- 2016.07, Summer Undergraduate Research Fellowship, The Institute of High Energy Physics of the Chinese Academy of Sciences. Research advisor: [Xiao-Jun Bi](https://inspirehep.net/authors/1016423?ui-citation-summary=true).
+- 2017.08-2017.10, Undergraduate Research, The Hong Kong University of Science and Technology. Research advisor: [Yi Wang](http://phyw.people.ust.hk/).
+
+- 2016.07, Undergraduate Research, The Institute of High Energy Physics of the Chinese Academy of Sciences. Research advisor: [Xiao-Jun Bi](https://inspirehep.net/authors/1016423?ui-citation-summary=true).
 
 - 2014.09-2018.06, BS, [School of Physics, Nanjing University](https://physics.nju.edu.cn/). Thesis advisor: [Yeuk-Kwan Edna Cheung](https://physics.nju.edu.cn//ry/qymc/jxky/20190904/i18681.html).
