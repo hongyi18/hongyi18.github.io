@@ -27,12 +27,17 @@ Massive dark photons are also one of the best motivated dark matter candidate. I
   <p align="center" width="100%">
     <img title="Directional vector solitons" src="vec_osc_directional.gif" alt="Picture" width="30%">        
     <img title="Spinning vector solitons" src="vec_osc_spinning.gif" alt="Picture" width="30%">
+    <img title="Hedgehog vector solitons" src="vec_osc_hedgehog.gif" alt="Picture" width="30%">
   </p>
   <center>
-    <figcaption style="width:70%"> <em>Polarized dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. In the non-relativistic limit, the directional configurations (left) are composed solely of spin-0 particles and the spinning configurations (right) are solely of spin-1 particles. </em>
+    <figcaption style="width:100%"> <em>Polarized (left two) and hedgehog (right) dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. In the non-relativistic limit, the directional (left) and hedgehog (right) configurations are composed solely of spin-0 particles and the spinning configurations (middle) are solely of spin-1 particles. </em>
     </figcaption>
   </center>
 </figure>
+
+### Effective field theory
+
+In many situations we do not need to resort to the full theory, which is usually complicated to solve. For example, dark matter is non-relativistic and can usually be described by the Schroedinger-Poisson equations. There may be two ways to write an effective field theory, with or without a fundamental theory. I am interested in exploring the consistency and applications of this powerful technique.
 
 ### One-page summary of some of my publications
 
