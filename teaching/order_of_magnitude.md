@@ -42,31 +42,21 @@ With my convention,
   
   - $R_\odot/c \simeq 100~R_\oplus/c \simeq 2 ~\mathrm{s}$
   
-  - $R_\mathrm{s,\odot} = \frac{2GM_\odot}{c^2} \simeq 3 ~\mathrm{km}$
+  - $R_\mathrm{s,\odot} = \frac{2GM_\odot}{c^2} \simeq 3 ~\mathrm{km}$; $R_\mathrm{s,\oplus} = \frac{2GM_\oplus}{c^2} \simeq 1 ~\mathrm{cm}$.
   
-  - $R_\mathrm{s,\oplus} = \frac{2GM_\oplus}{c^2} \simeq 1 ~\mathrm{cm}$
-  
-  - Distance between the sun and the earth is $\simeq$ 8 light minutes.
-  
-  - Distance between the earth and the moon is $\simeq$ 1 light second.
+  - Distance between the sun and the earth is $\simeq$ 8 light minutes; distance between the earth and the moon is $\simeq$ 1 light second.
 
 ### Astrophysical scales
 
 - The Milky Way galaxy:
   
-  - $M_\mathrm{Milky Way}\sim 10^{12}M_\odot$
+  - $M_\mathrm{Milky Way}\sim 10^{12}M_\odot$; $N_\mathrm{stars}\sim 10^{11}$
   
-  - $N_\mathrm{stars}\sim 10^{11}$
-  
-  - Distance between the sun and galaxy center $r_\odot \sim 8~\mathrm{kpc}$
-  
-  - NFW profile scale radius $r_s\sim 20 ~\mathrm{kpc}$
+  - Distance between the sun and galaxy center $r_\odot \sim 8~\mathrm{kpc}$; NFW profile scale radius $r_s\sim 20 ~\mathrm{kpc}$.
 
 - Black holes:
   
-  - $M_\mathrm{M87}\sim 10^9 M_\odot$
-  
-  - $M_\mathrm{MilkyWay}\sim 10^6M_\odot$
+  - $M_\mathrm{M87}\sim 10^9 M_\odot$; $M_\mathrm{MilkyWay}\sim 10^6M_\odot$.
 
 ### Dark matter
 
@@ -76,32 +66,10 @@ With my convention,
 
 The units in US are a little bit confusing (at least for me for a long time).
 
-- Length:
-  
-  - $1~\mathrm{mile}\approx 1.6~\mathrm{km}$
-  
-  - $1~\mathrm{feet} \approx 0.3~\mathrm{m}$
-  
-  - $1~\mathrm{inch} = 2.54~\mathrm{cm}$
+- Length: $1~\mathrm{mile}\approx 1.6~\mathrm{km}$; $1~\mathrm{feet} \approx 0.3~\mathrm{m}$; $1~\mathrm{inch} = 2.54~\mathrm{cm}$.
 
-- Volume:
-  
-  - $1~\mathrm{gal} \approx 3.8~\mathrm{L}$
-  
-  - $1~\mathrm{fl~oz} \approx 30~\mathrm{ml}$
+- Volume: $1~\mathrm{gal} \approx 3.8~\mathrm{L}$; $1~\mathrm{fl~oz} \approx 30~\mathrm{ml}$.
 
-- Weight:
-  
-  - $1~\mathrm{lb} \approx 0.45~\mathrm{kg}$
-  
-  - $1~\mathrm{oz}\approx 28~\mathrm{g}$
+- Weight: $1~\mathrm{lb} \approx 0.45~\mathrm{kg}$; $1~\mathrm{oz}\approx 28~\mathrm{g}$.
 
-- Temperature:
-  
-  - $[\mathrm{^\circ C}] = \frac{5}{9}([\mathrm{^\circ F}]-32)$
-  
-  - $32~\mathrm{^\circ F} = 0~\mathrm{^\circ C}$
-  
-  - $77~\mathrm{^\circ F} = 25~\mathrm{^\circ C}$
-  
-  - $212~\mathrm{^\circ F} = 100~\mathrm{^\circ C}$
+- Temperature: $[\mathrm{^\circ C}] = \frac{5}{9}([\mathrm{^\circ F}]-32)$. $32~\mathrm{^\circ F} = 0~\mathrm{^\circ C}$; $77~\mathrm{^\circ F} = 25~\mathrm{^\circ C}$; $212~\mathrm{^\circ F} = 100~\mathrm{^\circ C}$.
