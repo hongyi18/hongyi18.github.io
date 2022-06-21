@@ -78,8 +78,4 @@ This article is prepared for my "squarks" talk in TASI 2022, CU Boulder, where I
     <img title="TASI logo mos2" src="tasi_logo_mos2.fig" alt="Picture" width="70%">
     <img title="TASI logo mos3" src="tasi_logo_mos3.fig" alt="Picture" width="70%">
   </p>
-  <center>
-    <figcaption style="width:100%"> <em>Polarized (left two) and hedgehog (right) dark photon oscillons/solitons/stars. Arrows stand for magnitude and direction of the spatial vector part of a Lorentz 4-vector field, and the background color represents its energy density. In the non-relativistic limit, the directional (left) and hedgehog (right) configurations are composed solely of spin-0 particles and the spinning configurations (middle) are solely of spin-1 particles. </em>
-    </figcaption>
-  </center>
 </figure>
