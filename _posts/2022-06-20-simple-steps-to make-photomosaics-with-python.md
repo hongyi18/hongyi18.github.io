@@ -3,7 +3,6 @@ layout: post
 title: "Simple steps to make photomosaics with Python"
 date: 2022-06-20
 modified_date: 2022-06-20
-categories: random
 excerpt_separator: <!--more-->
 author:
 - Hong-Yi Zhang
@@ -15,7 +14,7 @@ Fancy photographic mosaics appear everywhere, and many of them are made by profe
 
 <figure>
   <p align="center" width="100%">
-    <img title="Franz Peter Schubert" src="posts/2022-06-20/schubert.png" alt="Picture" width="30%">        
+    <img title="Franz Peter Schubert" src="posts/2022-06-20/schubert.fig" alt="Picture" width="30%">        
   </p>
   <center>
     <figcaption style="width:60%"> <em> Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</em>
