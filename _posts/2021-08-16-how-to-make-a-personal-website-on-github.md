@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "How to make a personal website on Github?"
+data: 2021-08-16
 modified_date: 2022-05-10
-categories: random
+excerpt_separator: <!--more-->
 author:
 - Hong-Yi Zhang
 ---
