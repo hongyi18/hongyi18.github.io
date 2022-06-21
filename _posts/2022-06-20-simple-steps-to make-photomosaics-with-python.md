@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Simple steps to make photomosaics with Python"
+categories: random
 author:
 - Hong-Yi Zhang
 ---

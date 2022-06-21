@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to make a personal website on Github?"
+categories: random
 author:
 - Hong-Yi Zhang
 ---
