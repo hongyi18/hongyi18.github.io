@@ -48,7 +48,7 @@ In case you don't have enough image blocks to make a pool, you can create pure-c
 pm.rainbow_of_squares('pool/')
 ```
 
-A more advanced example is given [here](mosaic.py).
+A more advanced example is given [here](posts/2022-06-20/mosaic.py).
 
 ### Some issues
 
