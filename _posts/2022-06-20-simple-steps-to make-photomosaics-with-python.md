@@ -74,7 +74,7 @@ ValueError: operands could not be broadcast together with remapped shapes [origi
 
 ### Acknowledgements
 
-This article is prepared for my "squawk" talk in [TASI 2022, CU Boulder](https://sites.google.com/colorado.edu/tasi-2022-wiki/home), where I had a great time learning frontier physics and making friends. Some of my pool pictures are from TASI activities, but there are only 195 and many of them have similar backgrounds. So I add another 1152 pictures of cats, dogs and cartoon characters from the Internet.
+This article is prepared for my "squawk" talk in [TASI 2022, CU Boulder](https://sites.google.com/colorado.edu/tasi-2022-wiki/home), where I have a great time learning frontier physics and making friends. Some of my pool pictures are from TASI activities, but there are only 195 and many of them have similar backgrounds. So I add another 1152 pictures of cats, dogs and cartoon characters from the Internet.
 
 <p align="center" width="100%">
   <img title="TASI logo" src="{{site.url}}/posts/2022-06-20/tasi_logo.jpg" alt="Picture" width="80%">
