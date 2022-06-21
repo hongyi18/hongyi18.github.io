@@ -1,11 +1,17 @@
 ---
 layout: post
 title: "Simple steps to make photomosaics with Python"
+date: 2022-06-20
+modified_date: 2022-06-20
+categories: random
+excerpt_separator: <!--more-->
 author:
 - Hong-Yi Zhang
 ---
 
 Fancy photographic mosaics appear everywhere, and many of them are made by professional softwares like Photoshop or Foto-Mosaik-Edda. However, things often become simple in Python. In this article, I will introduce the basic steps to make photomosaics. 
+
+<!--more-->
 
 <figure>
   <p align="center" width="100%">
