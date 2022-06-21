@@ -47,7 +47,7 @@ In case you don't have enough image blocks to make a pool, you can create pure-c
 pm.rainbow_of_squares('pool/')
 ```
 
-A more advanced example is given [here](posts/2022-06-20/mosaic.py).
+A more advanced example is given [here](/posts/2022-06-20/mosaic.py).
 
 ### Some issues
 
@@ -66,7 +66,7 @@ right_margin = int(np.ceil(overflow / 2))
 
 making both "left_margin" and "right_margin" intergers.
 
-Many other issues that may arise can usually be resolved by converting your images to RGB jpg format, see [img_cnv.py](img_cnv.py). These issues include, for example,
+Many other issues that may arise can usually be resolved by converting your images to RGB jpg format, see [img_cnv.py](/posts/2022-06-20/img_cnv.py). These issues include, for example,
 
 ```python
 ValueError: operands could not be broadcast together with remapped shapes [original->remapped]: (3,3)->(3,3) (720,3600,4)->(720,3600,newaxis,4)
