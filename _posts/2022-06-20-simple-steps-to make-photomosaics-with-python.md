@@ -77,11 +77,11 @@ ValueError: operands could not be broadcast together with remapped shapes [origi
 This article is prepared for my "squarks" talk in TASI 2022, CU Boulder, where I had a great time learning frontier physics and making friends. Some of my pool pictures are from TASI activities, but there are only 195 and many of them have similar backgrounds. So I add another 1152 pictures of cats, dogs and cartoon characters from the Internet.
 
 <p align="center" width="100%">
-  <img title="TASI logo" src="{{site.url}}/posts/2022-06-20/tasi_logo.jpg" alt="Picture" width="100%">
-  
-  <img title="TASI logo mos1" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos1.jpg" alt="Picture" width="100%">
-  
-  <img title="TASI logo mos2" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos2.jpg" alt="Picture" width="100%">
-  
-  <img title="TASI logo mos3" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos3.jpg" alt="Picture" width="100%">
+  <img title="TASI logo" src="{{site.url}}/posts/2022-06-20/tasi_logo.jpg" alt="Picture" width="80%">
+  <br />
+  <img title="TASI logo mos1" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos1.jpg" alt="Picture" width="80%">
+  <br />
+  <img title="TASI logo mos2" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos2.jpg" alt="Picture" width="80%">
+  <br />
+  <img title="TASI logo mos3" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos3.jpg" alt="Picture" width="80%">
 </p>
