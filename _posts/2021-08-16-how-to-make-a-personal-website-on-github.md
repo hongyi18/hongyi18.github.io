@@ -10,6 +10,8 @@ author:
 
 A nice personal webpage is a great way to let other people know about you, and Github page is obviously one of the best choice. However, reading the [documentation](https://docs.github.com/en/pages) can sometimes be confusing. So in this article, I will introduce the basics about making a Github page. Without further ado, let's get started!
 
+<!--more-->
+
 ### Install Jekyll
 
 Jekyll is a static site generator with built-in support for GitHub Pages and a simplified build process. Before you can use Jekyll to create a GitHub Pages site, you must [install Jekyll](https://jekyllrb.com/docs/installation/) and [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git). As an example, you can use following commands to install Jekyll in Windows by using the Ubuntu subsystem (which can be installed by "wsl --install" in Windows PowerShell):
