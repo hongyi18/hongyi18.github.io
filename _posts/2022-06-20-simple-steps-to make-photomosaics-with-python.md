@@ -78,10 +78,16 @@ This article is prepared for my "squarks" talk in TASI 2022, CU Boulder, where I
 
 <p align="center" width="100%">
   <img title="TASI logo" src="{{site.url}}/posts/2022-06-20/tasi_logo.jpg" alt="Picture" width="80%">
-  <br />
+</p>
+<p>&nbsp;</p>
+<p align="center" width="100%">
   <img title="TASI logo mos1" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos1.jpg" alt="Picture" width="80%">
-  <br />
+</p>
+<p>&nbsp;</p>
+<p align="center" width="100%">
   <img title="TASI logo mos2" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos2.jpg" alt="Picture" width="80%">
-  <br />
+</p>
+<p>&nbsp;</p>
+<p align="center" width="100%">
   <img title="TASI logo mos3" src="{{site.url}}/posts/2022-06-20/tasi_logo_mos3.jpg" alt="Picture" width="80%">
 </p>
