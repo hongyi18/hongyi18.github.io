@@ -8,8 +8,8 @@ My publications: [Inspire](https://inspirehep.net/authors/1790638?ui-citation-su
 
 My research note
 
-- [Foundations of cosmology](research/cosmology.md)
-- [Numerics](research/numerics.md)
+- [Foundations of cosmology](/research/cosmology.md)
+- [Numerics](/research/numerics.md)
 
 ### Dynamics of non-topological solitons
 
