@@ -28,12 +28,12 @@ I'm a PhD candidate in cosmology at [Rice University](https://www.rice.edu/). He
 
 ### Education & Experiences
 
-- 2018.08-Present, PhD, [Department of Physics & Astronomy, Rice University](https://physics.rice.edu/). Advisor: [Mustafa A. Amin](http://mustafa-amin.com/).
+- 2018.08-Present, PhD, [Department of Physics & Astronomy, Rice University](https://physics.rice.edu/). Advisor: [Mustafa A. Amin](http://mustafa-amin.com/). My advisory committee also includes [Andrew J. Long](http://al72.blogs.rice.edu/).
 
-- 2022.06-2022.07, TASI Lectures, University of Colorado Boulder.
+- 2022.06-2022.07, [TASI Lectures](https://sites.google.com/colorado.edu/tasi-2022-wiki/home), University of Colorado Boulder.
 
 - 2017.08-2017.10, Undergraduate Research, The Hong Kong University of Science and Technology. Research advisor: [Yi Wang](http://phyw.people.ust.hk/).
 
 - 2016.07, Undergraduate Research, The Institute of High Energy Physics of the Chinese Academy of Sciences. Research advisor: [Xiao-Jun Bi](https://inspirehep.net/authors/1016423?ui-citation-summary=true).
 
-- 2014.09-2018.06, BS, [School of Physics, Nanjing University](https://physics.nju.edu.cn/). Thesis advisor: [Yeuk-Kwan Edna Cheung](https://physics.nju.edu.cn//ry/qymc/jxky/20190904/i18681.html).
+- 2014.09-2018.06, BS, [School of Physics, Nanjing University](https://physics.nju.edu.cn/). Thesis advisor: [Yeuk-Kwan Edna Cheung](https://inspirehep.net/authors/1022068?ui-citation-summary=true).
