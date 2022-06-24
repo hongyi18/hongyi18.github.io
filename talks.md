@@ -4,6 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
+### Academic talks
+
 - 2022.06, A singularity problem for interacting massive vectors, TASI lectures @ CU Boulder.
 - 2022.04, Dark photon substructure and formation of vector solitons, AU seminar @ Rice University.
 - 2021.10, Polarized vector oscillons, AU seminar @ Rice University.
@@ -12,3 +14,7 @@ permalink: /talks/
 - 2021.04, Gravitational effects on oscillon lifetimes, TSAPS conference @ Texas A&M-Corpus Christi.
 - 2020.11, Classical decay rates of oscillons, TSAPS conference @ UT Arlington.
 - 2020.04, Classical decay rates of oscillons, AU seminar @ Rice University.
+
+### Random talks
+
+- 2022.06, [SQUAAAAAK](/talks/2022-06-23-SQUAAAAAK.pdf), TASI lectures @ CU Boulder.
