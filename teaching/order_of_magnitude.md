@@ -6,12 +6,6 @@ permalink: /research/order_of_magnitude/
 
 Check [physical constants](http://pdg.ge.infn.it/2021/reviews/rpp2021-rev-phys-constants.pdf) and [astrophysical parameters](http://pdg.ge.infn.it/2021/reviews/rpp2021-rev-astrophysical-constants.pdf).
 
-### Conversion table for natural units
-
-Please let me know if you find any errors.
-
-<iframe src="/teaching/unit_conversion.pdf#toolbar=0" width="100%" height="500px"> </iframe>
-
 ### Order of magnitude physics
 
 Can you imagine that many hard questions can actually be answered with a few sketches? Do you know that many of your “useless" knowledge can actually help solve big puzzles? In my view, order of magnitude physics should be served as a fundamental course for every physics student. With a few principles, one can miraculously understand within a few minutes those truths that took many great scientists countless efforts to figure out. Read [Guesstimation](https://press.princeton.edu/books/paperback/9780691129495/guesstimation) and [Guesstimation 2.0](https://press.princeton.edu/books/paperback/9780691150802/guesstimation-20) to get a taste of this fantastic subject, and check [Order-of-Magnitude Physics](http://www.inference.org.uk/sanjoy/oom/book-letter.pdf) for a comprehensive tutorial.
@@ -77,3 +71,9 @@ The units in US are a little bit confusing (at least for me for a long time).
 - Weight: $1~\mathrm{lb} \approx 0.45~\mathrm{kg}$; $1~\mathrm{oz}\approx 28~\mathrm{g}$.
 
 - Temperature: $[\mathrm{^\circ C}] = \frac{5}{9}([\mathrm{^\circ F}]-32)$. $32~\mathrm{^\circ F} = 0~\mathrm{^\circ C}$; $77~\mathrm{^\circ F} = 25~\mathrm{^\circ C}$; $212~\mathrm{^\circ F} = 100~\mathrm{^\circ C}$.
+
+### Conversion table for natural units
+
+Please let me know if you find any errors.
+
+<iframe src="/teaching/unit_conversion.pdf#toolbar=0" width="100%" height="500px"> </iframe>
