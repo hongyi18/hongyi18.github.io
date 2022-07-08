@@ -8,7 +8,9 @@ permalink: /teaching/random_notes/
 
 <embed src="/teaching/EM_spectrum.pdf" width="100%" height="100%" />
 
-<iframe src="/teaching/EM_spectrum.pdf" style="width: 100%; height: 100%; border: none;"> </iframe>
+<div style="width: 100%; height: 100%">
+<embed id="frPDF" height="100%" width="100%" src="/teaching/EM_spectrum.pdf"></embed>
+</div>
 
 <figure>
   <p align="center" width="100%">
