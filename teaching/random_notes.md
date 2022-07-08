@@ -10,4 +10,8 @@ permalink: /teaching/random_notes/
   <iframe src="/teaching/EM_spectrum.pdf#toolbar=0" width="100%" height="450px" frameBorder="0"> </iframe>
 </div>
 
-test
+<figure>
+  <p align="center" width="100%">
+    <img src="/teaching/em_spectrum.png" alt="Picture" width="100%">        
+  </p>
+</figure>
