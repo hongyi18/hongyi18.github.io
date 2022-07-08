@@ -6,7 +6,7 @@ permalink: /teaching/random_notes/
 
 ### EM spectrum
 
-<embed src="/teaching/EM_spectrum.pdf" width="80%" />
+<embed src="/teaching/EM_spectrum.pdf" width="100%" height="100%" />
 
 <figure>
   <p align="center" width="100%">
