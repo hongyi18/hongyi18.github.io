@@ -6,7 +6,11 @@ permalink: /research/order_of_magnitude/
 
 Check [physical constants](http://pdg.ge.infn.it/2021/reviews/rpp2021-rev-phys-constants.pdf) and [astrophysical parameters](http://pdg.ge.infn.it/2021/reviews/rpp2021-rev-astrophysical-constants.pdf).
 
-Check [my conversion table](unit_conversion.pdf) for natural units (please let me know if you find any errors).
+### Conversion table for natural units
+
+Please let me know if you find any errors.
+
+<iframe src="/teaching/unit_conversion.pdf#toolbar=0" width="100%" height="500px"> </iframe>
 
 ### Order of magnitude physics
 
