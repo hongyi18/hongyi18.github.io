@@ -76,4 +76,8 @@ The units in US are a little bit confusing (at least for me for a long time).
 
 Please let me know if you find any errors.
 
-<iframe src="/teaching/unit_conversion.pdf#toolbar=0" width="100%" height="400px"> </iframe>
+<figure>
+  <p align="center" width="100%">
+    <img src="/teaching/unit_conversion.png" alt="Picture" width="100%">        
+  </p>
+</figure>
