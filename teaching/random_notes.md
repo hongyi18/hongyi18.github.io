@@ -6,4 +6,6 @@ permalink: /teaching/random_notes/
 
 ### EM spectrum
 
-<iframe src="/teaching/EM_spectrum.pdf#toolbar=0" width="100%" height="500px"> </iframe>
+<iframe src="/teaching/EM_spectrum.pdf#toolbar=0" width="100%" height="400px"> </iframe>
+
+<iframe src="/teaching/EM_spectrum.pdf#toolbar=0" width="100%" height="100%"> </iframe>
