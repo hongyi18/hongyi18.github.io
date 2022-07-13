@@ -46,6 +46,14 @@ With my convention,
 
 ### Astrophysical scales
 
+- The observable universe:
+  
+  - $1~\mathrm{pc} \simeq 3~\mathrm{lyr} \simeq 3\times 10^{16}\mathrm{m}$
+  
+  - Hubble parameter today 
+  
+  - Critical density $\rho_\mathrm{crit} \simeq 10^{-29}\mathrm{g/cm^3} \simeq 5~\mathrm{protons/m^3} \simeq 10^{11} M_\odot/\mathrm{Mpc^{-3}}$
+
 - The Milky Way galaxy:
   
   - $M_\mathrm{Milky Way}\sim 10^{12}M_\odot$; $N_\mathrm{stars}\sim 10^{11}$
@@ -56,9 +64,24 @@ With my convention,
   
   - $M_\mathrm{M87}\sim 10^9 M_\odot$; $M_\mathrm{MilkyWay}\sim 10^6M_\odot$.
 
+- Cosmic history:
+  
+  - Matter-radiation equality: $z_{eq} \simeq 3400$; $t_{eq} \simeq 50~\mathrm{kyr}$; $H_{eq} \simeq 2\times 10^{-37} \mathrm{GeV}$
+  
+  - Present day: $t_0\simeq 13.8 ~\mathrm{Gyr}$; $H_0 \simeq 70 \frac{\mathrm{km/s}}{\mathrm{Mpc}} \simeq 10^{-42}\mathrm{GeV}$; $H_0^{-1} \simeq 10^{10}\mathrm{yr} \simeq 4000\mathrm{Mpc}$
+
 ### Dark matter
 
-- $\rho_\mathrm{local} \sim 0.4 ~\mathrm{GeV/cm^3} \sim 10^{-42} \mathrm{GeV}$
+- $\rho_c \simeq 1 ~\mathrm{GeV/m^3}$
+- $\rho_\mathrm{local} \simeq 0.4 ~\mathrm{GeV/cm^3} \simeq 3\times 10^{-42} \mathrm{GeV^4}$
+
+### Electromagnetic spectrum
+
+<figure>
+  <p align="center" width="100%">
+    <img src="/teaching/em_spectrum.png" alt="Picture" width="100%">        
+  </p>
+</figure>
 
 ### US units
 
