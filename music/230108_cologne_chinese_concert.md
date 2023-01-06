@@ -149,30 +149,19 @@ I would like to go with him!
 
 **Composer: Huang Zi (1904-1938)**
 
-Rain drops falling on the front steps
-
-Keep me awake all night
-
-The mirror this morning
-
-Still shows the faint dimples
-
-My hair falls back limply
-
+Rain drops falling on the front steps  
+Keep me awake all night  
+The mirror this morning  
+Still shows the faint dimples  
+My hair falls back limply  
 Without any ornaments
 
-Here I am alone in the house
-
-It is hard not to see the willows
-
-Swaying against my drapers
-
-How I envy those clueless swallows
-
+Here I am alone in the house  
+It is hard not to see the willows  
+Swaying against my drapers  
+How I envy those clueless swallows  
 Chirping and flitting past my windows
 
-By now, my love has left for years
-
-why can’t I turn into a cuckoo
-
+By now, my love has left for years  
+why can’t I turn into a cuckoo  
 and call him to raise horsewhip soon.
