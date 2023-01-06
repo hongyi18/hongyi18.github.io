@@ -72,7 +72,7 @@ With my convention,
 
 ### Dark matter
 
-- $\rho_c \simeq 1 ~\mathrm{GeV/m^3}$
+- $\rho_c \simeq 1 ~\mathrm{GeV/m^3}\simeq 8\times 10^{-48} ~\mathrm{GeV^4}$
 - $\rho_\mathrm{local} \simeq 0.4 ~\mathrm{GeV/cm^3} \simeq 3\times 10^{-42} \mathrm{GeV^4}$
 
 ### Electromagnetic spectrum
