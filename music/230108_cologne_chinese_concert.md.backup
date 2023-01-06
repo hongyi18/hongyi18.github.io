@@ -268,7 +268,7 @@ Alili, Alili, back from the fair Alili
 
 Sweet as honey, Alili  
 Wonderful life, Alili  
-Beautiful as flower Alili  
+Beautiful as a flower Alili  
 Yi girl Alili  
 Alili, Alili, back from the fair Alili  
 
