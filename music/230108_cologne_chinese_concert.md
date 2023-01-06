@@ -43,13 +43,13 @@ KHG Köln–Aula
 10. Guangdong Folk Song - Colorful Clouds Chasing the Moon  
  广东民歌，王建中改编 - 彩云追月  
 
-11. Xinjiang Uygur Folk Song – A Glass of Wine  
+11. Xinjiang Uyghur Folk Song – A Glass of Wine  
  维吾尔族民歌 - 一杯美酒  
 
 12. Xinjiang Tatar Folk Song – In the Silver Moonlight  
  塔塔尔族民歌 - 在那银色的月光下  
 
-13. Xinjiang Kazak Folk Song – Mayila  
+13. Xinjiang Kazakh Folk Song – Mayra  
  哈萨克族民歌 – 玛依拉  
 
 14. Zhu Jian’er - Days of Emancipation  
@@ -65,7 +65,7 @@ KHG Köln–Aula
  黄有异 - 赶圩归来阿哩哩（彝族民歌）  
 
 ### Lyrics
-(Translated by Xia Liu.)
+(Translated/adapted by Xia Liu.)
 
 **1. Over the Snow for Plum Blossoms  
 Poet: Liu Xue’an (1905-1985)  
@@ -73,7 +73,7 @@ Composer: Huang Zi (1904-1938)**
 
 Snow wanes, the day so fine;  
 The winter plum blossoms, sweet as wine.  
-On my donckey, o’er the bridge,  
+On my donkey, o’er the bridge,  
 The bell goes tinkling-tine.
 Tinkling-tine! Tinkling-tine!  
 Tinkling-tine! Tinkling-tine!  
@@ -81,7 +81,7 @@ O flowers, gleaned for a vase of mine,
 Be with me while I read or chime,  
 We’ll share a time divine.
 
-**2. The Flower or the Haze?  
+**2. The Flower or the Haze  
 Poet: Bai Juyi (772-846)  
 Composer: Huang Zi (1904-1938)**
 
@@ -102,7 +102,7 @@ Aroused all kinds of feelings, full of other thoughts,
 Ask the fallen flower: "flow with the gentle wave to the south?"  
 I would like to go with him!
 
-**4. Spring Yearning  
+**4. Longing for the Beloved in Spring  
 Poet: Wei Hanzhang (1905-1993)  
 Composer: Huang Zi (1904-1938)**
 
@@ -127,14 +127,14 @@ and call him to raise horsewhip soon.
 Poet: Liu Bannong (1891-1934)  
 Composer: Zhao Yuanren (1892-1982)**
 
-I have been in the north for a half year,  
+I have been in the north for half a year,  
 and just heard raining today.  
 If the rain moves south of the Yangtze River,  
 How many new bamboo shoots would grow in the home garden?
 
-**7. The Joy of Snowflakes  
+**7. Joy of Snowflakes  
 Poet: Xu Zhimo (1897-1931)  
-Composer: Ran Tianhao**
+Composer: Ran Tianhao (1973-)**
 
 Were I a snowflake,  
 A graceful dancer in the air,  
@@ -160,7 +160,7 @@ Melt, melt, melt,--
 Melt into the gentle wave of herself.
 
 **8. Song of the Yue Boatman  
-Poet: unknown, 528 BC  
+Poet: Unknown, 528 BC?  
 Composer: Liu Qing (1974-)**
 
 Oh! What night is tonight,  
@@ -174,8 +174,7 @@ I made acquaintance with a prince.
 There are trees on the mountains and there are branches on the tree  
 I adore you, oh! you do not know.
 
-**9. Tunes of Guqin – Yangguan Sandie**
-
+**9. Parting Tune at the Yangguan Pass**  
 This is a parting tune at the Yangguan Pass with a thrice repeated refrain (Sandie). Yangguan Sandie is an ancient Chinese song, also known as Yangguan Song or Weicheng Song. The song is based on Wang Wei's (699-759) seven-character quatrains "Seeing off Yuan Er on His Mission to Anxi" : 
 
 Morning rain at Weicheng has the light dust sprinkled clean;  
@@ -183,9 +182,9 @@ Refreshing green willow brightens th' travelers inn.
 Empty one more cup of farewell wine, I pray thee,  
 West of Yangguan you’ll have no more friends like me.  
 
-The poem was composed into a Guqin song in the Tang Dynasty. It was divided into three sections and sung in addition to the original poem, with some words developed from the original poem, which was widely sung by the Liyuan musicians at that time. In the poem, "West of Yangguan you’ll have no more friends like me " is sung three times, hence the name "Yangguan Sandie".
+The poem was composed as a Guqin song in the Tang Dynasty. It was divided into three sections and sung in addition to the original poem, with some words developed from the original poem, which was widely sung by the Liyuan musicians at that time. In the poem, "West of Yangguan you’ll have no more friends like me " is sung three times, hence the name "Yangguan Sandie".
 
-**11. Uygur folk song – A Glass of Wine**
+**11. A Glass of Wine**  
 
 My love is like a glass of wine, a glass of wine  
 Sweetheart, please accept it  
@@ -199,7 +198,7 @@ a glass of wine, a sweet wine, a scented wine
 Drink it, it will definitely be drunk you  
 
 
-**12. Xinjiang Tatar folk song – In the Silver Moonlight**
+**12. In the Silver Moonlight**
 
 On that golden sandy shore which was fully sprinkled with silver moonlight,  
 I was looking for the traces of past happenings,  
@@ -213,8 +212,8 @@ I am riding on the horse, flying like a sword
 Fly, fly my horse toward the direction where she went away
 
 
-**13. Xinjiang Kazak folk song – Mayra  
-"Mayila" (Mayra) is a Kazakh folk song, collected and adapted by Wang Luobin (1913-1996).**
+**13. Mayra**  
+"Mayila" (Mayra) is a Kazakh folk song, collected and adapted by Wang Luobin (1913-1996).
 
 People call me Ma Yi La, Poet Mayra;  
 Teeth white, Voice good, Singer Mayra.  
@@ -240,7 +239,7 @@ All know me, know me,
 They are running from the far away mountains,  
 Mayra, Mayra  
 
-**15. Jiangsu Folk Song – Jasmine Flower**
+**15. Jasmine Flower**
 
 How we adore pretty jasmine flowers!  
 How we adore pretty jasmine flowers!  
@@ -250,16 +249,16 @@ Lower you and gently pick down
 Soon give you to doors ajar.  
 Jasmine flowers are never afar.  
 
-**16. Sichuan Folk Song – When Will the Locust Tree Bloom**
+**16. When Will the Locust Tree Bloom**
 
 There is a locust tree on a high mountain,  
 looking at the man with the railing in her hand.  
 The mother asked: “What are you looking for?”  
 The daughter: “I am watching when will the locust tree bloom.”  
 
-**17. Yi Folk Song – Back from the Fair  
+**17. Back from the Fair  
 Lyrics: Gu Di (1932-2013)  
-Composer: Huang Youyi**
+Composer: Huang Youyi (?-)**
 
 The sunset comes Alili  
 the fair ends Alili  
