@@ -88,4 +88,100 @@ KHG Köln–Aula
     
     黄有异 - 赶圩归来阿哩哩（彝族民歌）
 
-### d
+### Lyrics
+
+**1. Over the Snow for Plum Blossoms**
+
+**Poet: Liu Xue’an (1905-1985)**
+
+**Composer: Huang Zi (1904-1938)**
+
+Snow wanes, the day so fine;
+
+The winter plum blossoms, sweet as wine.
+
+On my donckey, o’er the bridge, 
+
+The bell goes tinkling-tine.
+
+Tinkling-tine! Tinkling-tine!
+
+Tinkling-tine! Tinkling-tine!
+
+O flowers, gleaned for a vase of mine,
+
+Be with me while I read or chime,
+
+We’ll share a time divine.
+
+<br/><br/>
+
+**2. The Flower or the Haze?**
+
+**Poet: Bai Juyi (772-846)**
+
+**Composer: Huang Zi (1904-1938)**
+
+Not a flower, nor haze,
+
+It comes at midnight hours and goes with starry rays.
+
+It comes like vernal dreams that cannot stay,
+
+And goes like morning clouds that melt away.
+
+<br/><br/>
+
+**3. Missing Home**
+
+**Poet: Wei Hanzhang (1905-1993)**
+
+**Composer: Huang Zi (1904-1938)**
+
+Willow silk is green, just after the Qingming, 
+
+leaning on the railing, alone and speechless
+
+let alone the cuckoo singing outside the wall, 
+
+"It is better to go home!" 
+
+Aroused all kinds of feelings, full of other thoughts, 
+
+Ask the fallen flower: "flow with the gentle wave to the south?" 
+
+I would like to go with him!
+
+<br/><br/>
+
+**4. Spring Yearning**
+
+**Poet: Wei Hanzhang (1905-1993)**
+
+**Composer: Huang Zi (1904-1938)**
+
+Rain drops falling on the front steps
+
+Keep me awake all night
+
+The mirror this morning
+
+Still shows the faint dimples
+
+My hair falls back limply
+
+Without any ornaments
+
+Here I am alone in the house
+
+It is hard not to see the willows
+
+Swaying against my drapers
+
+How I envy those clueless swallows
+
+Chirping and flitting past my windows
+
+By now, my love has left for years
+why can’t I turn into a cuckoo
+and call him to raise horsewhip soon.
