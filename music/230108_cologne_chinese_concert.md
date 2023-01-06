@@ -13,14 +13,10 @@ KHG Köln–Aula
 
 ## Concert program
 
-1. Huang Zi - Over the Snow for Plum Blossoms
-   
-   黄自 - 踏雪寻梅
-
+1. Huang Zi - Over the Snow for Plum Blossoms  
+黄自 - 踏雪寻梅  
 2. Huang Zi - The Flower or the Haze
-   
-   黄自 - 花非花 
-
+黄自 - 花非花  
 3. Huang Zi - Missing Home
    
    黄自 - 思乡
