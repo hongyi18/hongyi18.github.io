@@ -4,6 +4,12 @@ title: The Plum Blossom on Snow
 permalink: /music/concert-230108
 ---
 
+<figure>
+  <p align="center" width="100%">
+    <img title="poster" src="230108_cologne_chinese_concert.png" alt="Picture" width="50%">        
+  </p>
+</figure>
+
 Soprano: Xia Liu
 
 Pianist: Hong-Yi Zhang
