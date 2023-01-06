@@ -4,6 +4,8 @@ title: The Plum Blossom on Snow
 permalink: /music/concert-230108
 ---
 
+![alt text](230108_cologne_chinese_concert.png)
+
 <figure>
   <p align="center" width="100%">
     <img title="poster" src="230108_cologne_chinese_concert.png" alt="Picture" width="50%">
@@ -183,5 +185,7 @@ How I envy those clueless swallows
 Chirping and flitting past my windows
 
 By now, my love has left for years
+
 why can’t I turn into a cuckoo
+
 and call him to raise horsewhip soon.
