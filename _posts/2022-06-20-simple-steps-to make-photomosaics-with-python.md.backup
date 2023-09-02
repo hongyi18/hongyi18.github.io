@@ -12,10 +12,6 @@ Fancy photographic mosaics appear everywhere, and many of them are made by profe
 
 <!--more-->
 
-test
-
-<!--more-->
-
 <figure>
   <p align="center" width="100%">
     <img title="Franz Peter Schubert" src="{{site.url}}/posts/2022-06-20/schubert.jpg" alt="Picture" width="30%">        
