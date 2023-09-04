@@ -1,23 +1,20 @@
 ---
 layout: page
-title: Constants and order of magnitude physics
-permalink: /research/order_of_magnitude/
+title: Order of magnitude physics
+permalink: /research/order-of-magnitude-physics/
 ---
 
-Check [physical constants](http://pdg.ge.infn.it/2021/reviews/rpp2021-rev-phys-constants.pdf) and [astrophysical parameters](http://pdg.ge.infn.it/2021/reviews/rpp2021-rev-astrophysical-constants.pdf).
+Can you imagine that many hard questions can actually be answered with a few sketches? Do you know that many of your “useless" knowledge can actually help solve big puzzles? In my view, order of magnitude physics should be served as a fundamental course for every physics student. With a few principles, one can miraculously understand within a few minutes those truths that took many great scientists countless efforts to figure out. In fact, one is often advised in research that
 
-### Order of magnitude physics
+> "Never calculate without first knowing the
+answer." -- John A. Wheeler
 
-Can you imagine that many hard questions can actually be answered with a few sketches? Do you know that many of your “useless" knowledge can actually help solve big puzzles? In my view, order of magnitude physics should be served as a fundamental course for every physics student. With a few principles, one can miraculously understand within a few minutes those truths that took many great scientists countless efforts to figure out. Read [Guesstimation](https://press.princeton.edu/books/paperback/9780691129495/guesstimation) and [Guesstimation 2.0](https://press.princeton.edu/books/paperback/9780691150802/guesstimation-20) to get a taste of this fantastic subject, and check [Order-of-Magnitude Physics](http://www.inference.org.uk/sanjoy/oom/book-letter.pdf) for a comprehensive tutorial.
+To get a taste of this fantastic topic, you can go through [Guesstimation](https://press.princeton.edu/books/paperback/9780691129495/guesstimation) and [Guesstimation 2.0](https://press.princeton.edu/books/paperback/9780691150802/guesstimation-20). A more advanced lecture note on order of magnitude physics can be found [here](http://www.inference.org.uk/sanjoy/oom/book-letter.pdf), or a simplified [version](https://web.stanford.edu/class/ee353/SanjoyMahajanIntro-01-1.pdf). If you need some references for constants, check the PDG document for [physical](https://pdg.lbl.gov/2023/web/viewer.html?file=../reviews/rpp2022-rev-phys-constants.pdf) and [astrophysical](https://pdg.lbl.gov/2023/web/viewer.html?file=../reviews/rpp2022-rev-astrophysical-constants.pdf) constants.
 
-With my convention, 
-
+In the following, I list some important scales in physics and astrophysics for future reference. Regarding mathematical symbols for equivalence, I will follow the conventions: 
 - "$a\approx b$" means that $a$ and $b$ are equal up to the 4/5 rounding rule for the last digit. Examples: $3.14\approx 3$, $1.55\approx 1.6$.
-
 - "$a\sim b$" means that $a$ and $b$ are equal within an order of magnitude, i.e. a factor of $10$, while I will try to minimize the error within a factor of $3$. For example, both $4\times 10^3 \mathrm{m} \sim 10^3\mathrm{m}$ and $4\times 10^3 \mathrm{m} \sim 10^4\mathrm{m}$ are correct, but I prefer the latter. Also note that if I write something like $a\sim b\sim c\sim d$, I mean that all $a,b,c,d$ are equal within an order of magnitude -- the error should not be amplified.
-
 - "$a\simeq b$" means that $a$ and $b$ are equal up to a factor of $\sqrt{10}\approx 3.16$. 
-
 - "$a\propto b$" means that $a$ is proportional to $b$, while the value of them may differ a lot or even do not have the same dimension. For example, time=distance/speed, we may write $t\propto s$.
 
 ### Common physical scales
@@ -79,7 +76,7 @@ With my convention,
 
 <figure>
   <p align="center" width="100%">
-    <img src="/teaching/em_spectrum.png" alt="Picture" width="100%">        
+    <img src="/research/figs/em_spectrum.png" alt="Picture" width="100%">        
   </p>
 </figure>
 
@@ -101,6 +98,6 @@ Please let me know if you find any errors.
 
 <figure>
   <p align="center" width="100%">
-    <img src="/teaching/unit_conversion.png" alt="Picture" width="100%">        
+    <img src="/research/figs/unit_conversion.png" alt="Picture" width="100%">        
   </p>
 </figure>
