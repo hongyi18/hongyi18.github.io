@@ -3,22 +3,27 @@
 
   <div class="wrapper text-center">
 
-    {%- if site.author %}
-      <ul class="contact-list">
-        {% if site.author.name -%}
-          <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }} </div>
-          <!-- <li class="p-name">{{ site.author.name | escape }}</li> -->
-        {% endif -%}
-        {% if site.author.email -%}
-          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-        {%- endif %}
-        <p>{{ site.description | escape }}</p>
-      </ul>
-    {%- endif %}
+    <div class="footer-col-wrapper text-center">
 
-    {%- if site.show_update %}
-      <p>Last updated on {{ site.time | date: '%b %d' }}.</p>
-    {%- endif %}
+      <div class="footer-col text-center">
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }} </div>
+            <!-- <li class="p-name">{{ site.author.name | escape }}</li> -->
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+          <p>{{ site.description | escape }}</p>
+        </ul>
+      {%- endif %}
+
+      {%- if site.show_update %}
+	  <p>Last updated on {{ site.time | date: '%b %d' }}.</p>
+      {%- endif %}
+      </div>
+    </div>
 
     <div class="social-links">
       {%- include social.html -%}
