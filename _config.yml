@@ -22,6 +22,7 @@ header_pages:
 theme: minima
 markdown: kramdown
 url: "https://hongyi18.github.io"
+base_url: /hongyi18.github.io
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
