@@ -9,7 +9,8 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+            <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }} </div>
+            <!-- <li class="p-name">{{ site.author.name | escape }}</li> -->
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
