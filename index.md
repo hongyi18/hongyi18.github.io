@@ -12,7 +12,7 @@ While these topics drive my academic passion, I am equally drawn to the broader 
   <img src="assets/photo.jpg" width="30%" />
 </p>
 
-In addition to my research endeavors, I hold a deep passion for music. I embarked on my piano journey at the age of 7. Notably, I had the privilege of collaborating with the talented soprano Xia Liu in a New Year recital in Cologn, Germany, and the violinist Xiaohua Sheng in a violin concert in Nanjing, China. During my undergraduate years at [Nanjing University](https://www.nju.edu.cn/), I performed in over 10 concerts of piano, violin and chamber music. If you too share a passion for music, please feel free to reach out; I'd love to chat and share my favorite compositions with you!
+In addition to my research endeavors, I hold a deep passion for music. I embarked on my piano journey at the age of 7. Notably, I had the privilege of collaborating with the talented soprano Xia Liu in a [New Year recital](/personal/230108_cologne_chinese_concert.md) in Cologn, Germany, and the violinist Xiaohua Sheng in a violin concert in Nanjing, China. During my undergraduate years at [Nanjing University](https://www.nju.edu.cn/), I performed in over 10 concerts of piano, violin and chamber music. If you too share a passion for music, please feel free to reach out; I'd love to chat and share my favorite compositions with you!
 
 ### Contact
 
