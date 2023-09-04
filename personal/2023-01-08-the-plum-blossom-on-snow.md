@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Plum Blossom on Snow
-permalink: /personal/concert-230108
+permalink: /personal/2023-01-08-the-plum-blossom-on-snow/
 ---
 
 ![](2023-01-08-the-plum-blossom-on-snow.png)
