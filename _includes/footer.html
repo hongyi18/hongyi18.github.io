@@ -4,6 +4,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
+
       <div class="footer-col">
       {%- if site.author %}
         <ul class="contact-list">
@@ -13,16 +14,21 @@
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
-	  <p>{{ site.description | escape }}</p>
         </ul>
+      {%- endif %}
+
+      <p>{{ site.description | escape }}</p>
+
+      {%- if site.modified_date %}
+	  <p>{{ site.modified_date | escape }}</p>
       {%- endif %}
       </div>
 
-      <div class="footer-col">
+      <!-- <div class="footer-col">
 	{%- if site.modified_date %}
 	  <p>{{ site.modified_date | escape }}</p>
         {%- endif %}
-      </div>
+      </div> -->
     </div>
 
     <div class="social-links">
