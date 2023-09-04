@@ -20,6 +20,7 @@
       {%- endif %}
 
       {%- if site.modified_date %}
+          <p>{{ site.modified_date | escape }}</p>
 	  <p>{{ "Last updated on" site.time | escape }}</p>
       {%- endif %}
       </div>
