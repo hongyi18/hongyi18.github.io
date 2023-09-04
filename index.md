@@ -2,11 +2,11 @@
 layout: home
 ---
 
-Welcome! 
+### Welcome! 
 
-I am a PhD candidate at [Rice University](https://www.rice.edu/) in Houston, Texas, specializing in theoretical cosmology, astrophysics and astroparticle physics. My research focuses on tackling some of the most captivating and complex challenges in fundamental physics, including ultralight dark matter, axions and axionlike particles, neutron stars and other compact objects, effective field theroy, structure formation, nontopological solitons, modified gravity and numerical relativity.
+I am a PhD candidate at [Rice University](https://www.rice.edu/) in Houston, Texas, specializing in **theoretical cosmology, astrophysics and particle physics**. My research focuses on tackling some of the most captivating and complex challenges in fundamental physics, including ultralight dark matter, axions and axionlike particles, neutron stars and other compact objects, effective field theroy, structure formation, nontopological solitons, modified gravity and numerical relativity.
 
-While these topics drive my academic passion, I am equally drawn to the broader realms of physics, mathematics, computer science, etc. I thrive on interdisciplinary collaborations, seeking innovative ways to apply my knowledge across disciplines and bring theoretical insights into practical experiments. If you have intriguing ideas or projects that intersect with my interests, I would be thrilled to engage in a discussion!
+While these topics drive my academic passion, I am equally drawn to the broader realms of physics, mathematics, computer science, etc. I thrive on **interdisciplinary collaborations**, seeking innovative ways to apply my knowledge across disciplines and bring theoretical insights into practical experiments. If you have intriguing ideas or projects that intersect with my interests, I would be thrilled to engage in a discussion!
 
 <p align="center">
   <img src="assets/photo.jpg" width="30%" />
@@ -16,7 +16,7 @@ In addition to my research endeavors, I hold a deep passion for music. I embarke
 
 ### Contact
 
-- Email: hongyi@rice.edu
+- Email: <hongyi@rice.edu>
 - Office: 306 in Herman Brown Hall
 - Mailing: Rice University Herman Brown Hall – MS 108, 6100 Main St, Houston, TX 77005
 
