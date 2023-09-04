@@ -3,8 +3,7 @@
 
   <div class="wrapper text-center">
 
-    <div class="footer-col-wrapper text-center">
-      <div class="footer-col text-center">
+
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -21,8 +20,7 @@
       {%- if site.show_update %}
         <p>Last updated on {{ site.time | date: '%b %d' }}.</p>
       {%- endif %}
-      </div>
-    </div>
+
 
     <div class="social-links">
       {%- include social.html -%}
