@@ -2,10 +2,7 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-  <div class="footercenter">
-
     <div class="footer-col-wrapper">
-
       <div class="footer-col">
       {%- if site.author %}
         <ul class="contact-list">
@@ -19,7 +16,6 @@
           <p>{{ site.description | escape }}</p>
         </ul>
       {%- endif %}
-
       {%- if site.show_update %}
         <p>Last updated on {{ site.time | date: '%b %d' }}.</p>
       {%- endif %}
@@ -30,6 +26,4 @@
       {%- include social.html -%}
     </div>
   </div>
-  </div>
-
 </footer>
