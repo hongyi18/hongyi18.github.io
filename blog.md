@@ -1,5 +1,5 @@
 ---
 layout: post_page
 title: Blog
-permalink: /blogs/
+permalink: /blog/
 ---
