@@ -19,17 +19,10 @@
         </ul>
       {%- endif %}
 
-      {%- if site.modified_date %}
-          <p>{{ site.modified_date | escape }}</p>
-	  <p>Last updated on {{ site.time | date: '%b %d, %Y' }}</p>
+      {%- if site.show_update %}
+	  <p>Last updated on {{ site.time | date: '%b %d, %Y' }}.</p>
       {%- endif %}
       </div>
-
-      <!-- <div class="footer-col">
-	{%- if site.modified_date %}
-	  <p>{{ site.modified_date | escape }}</p>
-        {%- endif %}
-      </div> -->
     </div>
 
     <div class="social-links">

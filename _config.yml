@@ -1,4 +1,5 @@
-modified_date: "Last updated on Sep 4, 2023."
+# Set to `true` to show "Last updated on ..." in the footer.
+show_update: true
 
 title: Hong-Yi Zhang
 author:
