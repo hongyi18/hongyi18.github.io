@@ -1,9 +1,8 @@
-modified_date: "The website was last updated on Sep 4, 2023."
+modified_date: "Last updated on Sep 4, 2023."
 
 title: Hong-Yi Zhang
 author:
   name: Hong-Yi Zhang
-  email: hongyi@rice.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
