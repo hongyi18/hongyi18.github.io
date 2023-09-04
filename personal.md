@@ -11,7 +11,7 @@ permalink: /personal/
 
 ### Concerts
 
-- [The Plum Blossom on Snow (Cologne, Germany):](/personal/230108_cologne_chinese_concert.md) Chinese art songs, folk songs and piano music.
+- [The Plum Blossom on Snow (Cologne, Germany):](/personal/2023-01-08-the-plum-blossom-on-snow.md) Chinese art songs, folk songs and piano music.
 
 ### My recordings
 
