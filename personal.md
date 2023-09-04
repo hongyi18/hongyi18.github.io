@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Music
-permalink: /music/
+title: Personal
+permalink: /personal/
 
 ---
 
 <p align="center" width="100%">
-  <img title="piano" src="/music/piano.png" alt="picture" width="100%">
+  <img title="piano" src="/personal/piano.png" alt="picture" width="100%">
 </p>
 
 ### Concerts

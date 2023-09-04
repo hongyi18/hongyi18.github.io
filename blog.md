@@ -1,5 +1,5 @@
 ---
 layout: post_page
-title: Blogs
+title: Blog
 permalink: /blogs/
 ---
