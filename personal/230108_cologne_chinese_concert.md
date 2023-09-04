@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Plum Blossom on Snow
-permalink: /music/concert-230108
+permalink: /personal/concert-230108
 ---
 
 ![](230108_cologne_chinese_concert.png)
