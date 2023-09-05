@@ -14,13 +14,14 @@ Fancy photographic mosaics appear everywhere, and many of them are made by profe
 
 <figure>
   <p align="center">
-    <img src="{{site.url}}/blog/2022-06-20/schubert.jpg" width="200">
+    <img src="{{site.url}}/blog/2022-06-20/schubert.jpg" width="200px">
   </p>
   <center>
-    <figcaption style="width:300;"> <em> Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</em>
+    <figcaption style="width:300px"> <em> Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</em>
     </figcaption>
   </center>
 </figure>
+test
 
 First, we need to install photomosaic package
 
