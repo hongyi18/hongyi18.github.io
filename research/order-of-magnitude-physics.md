@@ -6,9 +6,10 @@ permalink: /research/order-of-magnitude-physics/
 
 Can you imagine that many hard questions can actually be answered with a few sketches? Do you know that many of your “useless" knowledge can actually help solve big puzzles? In my view, order of magnitude physics should be served as a fundamental course for every physics student. With a few principles, one can miraculously understand within a few minutes those truths that took many great scientists countless efforts to figure out. In fact, one is often advised in research that
 
+&nbsp;
+> "Never calculate without first knowing the answer." -- John A. Wheeler
 
-> "Never calculate without first knowing the
-answer." -- John A. Wheeler
+&nbsp;
 
 
 To get a taste of this fantastic topic, you can go through [Guesstimation](https://press.princeton.edu/books/paperback/9780691129495/guesstimation) and [Guesstimation 2.0](https://press.princeton.edu/books/paperback/9780691150802/guesstimation-20). A more advanced lecture note on order of magnitude physics can be found [here](http://www.inference.org.uk/sanjoy/oom/book-letter.pdf), or a simplified [version](https://web.stanford.edu/class/ee353/SanjoyMahajanIntro-01-1.pdf). If you need some references for constants, check the PDG document for [physical](https://pdg.lbl.gov/2023/web/viewer.html?file=../reviews/rpp2022-rev-phys-constants.pdf) and [astrophysical](https://pdg.lbl.gov/2023/web/viewer.html?file=../reviews/rpp2022-rev-astrophysical-constants.pdf) constants.
