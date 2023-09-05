@@ -21,7 +21,6 @@ In the following, I list some important scales in physics and astrophysics for f
 
 
 ### Order of magnitudes
-
 - Units:
   - $\hbar c \simeq 0.2 ~\mathrm{GeV\cdot fm}$.
   - $1~\mathrm{yr} \simeq \pi\times 10^7 ~\mathrm{s}$.
@@ -53,24 +52,21 @@ In the following, I list some important scales in physics and astrophysics for f
   - $\rho_c \simeq 1 ~\mathrm{GeV/m^3}\simeq 8\times 10^{-48} ~\mathrm{GeV^4}$.
   - $\rho_\mathrm{local} \simeq 0.4 ~\mathrm{GeV/cm^3} \simeq 3\times 10^{-42} \mathrm{GeV^4}$.
 
-### Electromagnetic spectrum
-
-<figure>
-  <p align="center" width="100%">
-    <img src="{{site.url}}/research/figs/em_spectrum.png" alt="Picture" width="100%">        
-  </p>
-</figure>
-
 ### Conversion table for natural units
-
 <figure>
   <p align="center" width="100%">
     <img src="{{site.url}}/research/figs/unit_conversion.png" alt="Picture" width="100%">        
   </p>
 </figure>
 
-### US units
+### Electromagnetic spectrum
+<figure>
+  <p align="center" width="100%">
+    <img src="{{site.url}}/research/figs/em_spectrum.png" alt="Picture" width="100%">        
+  </p>
+</figure>
 
+### US units
 The units in US are a little bit confusing (at least for me for a long time).
 
 - Length: $1~\mathrm{mile}\approx 1.6~\mathrm{km}$; $1~\mathrm{feet} \approx 0.3~\mathrm{m}$; $1~\mathrm{inch} = 2.54~\mathrm{cm}$.
