@@ -55,14 +55,14 @@ In the following, I list some important scales in physics and astrophysics for f
 ### Conversion table for natural units
 <figure>
   <p align="center" width="100%">
-    <img src="{{site.url}}/research/figs/unit_conversion.png" alt="Picture" width="100%">        
+    <img src="{{site.url}}/research/figs/unit-conversion.png" alt="Picture" width="500">        
   </p>
 </figure>
 
 ### Electromagnetic spectrum
 <figure>
   <p align="center" width="100%">
-    <img src="{{site.url}}/research/figs/em_spectrum.png" alt="Picture" width="100%">        
+    <img src="{{site.url}}/research/figs/em-spectrum.png" alt="Picture" width="500">        
   </p>
 </figure>
 
