@@ -23,7 +23,7 @@ In the following, I list some important scales in physics and astrophysics for f
 ### Order of magnitudes
 
 - Units:
-  - $\hbar c \simeq 0.2 ~\mathrm{GeV\cdot fm}$.
+  - $\hbar c \simeq 0.2 ~\mathrm{GeV ~fm}$.
   - $1~\mathrm{yr} \simeq \pi\times 10^7 ~\mathrm{s}$.
   - $1~\mathrm{pc} \simeq 3~\mathrm{lyr} \simeq 3\times 10^{16}\mathrm{m}$.
 
