@@ -21,6 +21,7 @@ In the following, I list some important scales in physics and astrophysics for f
 
 
 ### Order of magnitudes
+
 - Units:
   - $\hbar c \simeq 0.2 ~\mathrm{GeV\cdot fm}$.
   - $1~\mathrm{yr} \simeq \pi\times 10^7 ~\mathrm{s}$.
@@ -53,6 +54,7 @@ In the following, I list some important scales in physics and astrophysics for f
   - $\rho_\mathrm{local} \simeq 0.4 ~\mathrm{GeV/cm^3} \simeq 3\times 10^{-42} \mathrm{GeV^4}$.
 
 ### Conversion table for natural units
+
 <figure>
   <p align="center" width="100%">
     <img src="{{site.url}}/research/figs/unit-conversion.png" alt="Picture" width="500">        
@@ -60,6 +62,7 @@ In the following, I list some important scales in physics and astrophysics for f
 </figure>
 
 ### Electromagnetic spectrum
+
 <figure>
   <p align="center" width="100%">
     <img src="{{site.url}}/research/figs/em-spectrum.png" alt="Picture" width="500">        
@@ -67,8 +70,8 @@ In the following, I list some important scales in physics and astrophysics for f
 </figure>
 
 ### US units
-The units in US are a little bit confusing (at least for me for a long time).
 
+The units in US are a little bit confusing (at least for me for a long time).
 - Length: $1~\mathrm{mile}\approx 1.6~\mathrm{km}$; $1~\mathrm{feet} \approx 0.3~\mathrm{m}$; $1~\mathrm{inch} = 2.54~\mathrm{cm}$.
 - Volume: $1~\mathrm{gal} \approx 3.8~\mathrm{L}$; $1~\mathrm{fl~oz} \approx 30~\mathrm{ml}$.
 - Weight: $1~\mathrm{lb} \approx 0.45~\mathrm{kg}$; $1~\mathrm{oz}\approx 28~\mathrm{g}$.
