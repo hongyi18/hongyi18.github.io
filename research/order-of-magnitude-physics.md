@@ -57,7 +57,7 @@ In the following, I list some important scales in physics and astrophysics for f
 
 <figure>
   <p align="center" width="100%">
-    <img src="{{site.url}}/research/figs/unit-conversion.png" alt="Picture" width="500">        
+    <img src="{{site.url}}/research/figs/unit-conversion.png" alt="Picture" width="700">        
   </p>
 </figure>
 
@@ -65,7 +65,7 @@ In the following, I list some important scales in physics and astrophysics for f
 
 <figure>
   <p align="center" width="100%">
-    <img src="{{site.url}}/research/figs/em-spectrum.png" alt="Picture" width="500">        
+    <img src="{{site.url}}/research/figs/em-spectrum.png" alt="Picture" width="700">        
   </p>
 </figure>
 
