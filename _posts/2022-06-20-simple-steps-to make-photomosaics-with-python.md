@@ -66,7 +66,7 @@ right_margin = int(np.ceil(overflow / 2))
 
 making both "left_margin" and "right_margin" intergers.
 
-Many other issues that may arise can usually be resolved by converting your images to RGB jpg format, see [img_cnv.py](/blog/2022-06-20/img_cnv.py). These issues include, for example,
+Many other issues that may arise can usually be resolved by converting your images to RGB jpg format, see [img-cnv.py](/blog/2022-06-20/img-cnv.py). These issues include, for example,
 
 ```python
 ValueError: operands could not be broadcast together with remapped shapes [original->remapped]: (3,3)->(3,3) (720,3600,4)->(720,3600,newaxis,4)
@@ -77,11 +77,11 @@ ValueError: operands could not be broadcast together with remapped shapes [origi
 This article is prepared for my "squawk" talk in [TASI 2022, CU Boulder](https://sites.google.com/colorado.edu/tasi-2022-wiki/home), where I have a great time learning frontier physics and making friends. Some of my pool pictures are from TASI activities, but there are only 195 and many of them have similar backgrounds. So I add another 1152 pictures of cats, dogs and cartoon characters from the Internet.
 
 <p align="center" width="100%">
-  <img title="TASI logo" src="{{site.url}}/blog/2022-06-20/tasi_logo.jpg" alt="Picture" width="80%">
+  <img title="TASI logo" src="{{site.url}}/blog/2022-06-20/tasi-logo.jpg" alt="Picture" width="80%">
   <br /> <br />
-  <img title="TASI logo mos1" src="{{site.url}}/blog/2022-06-20/tasi_logo_mos1.jpg" alt="Picture" width="80%">
+  <img title="TASI logo mos1" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos1.jpg" alt="Picture" width="80%">
   <br /> <br />
-  <img title="TASI logo mos2" src="{{site.url}}/blog/2022-06-20/tasi_logo_mos2.jpg" alt="Picture" width="80%">
+  <img title="TASI logo mos2" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos2.jpg" alt="Picture" width="80%">
   <br /> <br />
-  <img title="TASI logo mos3" src="{{site.url}}/blog/2022-06-20/tasi_logo_mos3.jpg" alt="Picture" width="80%">
+  <img title="TASI logo mos3" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos3.jpg" alt="Picture" width="80%">
 </p>
