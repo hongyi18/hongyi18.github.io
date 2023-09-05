@@ -14,7 +14,7 @@ Fancy photographic mosaics appear everywhere, and many of them are made by profe
 
 <figure>
   <p align="center">
-    <img title="Franz Peter Schubert" src="{{site.url}}/blog/2022-06-20/schubert.jpg" alt="Picture" width="250">  
+    <img title="Franz Peter Schubert" src="{{site.url}}/blog/2022-06-20/schubert.jpg" width="250">
   </p>
   <center>
     <figcaption style="width:500"> <em> Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</em>
