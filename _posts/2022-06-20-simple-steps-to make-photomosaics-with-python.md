@@ -13,11 +13,11 @@ Fancy photographic mosaics appear everywhere, and many of them are made by profe
 <!--more-->
 
 <figure>
-  <p align="center" width="100%">
-    <img title="Franz Peter Schubert" src="{{site.url}}/blog/2022-06-20/schubert.jpg" alt="Picture" width="30%">  
+  <p align="center">
+    <img title="Franz Peter Schubert" src="{{site.url}}/blog/2022-06-20/schubert.jpg" alt="Picture" width="250">  
   </p>
   <center>
-    <figcaption style="width:60%"> <em> Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</em>
+    <figcaption style="width:500"> <em> Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</em>
     </figcaption>
   </center>
 </figure>
@@ -76,12 +76,12 @@ ValueError: operands could not be broadcast together with remapped shapes [origi
 
 This article is prepared for my "squawk" talk in [TASI 2022, CU Boulder](https://sites.google.com/colorado.edu/tasi-2022-wiki/home), where I have a great time learning frontier physics and making friends. Some of my pool pictures are from TASI activities, but there are only 195 and many of them have similar backgrounds. So I add another 1152 pictures of cats, dogs and cartoon characters from the Internet.
 
-<p align="center" width="100%">
-  <img title="TASI logo" src="{{site.url}}/blog/2022-06-20/tasi-logo.jpg" alt="Picture" width="80%">
+<p align="center">
+  <img title="TASI logo" src="{{site.url}}/blog/2022-06-20/tasi-logo.jpg" width="700">
   <br /> <br />
-  <img title="TASI logo mos1" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos1.jpg" alt="Picture" width="80%">
+  <img title="TASI logo mos1" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos1.jpg" width="700">
   <br /> <br />
-  <img title="TASI logo mos2" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos2.jpg" alt="Picture" width="80%">
+  <img title="TASI logo mos2" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos2.jpg" width="700">
   <br /> <br />
-  <img title="TASI logo mos3" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos3.jpg" alt="Picture" width="80%">
+  <img title="TASI logo mos3" src="{{site.url}}/blog/2022-06-20/tasi-logo-mos3.jpg" width="700">
 </p>
