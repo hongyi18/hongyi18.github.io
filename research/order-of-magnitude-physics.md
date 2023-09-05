@@ -74,9 +74,6 @@ In the following, I list some important scales in physics and astrophysics for f
 The units in US are a little bit confusing (at least for me for a long time).
 
 - Length: $1~\mathrm{mile}\approx 1.6~\mathrm{km}$; $1~\mathrm{feet} \approx 0.3~\mathrm{m}$; $1~\mathrm{inch} = 2.54~\mathrm{cm}$.
-
 - Volume: $1~\mathrm{gal} \approx 3.8~\mathrm{L}$; $1~\mathrm{fl~oz} \approx 30~\mathrm{ml}$.
-
 - Weight: $1~\mathrm{lb} \approx 0.45~\mathrm{kg}$; $1~\mathrm{oz}\approx 28~\mathrm{g}$.
-
 - Temperature: $[\mathrm{^\circ C}] = \frac{5}{9}([\mathrm{^\circ F}]-32)$. $32~\mathrm{^\circ F} = 0~\mathrm{^\circ C}$; $77~\mathrm{^\circ F} = 25~\mathrm{^\circ C}$; $212~\mathrm{^\circ F} = 100~\mathrm{^\circ C}$.
