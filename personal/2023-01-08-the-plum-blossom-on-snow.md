@@ -4,7 +4,9 @@ title: The Plum Blossom on Snow
 permalink: /personal/2023-01-08-the-plum-blossom-on-snow/
 ---
 
-![](2023-01-08-the-plum-blossom-on-snow.png)
+<p align="center">
+<img src="2023-01-08-the-plum-blossom-on-snow.png" width="500px">
+</p>
 
 Soprano: Xia Liu  
 Pianist: Hong-Yi Zhang  
