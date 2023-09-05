@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-> "We all know that the real reason universities have students is in order to educate the professors." -- John A. Wheeler, 1976.
+> "We all know that the real reason universities have students is in order to educate the professors." -- John A. Wheeler
 
 I am enthusiastic about exploring new teaching opportunities! My teaching background includes a range of courses where I've had the privilege of serving as a teaching assistant. These experiences have allowed me to collaborate with esteemed educators and contribute to the academic journey of students. Here are the courses I've been involved in:
 - 2023.08-2023.12, TA for "Introduction to General Relativity". Lecturer: Mustafa Amin.
