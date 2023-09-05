@@ -61,6 +61,14 @@ In the following, I list some important scales in physics and astrophysics for f
   </p>
 </figure>
 
+### Conversion table for natural units
+
+<figure>
+  <p align="center" width="100%">
+    <img src="{{site.url}}/research/figs/unit_conversion.png" alt="Picture" width="100%">        
+  </p>
+</figure>
+
 ### US units
 
 The units in US are a little bit confusing (at least for me for a long time).
@@ -72,13 +80,3 @@ The units in US are a little bit confusing (at least for me for a long time).
 - Weight: $1~\mathrm{lb} \approx 0.45~\mathrm{kg}$; $1~\mathrm{oz}\approx 28~\mathrm{g}$.
 
 - Temperature: $[\mathrm{^\circ C}] = \frac{5}{9}([\mathrm{^\circ F}]-32)$. $32~\mathrm{^\circ F} = 0~\mathrm{^\circ C}$; $77~\mathrm{^\circ F} = 25~\mathrm{^\circ C}$; $212~\mathrm{^\circ F} = 100~\mathrm{^\circ C}$.
-
-### Conversion table for natural units
-
-Please let me know if you find any errors.
-
-<figure>
-  <p align="center" width="100%">
-    <img src="{{site.url}}/research/figs/unit_conversion.png" alt="Picture" width="100%">        
-  </p>
-</figure>
