@@ -8,7 +8,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Theoretical Cosmology and Astroparticle Physics at Rice University
+  Theoretical Cosmology and Astroparticle Physics at Tsung-Dao Lee Institute
 
 header_pages:
   - index.md
