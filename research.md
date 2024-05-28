@@ -24,6 +24,8 @@ The existence of solitons---stable, long-lived, and localized field configuratio
 - The interactions between solitons and their surrounding environments.
 - Applications of solitons in physics.
 
+I develop the Mathematica package "[DMSolitonFinder](https://github.com/hongyi18/DMSolitonFinder/)" that solves dark matter solitons in an automated way. It will dynamically change the boundary conditions of fields and the spatial range of the solutions until localized solutions are found under the requested precision and accuracy.
+
 Here are some "photos" of vector solitons from 3+1-dimensional simulations [[arXiv:2111.08700](https://arxiv.org/abs/2111.08700)]:
 <figure>
   <p align="center" width="100%">
