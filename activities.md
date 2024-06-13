@@ -14,11 +14,14 @@ permalink: /activities/
 6. 2022.06, A singularity problem for interacting massive vectors, [TASI](https://www.colorado.edu/physics/TASI/Program-Overview) @ CU Boulder.
 7. 2022.04, Dark photon substructure and formation of vector solitons, AU Seminar @ Rice University.
 8. 2021.10, Polarized vector oscillons, AU Seminar @ Rice University.
-9. 2021.08, Gravitational effects on oscillon lifetimes, COSMO'21 @ UIUC.
+9. 2021.08, Gravitational effects on oscillon lifetimes, [COSMO'21](https://caps.ncsa.illinois.edu/conferences/cosmo21/) @ UIUC.
 10. 2021.04, Beyond Schrodinger-Poisson: Nonrelativistic effective field theory for scalar dark matter, AU Seminar @ Rice University.
 11. 2021.04, Gravitational effects on oscillon lifetimes, TSAPS Conference @ Texas A&M-Corpus Christi.
 12. 2020.11, Classical decay rates of oscillons, TSAPS Conference @ UT Arlington.
 13. 2020.04, Classical decay rates of oscillons, AU Seminar @ Rice University.
+
+### Posters
+1. 2024.05, Neutron star cooling with lepton-flavor-violating axions, [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/) Conference @ Southeast University.
 
 ### Random talks
 
