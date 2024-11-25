@@ -6,6 +6,8 @@ permalink: /activities/
 
 ### Academic talks
 
+1. 2024.11, Nonminimally gravitating ultralight dark matter @ Fudan University.
+2. 2024.09, Solitons in ultralight dark matter @ University of Science and Technology of China.
 1. 2023.10, Neutron star cooling with symmetry-violating axions, [TACOS](https://sites.google.com/view/texas-tacos/home) @ Rice University.
 2. 2023.06, Unveiling the nature of wave dark matter, Cosmology Seminar @ KEK Theory Center.
 3. 2023.05, Phenomenology of wavelike vector dark matter nonminimally coupled to gravity, [Pheno](https://www.pittpacc.pitt.edu/meetings/phenomenology-symposia) @ University of Pittsburgh.
