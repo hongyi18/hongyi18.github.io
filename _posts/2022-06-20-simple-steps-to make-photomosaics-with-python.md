@@ -21,7 +21,6 @@ Fancy photographic mosaics appear everywhere, and many of them are made by profe
     </figcaption>
   </center>
 </figure>
-test
 
 First, we need to install photomosaic package
 
