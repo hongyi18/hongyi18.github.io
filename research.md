@@ -48,6 +48,6 @@ Here are some "photos" of vector solitons from 3+1-dimensional simulations [[arX
 
 
 ### Research note ###
-- [Order of magnitude physics](research/order-of-magnitude-physics.md)
-- [Foundations of cosmology](/research/cosmology.md)
-- [Numerics](/research/numerics.md)
+- [Order of magnitude physics](research/order-of-magnitude-physics)
+- [Foundations of cosmology](/research/cosmology)
+- [Numerics](/research/numerics)

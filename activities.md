@@ -6,7 +6,8 @@ permalink: /activities/
 
 ### Academic talks
 
-1. 2024.11, Nonminimally gravitating ultralight dark matter, Astronomy and Astrophysics Seminar @ Fudan University.
+1. 2024.12, Solitons in ultralight dark matter, Winter mini-symposium @ Shanghai Jiao Tong University.
+2. 2024.11, Nonminimally gravitating ultralight dark matter, Astronomy and Astrophysics Seminar @ Fudan University.
 2. 2024.09, Solitons in ultralight dark matter, Cosmology seminar @ University of Science and Technology of China.
 1. 2023.10, Neutron star cooling with symmetry-violating axions, [TACOS](https://sites.google.com/view/texas-tacos/home) @ Rice University.
 2. 2023.06, Unveiling the nature of wave dark matter, Cosmology Seminar @ KEK Theory Center.
@@ -25,6 +26,9 @@ permalink: /activities/
 ### Posters
 1. 2024.05, Neutron star cooling with lepton-flavor-violating axions, [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/) Conference @ Southeast University.
 
-### Random talks
+### Public Outreach
 
+Follow me on Wechat Subscription Account "Cleveron" and [Zhihu](https://www.zhihu.com/people/hongyisteinzhang).
+
+- 2025.01, [科普视频：为什么我们的空间是三维的？](https://www.bilibili.com/video/BV16X6iYyEHS/) (致谢上科大学生团队)； 看原文[点这里](https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ).
 - 2022.06, [SQUAAAAAK](/activities/talks/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.

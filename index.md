@@ -4,9 +4,9 @@ layout: home
 
 Welcome! 
 
-I am a postdoc at the [Tsung-Dao Lee Institute](https://tdli.sjtu.edu.cn/EN/) in Shanghai. I am interested in **theoretical cosmology and astroparticle physics**, focusing on some of the most captivating and complex challenges in fundamental physics, such as dark matter, astrophysical compact objects, nonlinear dynamics, etc.
+I am a postdoc at the [Tsung-Dao Lee Institute at Shanghai Jiao Tong University](https://tdli.sjtu.edu.cn/EN/) in Shanghai. I am interested in **theoretical cosmology and astroparticle physics**, focusing on some of the most captivating and complex challenges in fundamental physics, such as dark matter, ultralight particles and fields, astrophysical compact objects, complex systems and nonlinear dynamics, etc.
 
-While these topics drive my academic passion, I am also excited about the broader realms of physics (e.g., condensed matter, statistical physics, information science) and interdisciplinary collaborations. In addition to my research, I hold a deep passion for [music](personal.md) and embarked on my piano journey at the age of 7. If you have intriguing ideas or projects that intersect with my interests, I would be thrilled to engage in a discussion!
+While these topics drive my academic passion, I am also excited about the broader realms of physics (e.g., condensed matter, statistical physics, information science) and interdisciplinary collaborations. Apart from the role as a physicist, I am also an [amateur pianist](personal.md). If you have intriguing ideas or projects that intersect with my interests, I would be thrilled to engage in a discussion!
 
 <p align="center">
   <img src="assets/photo.jpg" width="300px" />

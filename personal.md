@@ -9,9 +9,10 @@ permalink: /personal/
   <img title="piano" src="/personal/piano.png" alt="picture" width="100%">
 </p>
 
-### Concerts
+### Concerts and music salons
 
-- [The Plum Blossom on Snow (Cologne, Germany):](/personal/2023-01-08-the-plum-blossom-on-snow.md) Chinese art songs, folk songs and piano music.
+- [“童话与智慧”德奥艺术歌曲音乐沙龙](https://mp.weixin.qq.com/s/hqGqkhUbOGgd1VF-oS-Nnw) (Shanghai, China): Art songs, poems, and opera songs.
+- [The Plum Blossom on Snow](/personal/2023-01-08-the-plum-blossom-on-snow) (Cologne, Germany): Chinese art songs, folk songs, and piano music.
 
 ### My recordings
 
