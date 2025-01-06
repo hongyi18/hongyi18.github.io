@@ -2,7 +2,7 @@
 layout: post
 title: "How to make a personal website on Github?"
 date: 2021-08-16
-modified_date: 2022-05-10
+modified_date: 2025-01-06
 excerpt_separator: <!--more-->
 author:
 - Hong-Yi Zhang
@@ -14,30 +14,36 @@ A nice personal webpage is a great way to let other people know about you, and G
 
 ### Install Jekyll
 
-Jekyll is a static site generator with built-in support for GitHub Pages and a simplified build process. Before you can use Jekyll to create a GitHub Pages site, you must [install Jekyll](https://jekyllrb.com/docs/installation/) and [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git). As an example, you can use following commands to install Jekyll in Windows by using the Ubuntu subsystem (which can be installed by "wsl --install" in Windows PowerShell):
+Jekyll is a static site generator with built-in support for GitHub Pages and a simplified build process. Before you can use Jekyll to create a GitHub Pages site, you must [install Jekyll](https://jekyllrb.com/docs/installation/ubuntu/) and [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git). As an example, you can use following commands to install Jekyll and Git on ubuntu:
 
 ```bash
-sudo apt-get update -y && sudo apt-get upgrade -y
-sudo apt-add-repository ppa:brightbox/ruby-ng
-sudo apt-get update
-sudo apt-get install ruby2.7 ruby2.7-dev build-essential dh-autoreconf
-sudo gem update
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install ruby-full build-essential zlib1g-dev
+
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+gem install jekyll bundler
+
 sudo gem install jekyll bundler
 ```
 
-Check the Jekyll version to see whether it's successfully installed.
+Through the processes, both Jekyll and Git should have been successfully installed. Check the versions of Jekyll and Git to see whether this is the case
 
 ```bash
 jekyll -v
+git -v
 ```
 
-Then download the Git,
+If Git is not installed, one can do this by running
 
 ```bash
 sudo apt-get install git
 ```
 
-set [your username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [commit email](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address) address in Git.
+After that's done, set [your username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) and [commit email address](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address) in Git.
 
 ### Create a repository for your site
 
@@ -69,7 +75,7 @@ bundle install
 Now you have all basic elements to make a website. You can [test your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll), or add and commit your work online
 
 ```bash
-git add .
+git add -all
 git commit -m 'My new webpage' # Write comments by replacing 'My new webpage'.
 git remote add origin https://github.com/USER/REPOSITORY.git
 ```
