@@ -26,8 +26,6 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 
 gem install jekyll bundler
-
-sudo gem install jekyll bundler
 ```
 
 Through the processes, both Jekyll and Git should have been successfully installed. Check the versions of Jekyll and Git to see whether this is the case
@@ -75,7 +73,7 @@ bundle install
 Now you have all basic elements to make a website. You can [test your site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll), or add and commit your work online
 
 ```bash
-git add -all
+git add --all
 git commit -m 'My new webpage' # Write comments by replacing 'My new webpage'.
 git remote add origin https://github.com/USER/REPOSITORY.git
 ```
