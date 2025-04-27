@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "How to make a personal website on Github?"
+title: How to make a personal website on Github?
 date: 2021-08-16
 modified_date: 2025-01-06
 excerpt_separator: <!--more-->
-author:
-- Hong-Yi Zhang
 ---
 
-A nice personal webpage is a great way to let other people know about you, and Github page is obviously one of the best choice. However, reading the [documentation](https://docs.github.com/en/pages) can sometimes be confusing. So in this article, I will introduce the basics about making a Github page. Without further ado, let's get started!
+A nice personal webpage is a great way to let other people know about you, and Github page is obviously one of the best choice. However, reading the [documentation](https://docs.github.com/en/pages) can sometimes be confusing. In this article, I will introduce the basics about making a Github page.
 
 <!--more-->
 

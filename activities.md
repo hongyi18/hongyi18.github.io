@@ -25,11 +25,11 @@ permalink: /activities/
 13. 2020.04, Classical decay rates of oscillons, AU Seminar @ Rice University.
 
 ### Posters
-1. 2024.05, [Neutron star cooling with lepton-flavor-violating axions](./acctivities/2024-05-31-neutron-star-cooling) (best poster award), [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/) Conference @ Southeast University.
+1. 2024.05, [Neutron star cooling with lepton-flavor-violating axions](/activities/2024-05-31-neutron-star-cooling.pdf) (best poster award), [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/) Conference @ Southeast University.
 
 ### Public Outreach
 
 Follow me on Wechat Subscription Account "Cleveron" and [Zhihu](https://www.zhihu.com/people/hongyisteinzhang).
 
 - 2025.01, [科普视频：为什么我们的空间是三维的？](https://www.bilibili.com/video/BV16X6iYyEHS/) (致谢上科大学生团队)； 看原文[点这里](https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ)。
-- 2022.06, [SQUAAAAAK](./activities/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.
+- 2022.06, [SQUAAAAAK](/activities/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.

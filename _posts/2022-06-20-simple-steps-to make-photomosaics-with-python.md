@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "Simple steps to make photomosaics with Python"
+title: Simple steps to make photomosaics with Python
 date: 2022-06-20
 modified_date: 2022-06-20
 excerpt_separator: <!--more-->
-author:
-- Hong-Yi Zhang
 ---
 
-Fancy photographic mosaics appear everywhere, and many of them are made by professional softwares like Photoshop or Foto-Mosaik-Edda. However, things often become simple in Python. In this article, I will introduce the basic steps to make photomosaics. 
 
+Fancy photographic mosaics appear everywhere, and many of them are made by professional softwares like Photoshop or Foto-Mosaik-Edda. However, things often become simple in Python. In this article, I will introduce the basic steps to make photomosaics. 
 <!--more-->
 
 <figure>
   <p align="center">
-    <img src="{{site.url}}/blog/2022-06-20/schubert.jpg" width="200px">
+    <img src="/blog/2022-06-20/schubert.jpg" width="200px">
   </p>
   <center>
     <figcaption style="width:300px"> <em> Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</em>
@@ -77,11 +75,11 @@ ValueError: operands could not be broadcast together with remapped shapes [origi
 This article is prepared for my "squawk" talk in [TASI 2022, CU Boulder](https://sites.google.com/colorado.edu/tasi-2022-wiki/home), where I have a great time learning frontier physics and making friends. Some of my pool pictures are from TASI activities, but there are only 195 and many of them have similar backgrounds. So I add another 1152 pictures of cats, dogs and cartoon characters from the Internet.
 
 <p align="center">
-  <img src="{{site.url}}/blog/2022-06-20/tasi-logo.jpg" width="500">
+  <img src="/blog/2022-06-20/tasi-logo.jpg" width="500">
   <br /> <br />
-  <img src="{{site.url}}/blog/2022-06-20/tasi-logo-mos1.jpg" width="500">
+  <img src="/blog/2022-06-20/tasi-logo-mos1.jpg" width="500">
   <br /> <br />
-  <img src="{{site.url}}/blog/2022-06-20/tasi-logo-mos2.jpg" width="500">
+  <img src="/blog/2022-06-20/tasi-logo-mos2.jpg" width="500">
   <br /> <br />
-  <img src="{{site.url}}/blog/2022-06-20/tasi-logo-mos3.jpg" width="500">
+  <img src="/blog/2022-06-20/tasi-logo-mos3.jpg" width="500">
 </p>

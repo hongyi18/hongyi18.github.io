@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: The Plum Blossom on Snow
-permalink: /personal/2023-01-08-the-plum-blossom-on-snow/
+date: 2023-01-08
+excerpt: The concert program in Spring 2023 in Cologne.
 ---
 
 <p align="center">
-<img src="../2023-01-08-the-plum-blossom-on-snow.png" width="500px">
+<img src="/blog/2023-01-08/post.png" width="500px">
 </p>
 
 Soprano: Xia Liu  
