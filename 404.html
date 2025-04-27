@@ -1,24 +1,66 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404: Page Not Found</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #f9d5e5, #f6e1b5);
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      text-align: center;
+      padding: 100px 20px;
+      overflow: hidden;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 6rem;
+      margin-bottom: 10px;
+      color: #444;
+    }
+    h2 {
+      font-size: 2rem;
+      margin-bottom: 30px;
+      color: #666;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #333;
+    }
+    .sloth {
+      font-size: 8rem;
+      position: absolute;
+      top: 40%;
+      animation: slide 10s infinite linear;
+    }
+    @keyframes slide {
+      0% { left: -100px; transform: rotate(0deg);}
+      50% { transform: rotate(10deg);}
+      100% { left: 110%; transform: rotate(0deg);}
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background-color: #ff6f61;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    a:hover {
+      background-color: #ff3b2e;
+    }
+  </style>
+</head>
+<body>
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
+  <div class="sloth">🦥</div>
   <h1>404</h1>
+  <h2>Slow and steady... lost the page.</h2>
+  <p>Even sloths get lost sometimes! Let's get you back home.</p>
+  <a href="/">🏠 Take me Home</a>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+</body>
+</html>
