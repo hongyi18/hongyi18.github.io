@@ -1,4 +1,4 @@
-This is my webpage project. The details of the build process is introduced [here]({% post_url 2021-08-16-how-to-make-a-personal-website-on-github %}).
+This is my webpage project. The details of the build process is introduced [here](https://hongyi18.github.io/2021/08/16/how-to-make-a-personal-website-on-github.html).
 
 ### Website structure
 
