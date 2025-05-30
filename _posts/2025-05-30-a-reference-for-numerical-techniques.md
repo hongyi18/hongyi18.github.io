@@ -31,6 +31,10 @@ Manipulate files and directories
 - `head file` (Show the first 10 lines of file)
 - `tail file` (Show the last 10 lines of file)
 
+Compression
+- `gzip file` (Compress file to file.gz)
+- `gzip -d file.gz` (Uncompress file.gz to file)
+
 Manage software
 - `sudo apt update` or `sudo apt upgrade` (Update the entire apt-get library)
 - `sudo apt install build-essential` (Install basic functions and dependencies, almost always a good choice)
