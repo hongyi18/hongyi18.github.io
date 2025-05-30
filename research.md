@@ -27,4 +27,5 @@ Nonlinear dynamics is fascinating. It lies at the borderline between predictabil
 
 ## Research notes
 
-- [A list of tools]({% post_url 2025-04-27-a-list-of-useful-research-tools %}) I find useful in research, including code packages, online tools, software, etc.
+- [A list of useful research tools]({% post_url 2025-04-27-a-list-of-useful-research-tools %})
+- [A reference for numerical techniques]({% post_url 2025-05-30-a-reference-for-numerical-techniques %})
