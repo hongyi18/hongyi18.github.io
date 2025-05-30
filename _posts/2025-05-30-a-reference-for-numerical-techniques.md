@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 Here is a brief review of numerical techniques I've used during research, including commands for using Linux and computational clusters.
 <!--more-->
 
-### Table of contents
+**Table of contents**
 
 * TOC 
 {:toc}
