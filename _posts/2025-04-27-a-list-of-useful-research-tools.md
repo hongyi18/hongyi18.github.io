@@ -24,4 +24,6 @@ Here is a short list of tools I find useful during research, including code pack
 
 
 ### Software and add-ins
-- [IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) for using LaTeX in PowerPoint.
+- [Anaconda](https://www.anaconda.com/) for using Python.
+- [Zotero](https://www.zotero.org/) for literature management.
+- [IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex) for using LaTeX in Microsoft PowerPoint.
