@@ -9,8 +9,8 @@ permalink: /activities/
 
 1. 2025.06, TBD, Seminar @ Università degli Studi di Salerno.
 1. 2025.06, TBD, Seminar @ University of Naples Federico II.
-1. 2025.06, TBD, [Dark Matter 2025](https://indico.ifca.es/event/3234/) @ Santander.
-1. 2025.05, Testing the dark origin of neutrino masses with oscillation experiments [[slides]](/activities/2025-05-27-neutrino-mass.pdf), [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) @ Padova.
+1. 2025.06, Testing the dark origin of neutrino masses with oscillation experiments [[slides]](/activities/2025-06-02-neutrino-mass.pdf), [Dark Matter 2025](https://indico.ifca.es/event/3234/) @ Santander.
+1. 2025.05, Testing the dark origin of neutrino masses with oscillation experiments, [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/) @ Padova.
 1. 2025.05, Testing the dark origin of neutrino masses with oscillation experiments [[slides]](/activities/2025-05-16-neutrino-mass.pdf), [Dark Matter and Neutrinos](https://indico.math.cnrs.fr/event/12305) @ Institut Henri Poincaré.
 1. 2024.12, Solitons in ultralight dark matter, Winter mini-symposium @ Shanghai Jiao Tong University.
 2. 2024.11, Nonminimally gravitating ultralight dark matter, Astronomy and Astrophysics Seminar @ Fudan University.
