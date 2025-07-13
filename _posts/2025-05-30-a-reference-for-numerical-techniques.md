@@ -2,12 +2,12 @@
 layout: post
 title: A reference for numerical techniques
 date: 2025-05-30
-modified_date: 2025-05-30
+modified_date: 2025-07-13
 excerpt_separator: <!--more-->
 ---
 
 
-Here is a brief review of numerical techniques I've used during research, including commands for using Linux and computational clusters.
+Here is a brief review of basic numerical techniques, including commands for using Linux and computational clusters.
 <!--more-->
 
 **Table of contents**
@@ -16,7 +16,7 @@ Here is a brief review of numerical techniques I've used during research, includ
 {:toc}
 
 
-### Linux cheat sheet
+### Linux cheatsheet
 Manipulate files and directories
 - `ls` (List files in the current directory)
 - `cd dir` (Enter a directory/folder)
@@ -47,7 +47,7 @@ Manage software
 - `bash xxx.sh` (Execute the shell script xxx)
 - `wget website_address` (Download files from a website)
 
-Vim shortcuts (See more commands on [Vim Cheat Sheet](https://vim.rtorr.com/))
+Vim shortcuts (See more commands on [Vim Cheatsheet](https://vim.rtorr.com/))
 - `:w` (Save file)
 - `:q` (Quit file, fails if there are unsaved changes)
 - `:q!` (Force to quit without saving changes)

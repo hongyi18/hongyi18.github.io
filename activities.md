@@ -8,7 +8,7 @@ permalink: /activities/
 ### Seminars/Conferences
 
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass, @ Scuola Superiore Meridionale & Università degli Studi di Napoli Federico II, Napoli.
-1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass [[slides]](/activities/2025-06-10-dm-nu-mass.pdf), @ Università degli Studi di Salerno, Salerno.
+1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass [[pdf]](/activities/2025-06-10-dm-nu-mass.pdf), @ Università degli Studi di Salerno, Salerno.
 1. 2025.06, Testing the dark origin of neutrino masses with oscillation experiments, @ [Dark Matter 2025](https://indico.ifca.es/event/3234/), Santander.
 1. 2025.05, Testing the dark origin of neutrino masses with oscillation experiments, @ [PLANCK 2025](https://indico.dfa.unipd.it/event/1200/), Padova.
 1. 2025.05, Testing the dark origin of neutrino masses with oscillation experiments, @ [Dark Matter and Neutrinos](https://indico.math.cnrs.fr/event/12305), Institut Henri Poincaré, Paris.

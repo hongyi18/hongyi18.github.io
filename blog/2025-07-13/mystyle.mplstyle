@@ -1,0 +1,39 @@
+# Figure size
+figure.figsize   :  12, 9
+figure.dpi       :  72
+savefig.dpi      :  150
+
+# Line
+lines.linewidth  :  3.5
+
+# Fontsize
+font.size        :  30
+legend.fontsize  :  30
+figure.titlesize :  30
+axes.labelsize   :  30
+
+# Use Latex fonts
+font.family        : serif
+text.usetex        : True
+text.latex.preamble : \usepackage{amsmath}
+
+# Distance between label and axes
+axes.titlepad    :  15
+axes.labelpad    :  10
+xtick.major.pad  :  8 # Distance in points between ticks and tick labels.
+ytick.major.pad  :  8
+xtick.major.size :  6 # Length of the tick.
+xtick.minor.size :  3
+ytick.major.size :  6
+ytick.minor.size :  3
+
+# Labels and ticks
+xtick.direction  :  in
+ytick.direction  :  in
+axes.formatter.limits : -3, 4 # use scientific notation if log10 of the axis range is smaller than the first or larger than the second
+
+# Grid
+grid.color       :  k       # grid color
+grid.linestyle   :  :       # dotted
+grid.linewidth   :  1	    # in points
+axes.grid        :  True

@@ -29,3 +29,4 @@ Nonlinear dynamics is fascinating. It lies at the borderline between predictabil
 
 - [A list of useful research tools]({% post_url 2025-04-27-a-list-of-useful-research-tools %})
 - [A reference for numerical techniques]({% post_url 2025-05-30-a-reference-for-numerical-techniques %})
+- [A reference for Python programming]({% post_url 2025-07-13-a-reference-for-python-programming %})
