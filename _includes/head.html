@@ -9,6 +9,11 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
+  <!-- Verification with Google Search Console. -->
+  {%- if jekyll.environment == 'production' and site.google_site_verification -%}
+    <meta name="google-site-verification" content="{{ site.google_site_verification }}
+  {%- endif -%}
+
   {%- include custom-head.html -%}
 
 </head>
