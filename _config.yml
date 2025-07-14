@@ -25,6 +25,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
+
 # Google Analytics and Google Search Console verification
 google_analytics: G-H5XYXQSZCC
 google_site_verification: -i60Ta3JxYU-uD1dOb7nApfFwltbCUN6HBQQNBCfAoE
