@@ -21,7 +21,7 @@ header_pages:
 # Build settings
 theme: minima
 markdown: kramdown
-https://hongyi18.github.io/
+url: "https://hongyi18.github.io"
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
