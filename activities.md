@@ -18,7 +18,8 @@ permalink: /activities/
 1. 2025.05, Testing the dark origin of neutrino masses with oscillation experiments, @ [Dark Matter and Neutrinos](https://indico.math.cnrs.fr/event/12305), Institut Henri Poincaré, Paris.
 1. 2024.12, Solitons in ultralight dark matter, @ TDLI, Shanghai.
 2. 2024.11, Nonminimally gravitating ultralight dark matter, @ Fudan U, Shanghai.
-2. 2024.09, Solitons in ultralight dark matter, @ USTC, Hefei.
+2. 2024.09, Solitons in ultralight dark matter, @ USTC, Hefei.  
+1. 2024.05, Neutron star cooling with lepton-flavor-violating axions [[pdf]](/activities/2024-05-31-neutron-star-cooling.pdf) (best poster award), [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/) @ Southeast University.
 1. 2023.10, Neutron star cooling with symmetry-violating axions, @ [TACOS](https://sites.google.com/view/texas-tacos/home), Rice U, Houston.
 2. 2023.06, Unveiling the nature of wave dark matter, @ KEK Theory Center, Tsukuba (Remote).
 3. 2023.05, Phenomenology of wavelike vector dark matter nonminimally coupled to gravity, @ [Phenomenology Symposium](https://www.pittpacc.pitt.edu/meetings/phenomenology-symposia), U Pittsburgh, Pittsburgh.
@@ -33,8 +34,6 @@ permalink: /activities/
 12. 2020.11, Classical decay rates of oscillons, @ TSAPS Conference, UT Arlington, Arlington.
 13. 2020.04, Classical decay rates of oscillons, @ Rice U, Houston.
 
-### Posters
-1. 2024.05, Neutron star cooling with lepton-flavor-violating axions [[pdf]](/activities/2024-05-31-neutron-star-cooling.pdf) (best poster award), [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/) @ Southeast University.
 
 ### Public Outreach
 
