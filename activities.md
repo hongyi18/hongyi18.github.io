@@ -4,9 +4,13 @@ title: Activities
 permalink: /activities/
 ---
 
+### Media
+1. 2025.07 & 2025.08, Can dark matter explain neutrino mass? [[李政道研究所官媒](https://mp.weixin.qq.com/s/nCmDFHN5hIirzIvGPKIwNg) & [上海交通大学新闻网](https://news.sjtu.edu.cn/jdzh/20250724/213260.html) & [Phys.org](https://phys.org/news/2025-07-neutrino-masses-interactions-dark.html)].
+
 
 ### Seminars/Conferences
 
+1. 2025.08, Dark photon dark matter from flattened axion potentials, @ [TAUP 2025](https://indico-cdex.ep.tsinghua.edu.cn/event/175/), Xichang.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass, @ Scuola Superiore Meridionale & Università degli Studi di Napoli Federico II, Napoli.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass [[pdf]](/activities/2025-06-10-dm-nu-mass.pdf), @ Università degli Studi di Salerno, Salerno.
 1. 2025.06, Testing the dark origin of neutrino masses with oscillation experiments, @ [Dark Matter 2025](https://indico.ifca.es/event/3234/), Santander.
@@ -24,7 +28,7 @@ permalink: /activities/
 7. 2022.04, Dark photon substructure and formation of vector solitons, @ Rice U, Houston.
 8. 2021.10, Polarized vector oscillons, @ Rice U, Houston.
 9. 2021.08, Gravitational effects on oscillon lifetimes, @ [COSMO'21](https://caps.ncsa.illinois.edu/conferences/cosmo21/), UIUC, Champaign (Remote).
-10. 2021.04, Beyond Schrodinger-Poisson: Nonrelativistic effective field theory for scalar dark matter, @ Rice U, Houston.
+10. 2021.04, Beyond Schroedinger-Poisson: Nonrelativistic effective field theory for scalar dark matter, @ Rice U, Houston.
 11. 2021.04, Gravitational effects on oscillon lifetimes, @ TSAPS Conference, Texas A&M-Corpus Christi, Corpus Christi (Remote).
 12. 2020.11, Classical decay rates of oscillons, @ TSAPS Conference, UT Arlington, Arlington.
 13. 2020.04, Classical decay rates of oscillons, @ Rice U, Houston.
@@ -36,5 +40,5 @@ permalink: /activities/
 
 Follow me on Wechat Subscription Account "Cleveron" and [Zhihu](https://www.zhihu.com/people/hongyisteinzhang).
 
-- 2025.01, [科普视频：为什么我们的空间是三维的？](https://www.bilibili.com/video/BV16X6iYyEHS/) (致谢上科大学生团队)； 看原文[点这里](https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ)。
-- 2022.06, SQUAAAAAK [[slides]](/activities/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.
+1. 2025.01, [科普视频：为什么我们的空间是三维的？](https://www.bilibili.com/video/BV16X6iYyEHS/) (获上海科技大学2024年度原创科普作品大赛“科普铜星奖”，致谢上科大学生团队)；[点这里](https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ)看原文。
+1. 2022.06, SQUAAAAAK [[slides]](/activities/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.
