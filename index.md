@@ -21,7 +21,7 @@ While these topics drive my academic passion, I am also excited about the broade
 - Email: <hongyi18@sjtu.edu.cn>
 - Office: N623, Tsung-Dao Lee Institute
 - Address: 1 Lisuo Road, Pudong New Area, Shanghai 201210
-- Find me on [GitHub](https://github.com/hongyi18).
+- Find me on [GitHub](https://github.com/hongyi18), [Facebook](https://www.facebook.com/hongyi.zhang.52687/) and [WeChat Subscription Accounts (Cleveron)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU5ODgzMjI3OA==).
 
 ### Professional appointments & Education
 - 2024-04-present, Postdoc, [Tsung-Dao Lee Institute, Shanghai Jiao Tong University](https://tdli.sjtu.edu.cn/EN). Advisor: [Luca Visinelli](https://lucavisinelli.com/) and [Dong Lai](https://donglai6.github.io/).

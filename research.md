@@ -12,12 +12,12 @@ My publication and research profile can be found at [my INSPIRE profile](https:/
 
 ### Ultralight dark matter theory and phenomenology
 
-Ordinary matter constitutes a 16% of total matter in our universe, with the remaining 84% designated as dark matter (DM). How does DM originate, evolve and  lead to our present-day universe? How does DM interact with itself, ordinary matter, and gravity? How to probe it using cosmological and astrophysical environments? I seek to answer these questions, with special focuses on fields and particles that are lighter than 10eV, the so called ultralight DM.
+Ordinary matter accounts for 16% of total matter content in our universe, with the remaining 84% called dark matter. How does dark matter originate, evolve and  lead to our present-day universe? How does dark matter interact with itself, ordinary matter, and gravity? How to probe it using cosmological and astrophysical environments? I seek to answer these questions, with special focuses on fields and particles that are lighter than 10eV, the so called ultralight dark matter.
 
 
-### Probing new physics with compact objects
+### Astrophysical probes of new physics
 
-While terrestrial experiments have been successful in establishing the standard model of particle physics, astrophysical compact objects are more powerful labs for probing physics beyond it thanks to their high temperatures, intense magnetic fields, etc. I am interested in how new physics processes are manifested in these extreme conditions, aiming to discover potential signatures they could imprint.
+While terrestrial experiments have been successful in establishing the standard model of particle physics, cosmological and astrophysical systems are more powerful labs for broader searches of physics beyond it thanks to their diverse physical conditions. I am interested in how new physics processes are manifested in different observations, aiming to discover their potential signatures.
 
 
 ### Nonlinear dynamics in cosmology
