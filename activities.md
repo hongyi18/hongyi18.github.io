@@ -12,7 +12,7 @@ permalink: /activities/
 
 ### Seminars & conferences
 
-1. 2025.08, Dark photon dark matter from flattened axion potentials [[pdf]](/activities/2025-08-25-dark-photon-axion.pdf), @ [TAUP 2025](https://indico-cdex.ep.tsinghua.edu.cn/event/175/), Xichang.
+1. 2025.08, Dark photon dark matter from flattened axion potentials [[pdf]](/activities/2025-08-25-dark-photon-axion.pdf), @ [TAUP2025](https://indico-cdex.ep.tsinghua.edu.cn/event/175/), Xichang.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass, @ Scuola Superiore Meridionale & Università degli Studi di Napoli Federico II, Napoli.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass [[pdf]](/activities/2025-06-10-dm-nu-mass.pdf), @ Università degli Studi di Salerno, Salerno.
 1. 2025.06, Testing the dark origin of neutrino masses with oscillation experiments, @ [Dark Matter 2025](https://indico.ifca.es/event/3234/), Santander.
