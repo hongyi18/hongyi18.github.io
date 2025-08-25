@@ -7,7 +7,7 @@ permalink: /activities/
 ### Public outreach & media
 1. 2025.07 & 2025.08, Can dark matter explain neutrino mass? [[李政道研究所官媒](https://mp.weixin.qq.com/s/nCmDFHN5hIirzIvGPKIwNg) & [上海交通大学新闻网](https://news.sjtu.edu.cn/jdzh/20250724/213260.html) & [Phys.org](https://phys.org/news/2025-07-neutrino-masses-interactions-dark.html)].
 1. 2025.01, [科普视频：为什么我们的空间是三维的？](https://www.bilibili.com/video/BV16X6iYyEHS/) (获上海科技大学2024年度原创科普作品大赛“科普铜星奖”，致谢上科大学生团队)；[点这里](https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ)看原文。
-1. 2022.06, SQUAAAAAK [[slides]](/activities/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.
+1. 2022.06, SQUAAAAAK [[pdf]](/activities/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.
 
 
 ### Seminars & conferences
