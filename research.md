@@ -10,7 +10,7 @@ permalink: /research/
 My publication and research profile can be found at [my INSPIRE profile](https://inspirehep.net/authors/1790638?ui-citation-summary=true).
 
 
-### Ultralight dark matter theory and phenomenology
+### Dark matter theory and phenomenology
 
 Ordinary matter accounts for 16% of total matter content in our universe, with the remaining 84% called dark matter. How does dark matter originate, evolve and  lead to our present-day universe? How does dark matter interact with itself, ordinary matter, and gravity? How to probe it using cosmological and astrophysical environments? I seek to answer these questions, with special focuses on fields and particles that are lighter than 10eV, the so called ultralight dark matter.
 
