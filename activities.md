@@ -7,11 +7,15 @@ permalink: /activities/
 ### Public outreach & media
 1. 2025.07 & 2025.08, Can dark matter explain neutrino mass? [[李政道研究所官媒](https://mp.weixin.qq.com/s/nCmDFHN5hIirzIvGPKIwNg) & [上海交通大学新闻网](https://news.sjtu.edu.cn/jdzh/20250724/213260.html) & [Phys.org](https://phys.org/news/2025-07-neutrino-masses-interactions-dark.html)].
 1. 2025.01, [科普视频：为什么我们的空间是三维的？](https://www.bilibili.com/video/BV16X6iYyEHS/) (获上海科技大学2024年度原创科普作品大赛“科普铜星奖”，致谢上科大学生团队)；[点这里](https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ)看原文。
-1. 2022.06, SQUAAAAAK [[pdf]](/activities/2022-06-23-squaaaaak.pdf), TASI lectures @ CU Boulder.
+1. 2022.06, SQUAAAAAK [[pdf]](/activities/2022-06-23-squaaaaak.pdf), @ [TASI](https://www.colorado.edu/physics/TASI/Program-Overview), CU Boulder, Boulder.
 
 
 ### Seminars & conferences
 
+1. Soliton mergers and radio transients: A new window on dark photon dark matter, @ UESTC, Chengdu.
+1. Soliton mergers and radio transients: A new window on dark photon dark matter, @ Southwest University, Chongqing.
+1. Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves, @ Silk Road International Symposium, Xi'an Jiaotong University, Xi'an.
+1. Constraining dark photon dark matter with radio silence from soliton mergers around supermassive black holes, @ Postdoctoral Frontier Symposium, Shanghai Jiao Tong University, Shanghai.
 1. 2025.08, Dark photon dark matter from flattened axion potentials [[pdf]](/activities/2025-08-25-dark-photon-axion.pdf), @ [TAUP2025](https://indico-cdex.ep.tsinghua.edu.cn/event/175/), Xichang.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass, @ Scuola Superiore Meridionale & Università degli Studi di Napoli Federico II, Napoli.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass [[pdf]](/activities/2025-06-10-dm-nu-mass.pdf), @ Università degli Studi di Salerno, Salerno.
