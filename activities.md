@@ -12,10 +12,10 @@ permalink: /activities/
 
 ### Seminars & conferences
 
-1. Soliton mergers and radio transients: A new window on dark photon dark matter, @ UESTC, Chengdu.
-1. Soliton mergers and radio transients: A new window on dark photon dark matter, @ Southwest University, Chongqing.
-1. Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves, @ Silk Road International Symposium, Xi'an Jiaotong University, Xi'an.
-1. Constraining dark photon dark matter with radio silence from soliton mergers around supermassive black holes, @ Postdoctoral Frontier Symposium, Shanghai Jiao Tong University, Shanghai.
+1. 2025.11, Soliton mergers and radio transients: A new window on dark photon dark matter, @ UESTC, Chengdu.
+1. 2025.11, Soliton mergers and radio transients: A new window on dark photon dark matter, @ Southwest University, Chongqing.
+1. 2025.11, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves, @ Silk Road International Symposium, Xi'an Jiaotong University, Xi'an.
+1. 2025.09, Constraining dark photon dark matter with radio silence from soliton mergers around supermassive black holes, @ Postdoctoral Frontier Symposium, Shanghai Jiao Tong University, Shanghai.
 1. 2025.08, Dark photon dark matter from flattened axion potentials [[pdf]](/activities/2025-08-25-dark-photon-axion.pdf), @ [TAUP2025](https://indico-cdex.ep.tsinghua.edu.cn/event/175/), Xichang.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass, @ Scuola Superiore Meridionale & Università degli Studi di Napoli Federico II, Napoli.
 1. 2025.06, Ultralight dark matter: From small-scale structure to dynamic neutrino mass [[pdf]](/activities/2025-06-10-dm-nu-mass.pdf), @ Università degli Studi di Salerno, Salerno.
