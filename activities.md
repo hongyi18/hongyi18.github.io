@@ -12,6 +12,9 @@ permalink: /activities/
 
 ### Seminars & conferences
 
+1. 2026.01, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational 
+waves [[pdf]](/activities/2026-01-06-dark-matter-nonminimal-coupling.pdf), @ COSPA'26, San Sebastian University, Santiago.
+1. 2025.11, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves, @ International Young Scholar Forum, Fuzhou University, Fuzhou.
 1. 2025.11, Soliton mergers and radio transients: A new window on dark photon dark matter, @ UESTC, Chengdu.
 1. 2025.11, Soliton mergers and radio transients: A new window on dark photon dark matter, @ Southwest University, Chongqing.
 1. 2025.11, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves, @ Silk Road International Symposium, Xi'an Jiaotong University, Xi'an.
