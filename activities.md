@@ -12,6 +12,8 @@ permalink: /activities/
 
 ### Seminars & conferences
 
+1. 2026.04, Soliton mergers and radio transients: A new window on dark photon dark matter, @ [4th TOPAC](https://indico-tdli.sjtu.edu.cn/event/4560/), UESTC, Chengdu. 
+1. 2026.04, Soliton mergers and radio transients: A new window on dark photon dark matter, @ [第十八届粒子物理、核物理和宇宙学交叉学科前沿问题研讨会](https://indico.ihep.ac.cn/event/27088/), Guilin.
 1. 2026.01, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational 
 waves [[pdf]](/activities/2026-01-06-dark-matter-nonminimal-coupling.pdf), @ COSPA'26, San Sebastian University, Santiago.
 1. 2025.11, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves, @ International Young Scholar Forum, Fuzhou University, Fuzhou.
@@ -28,7 +30,7 @@ waves [[pdf]](/activities/2026-01-06-dark-matter-nonminimal-coupling.pdf), @ COS
 1. 2024.12, Solitons in ultralight dark matter, @ TDLI, Shanghai.
 2. 2024.11, Nonminimally gravitating ultralight dark matter, @ Fudan U, Shanghai.
 2. 2024.09, Solitons in ultralight dark matter, @ USTC, Hefei.  
-1. 2024.05, Neutron star cooling with lepton-flavor-violating axions [[pdf]](/activities/2024-05-31-neutron-star-cooling.pdf) (best poster award), [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/) @ Southeast University.
+1. 2024.05, Neutron star cooling with lepton-flavor-violating axions [[pdf]](/activities/2024-05-31-neutron-star-cooling.pdf) (best poster award), @ [2nd TOPAC](https://indico-tdli.sjtu.edu.cn/event/2116/), Southeast University, Nanjing.
 1. 2023.10, Neutron star cooling with symmetry-violating axions, @ [TACOS](https://sites.google.com/view/texas-tacos/home), Rice U, Houston.
 2. 2023.06, Unveiling the nature of wave dark matter, @ KEK Theory Center, Tsukuba (Remote).
 3. 2023.05, Phenomenology of wavelike vector dark matter nonminimally coupled to gravity, @ [Phenomenology Symposium](https://www.pittpacc.pitt.edu/meetings/phenomenology-symposia), U Pittsburgh, Pittsburgh.
