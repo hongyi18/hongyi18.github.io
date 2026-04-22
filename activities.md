@@ -5,7 +5,9 @@ permalink: /activities/
 ---
 
 ### Public outreach & media
-1. 2025.07 & 2025.08, Can dark matter explain neutrino mass? [[李政道研究所官媒](https://mp.weixin.qq.com/s/nCmDFHN5hIirzIvGPKIwNg) & [上海交通大学新闻网](https://news.sjtu.edu.cn/jdzh/20250724/213260.html) & [Phys.org](https://phys.org/news/2025-07-neutrino-masses-interactions-dark.html)].
+1. 2026.04, “减放大”引力微透镜新信号，为探测暗物质结构和非最小耦合引力提供新窗口 [[李政道研究所官媒](https://mp.weixin.qq.com/s/gNE0DwjH2VNGLZKW4LtHsA) & [上海交通大学新闻网](https://news.sjtu.edu.cn/jdzh/20260422/221997.html)]。
+1. 2025.08, Neutrino masses are not likely to originate from interactions with dark matter, study finds [[Phys.org](https://phys.org/news/2025-07-neutrino-masses-interactions-dark.html)].
+1. 2025.07 & 2025.08, 暗物质能否解释中微子质量？李政道研究所团队提出否定证据 [[李政道研究所官媒](https://mp.weixin.qq.com/s/nCmDFHN5hIirzIvGPKIwNg) & [上海交通大学新闻网](https://news.sjtu.edu.cn/jdzh/20250724/213260.html)]。
 1. 2025.01, [科普视频：为什么我们的空间是三维的？](https://www.bilibili.com/video/BV16X6iYyEHS/) (获上海科技大学2024年度原创科普作品大赛“科普铜星奖”，致谢上科大学生团队)；[点这里](https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ)看原文。
 1. 2022.06, SQUAAAAAK [[pdf]](/activities/2022-06-23-squaaaaak.pdf), @ [TASI](https://www.colorado.edu/physics/TASI/Program-Overview), CU Boulder, Boulder.
 
