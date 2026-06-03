@@ -2,7 +2,7 @@
 layout: post
 title: A reference for Python programming
 date: 2025-07-13
-modified_date: 2026-04-03
+modified_date: 2026-05-14
 excerpt_separator: <!--more-->
 ---
 
@@ -17,18 +17,20 @@ Here is a brief guide for Python programming.
 
 
 ## Anaconda and Conda
-For scientific research, the most convenient way to use python is via the software [Anaconda](https://www.anaconda.com/), which is an open-source platform with an extensive installation of python packages and their dependency. It is built with a terminal window Anaconda Prompt and a powerful package and environment manager Conda.
+For scientific research, the most convenient way to use python is via the software [Anaconda](https://www.anaconda.com/), which is an open-source platform with an extensive installation of python packages and their dependency. It is built with a terminal window Anaconda Prompt and a powerful package and environment manager Conda. I recommend installing Miniconda and install new packages as needed.
 
 Basic use of Conda (Also see this [online guide](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/index.html))
 - `conda update --all` (Keep conda up to date)
 - `conda update xxx` (Update a package/software)
 - `conda remove xxx` (Remove a package/software)
-- `conda clean --all` (Clean cache)
-- `conda install xxx` or `conda install -c conda-forge xxx` (Install a package/software)
+- `conda clean --all -y` (Clean cache)
+- `conda install xxx` or `conda install -c conda-forge xxx` (Install a package/software. Try to avoid mixing between different channels, such as defaults, conda-forge, and pip, in the same environment for best consistency. It's usually safe if only the installation of new packages is requested without changing core packages.)
 - `cd dir` (Enter a directory/folder)
 - `cd /d dir` (Enter a directory/folder in a different drive)
 - `conda search xxx` (See if a package/software is available for installation)
 - `conda list xxx` (See if a package/software is installed)
+- `conda list --revisions` (A list of revisions with revision number)
+- `conda install --revision N` (Roll back to the revision N, i.e., to fix an error)
 
 Manage Conda environments
 - `conda info --envs` (Show a list of all environments)
