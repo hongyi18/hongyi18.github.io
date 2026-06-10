@@ -14,6 +14,7 @@ permalink: /activities/
 
 ### Seminars & conferences
 
+1. 2026-06, Magnetic white dwarfs as time-domain axion laboratories, @ Astro postdoc symposium, TDLI, Shanghai.
 1. 2026.04, Soliton mergers and radio transients: A new window on dark photon dark matter, @ [4th TOPAC](https://indico-tdli.sjtu.edu.cn/event/4560/), UESTC, Chengdu. 
 1. 2026.04, Soliton mergers and radio transients: A new window on dark photon dark matter, @ [第十八届粒子物理、核物理和宇宙学交叉学科前沿问题研讨会](https://indico.ihep.ac.cn/event/27088/), Guilin.
 1. 2026.01, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational 

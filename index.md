@@ -25,5 +25,5 @@ While these topics drive my academic passion, I am also excited about the broade
 
 ### Professional appointments & education
 - 2024-04-present, Postdoc, [Tsung-Dao Lee Institute, Shanghai Jiao Tong University](https://tdli.sjtu.edu.cn/EN). Advisor: [Luca Visinelli](https://lucavisinelli.com/) and [Dong Lai](https://donglai6.github.io/).
-- 2018.08-2023.12, PhD in physics, [Department of Physics and Astronomy, Rice University](https://physics.rice.edu/). Advisor: [Mustafa A. Amin](http://mustafa-amin.com/). My advisory committee also includes [Andrew J. Long](http://al72.blogs.rice.edu/).
+- 2018.08-2023.12, PhD in physics, [Department of Physics and Astronomy, Rice University](https://physics.rice.edu/). Advisor: [Mustafa A. Amin](https://mustafa-amin.com/). My advisory committee also includes [Andrew J. Long](https://al72.blogs.rice.edu/).
 - 2014.09-2018.06, BS in physics, [School of Physics, Nanjing University](https://physics.nju.edu.cn/).
