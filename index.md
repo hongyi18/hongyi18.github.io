@@ -3,7 +3,7 @@ layout: home
 lang: en
 title: Hong-Yi Zhang
 nav_title: Home
-seo_title: Home | Hong-Yi Zhang
+seo_title: Hong-Yi Zhang
 description: Theoretical cosmology and astroparticle physics at Tsung-Dao Lee Institute
 translation: /zh/
 hide_title: true

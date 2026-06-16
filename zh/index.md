@@ -3,7 +3,7 @@ layout: home
 lang: zh-Hans
 title: 张闳一
 nav_title: 首页
-seo_title: 首页 | 张闳一
+seo_title: 张闳一
 description: 李政道研究所宇宙学和天体粒子物理
 permalink: /zh/
 translation: /
