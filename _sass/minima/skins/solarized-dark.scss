@@ -1,5 +1,6 @@
 @charset "utf-8";
 
-$sol-is-auto: false;
-$sol-is-dark: true;
-@import "minima/skins/solarized";
+@forward "minima/skins/solarized" with (
+  $sol-is-auto: false,
+  $sol-is-dark: true
+);
