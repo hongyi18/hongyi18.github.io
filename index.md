@@ -21,7 +21,7 @@ While these topics drive my academic passion, I am also excited about the broade
 
 ### Profile & contact
 
-- Research profile: [INSPIRE-HEP](https://inspirehep.net/authors/1790638) and [Google Scholar](https://scholar.google.com/citations?user=0PJ7FBAAAAAJ)
+- Research profile: [INSPIRE-HEP](https://inspirehep.net/authors/1790638?ui-citation-summary=true) and [Google Scholar](https://scholar.google.com/citations?user=0PJ7FBAAAAAJ)
 - Email: hongyi18 [at] sjtu [dot] edu [dot] cn
 - Office: S436, Tsung-Dao Lee Institute
 - Address: 1 Lisuo Road, Pudong New Area, Shanghai 201210 

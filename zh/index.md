@@ -22,7 +22,7 @@ hide_title: true
 
 ### 个人简介与联系方式
 
-- 学术主页：[INSPIRE-HEP](https://inspirehep.net/authors/1790638)、[Google Scholar](https://scholar.google.com/citations?user=0PJ7FBAAAAAJ)
+- 学术主页：[INSPIRE-HEP](https://inspirehep.net/authors/1790638?ui-citation-summary=true)、[Google Scholar](https://scholar.google.com/citations?user=0PJ7FBAAAAAJ)
 - 邮箱：hongyi18 [at] sjtu [dot] edu [dot] cn
 - 办公室：李政道研究所S436
 - 地址：上海市 浦东新区 李所路1号 

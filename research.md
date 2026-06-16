@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Research interests
 
-My publications can be found at [my INSPIRE-HEP profile](https://inspirehep.net/authors/1790638?ui-citation-summary=true).
+My publications can be found at my [INSPIRE-HEP](https://inspirehep.net/authors/1790638?ui-citation-summary=true) or [Google Scholar](https://scholar.google.com/citations?user=0PJ7FBAAAAAJ) profiles.
 
 **Dark matter theory and phenomenology**
 
