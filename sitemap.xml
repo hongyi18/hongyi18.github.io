@@ -1,0 +1,27 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+{%- for post in site.posts %}
+  <url>
+    <loc>{{ post.url | absolute_url | xml_escape }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+  </url>
+{%- endfor %}
+{%- for item in site.pages %}
+  {%- assign include_page = true -%}
+  {%- if item.sitemap == false -%}
+    {%- assign include_page = false -%}
+  {%- endif -%}
+  {%- if item.url == "/sitemap.xml" or item.url == "/robots.txt" or item.url == "/feed.xml" or item.url == "/404.html" -%}
+    {%- assign include_page = false -%}
+  {%- endif -%}
+  {%- if include_page %}
+  <url>
+    <loc>{{ item.url | absolute_url | xml_escape }}</loc>
+  </url>
+  {%- endif %}
+{%- endfor %}
+</urlset>
