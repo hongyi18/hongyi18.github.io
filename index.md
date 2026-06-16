@@ -4,7 +4,7 @@ layout: home
 
 Welcome! 
 
-<img class="home-photo" src="/index/photo.jpg" alt="Portrait of Hong-Yi Zhang" style="float:right; margin:10px; width:150px">
+<img class="home-photo" src="/index/photo.jpg" alt="Portrait of Hong-Yi Zhang">
 
 I am a postdoc at the [Tsung-Dao Lee Institute of Shanghai Jiao Tong University](https://tdli.sjtu.edu.cn/en/). I work on **theoretical cosmology and astroparticle physics**, focusing on some of the most captivating and complex challenges in fundamental physics, such as dark matter, ultralight particles and fields, astrophysical compact objects, complex systems and nonlinear dynamics, etc.
 
