@@ -14,7 +14,13 @@
     {%- endif -%}
   {%- endif -%}
 
-  {%- seo -%}
+  {%- if page.seo_title -%}
+    <title>{{ page.seo_title | escape }}</title>
+    {%- seo title=false -%}
+  {%- else -%}
+    {%- seo -%}
+  {%- endif -%}
+
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

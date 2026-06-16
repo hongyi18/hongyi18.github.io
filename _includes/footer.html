@@ -1,27 +1,40 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  {%- if page.lang == "zh-Hans" -%}
+    {%- assign footer_home_url = "/zh/" -%}
+    {%- assign footer_name = site.author_zh.name | default: site.title_zh | default: site.author.name | default: site.title -%}
+    {%- assign footer_description = site.description_zh | default: page.description | default: site.description -%}
+    {%- assign footer_update_label = "更新于" -%}
+    {%- assign footer_update_date = site.time | date: "%Y年%-m月%-d日" -%}
+  {%- else -%}
+    {%- assign footer_home_url = "/" -%}
+    {%- assign footer_name = site.author.name | default: site.title -%}
+    {%- assign footer_description = site.description -%}
+    {%- assign footer_update_label = "Last updated on" -%}
+    {%- assign footer_update_date = site.time | date: "%b %e, %Y" -%}
+  {%- endif -%}
+
+  <data class="u-url" href="{{ footer_home_url | relative_url }}"></data>
 
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col">
-
-      {%- if site.author %}
         <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.author.name | default: site.title }}</li>
-          {% endif -%}
+          {%- if footer_name -%}
+            <li class="page__footer-copyright">&copy; {{ site.time | date: "%Y" }} {{ footer_name }}</li>
+          {%- endif -%}
 
-          {% if site.author.email -%}
+          {%- if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
+          {%- endif -%}
 
-          <li>{{ site.description | escape }}</li>
+          {%- if footer_description -%}
+            <li>{{ footer_description | escape }}</li>
+          {%- endif -%}
         </ul>
-      {%- endif %}
 
-      {%- if site.show_update %}
-        <p>Last updated on {{ site.time | date: '%b %e, %Y' }}</p>
-      {%- endif %}
+        {%- if site.show_update -%}
+          <p>{{ footer_update_label }} {{ footer_update_date }}</p>
+        {%- endif -%}
       </div>
     </div>
 

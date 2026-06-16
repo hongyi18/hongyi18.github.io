@@ -1,20 +1,25 @@
 title: Hong-Yi Zhang
 author:
   name: Hong-Yi Zhang
-
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Theoretical Cosmology and Astroparticle Physics at Tsung-Dao Lee Institute
-
+description: Theoretical Cosmology and Astroparticle Physics at Tsung-Dao Lee Institute
 
 header_pages:
+  - index.md
   - research.md
   - teaching.md
   - activities.md
   - blog.md
   - personal.md
+
+
+# 中文站点基本信息和标题栏
+title_zh: 张闳一
+author_zh:
+  name: 张闳一
+description_zh: 李政道研究所 理论宇宙学和天体粒子物理
+
+header_pages_zh:
+  - zh/index.md
 
 
 # Build settings

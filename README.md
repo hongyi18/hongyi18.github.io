@@ -1,4 +1,4 @@
-This is my webpage project. The details of the build process is introduced [here](https://hongyi18.github.io/2021/08/16/how-to-make-a-personal-website-on-github.html).
+This is my webpage project. The details of the build process in the early stages is introduced [here](https://hongyi18.github.io/2021/08/16/how-to-make-a-personal-website-on-github.html).
 
 ### Website structure
 
@@ -12,7 +12,7 @@ The main pages of the site include:
   + _posts/ (Directory to store posts. Name convention: "2023-09-04-my-post.md")
 - personal.md
 
-Each of the main page has a corresponding folder to store the used files and assets. The website is built based on the template Minima v2.5.1. The file structure for site settings is as follows
+Companion webpages in Chinese  are saved in the folder /zh/. Each of the main page has a corresponding folder to store the used files and assets. The website is built based on the template Minima v2.5.1. The file structure for site settings is as follows
 
 - _includes/ (Reusable components like headers, footers, and social links)
 
