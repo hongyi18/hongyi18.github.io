@@ -17,6 +17,14 @@
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
 }
 
+@media screen and (max-width: 600px) {
+  .home-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 16px;
+  }
+}
+
 .post-figure {
   margin: 0 auto 1rem;
   text-align: center;
