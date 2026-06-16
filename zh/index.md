@@ -1,24 +1,22 @@
 ---
-layout: home
+layout: home_zh
 lang: zh-Hans
 title: 张闳一
+hide_title: true
 nav_title: 首页
 seo_title: 张闳一
+permalink: /zh
+trans_link: /
 description: 李政道研究所宇宙学和天体粒子物理
-permalink: /zh/
-translation: /
-hide_title: true
 ---
 
-<p class="language-switch"><a href="/">English</a> | 中文</p>
-
-<span style="font-size: 1.17em;">欢迎访问！</span>
+<span style="font-size: 1.2em;">欢迎访问！</span>
 
 <img class="home-photo" src="/index/photo.jpg" alt="张闳一照片">
 
 我是[上海交通大学李政道研究所](https://tdli.sjtu.edu.cn/)的博士后，研究方向是**理论宇宙学和天体粒子物理**。我关注基础物理中一些既迷人又复杂的问题，例如暗物质、超轻粒子与场、致密天体、复杂系统与非线性动力学等。
 
-这些方向是我学术兴趣的核心，但我也对更广泛的物理领域很感兴趣，比如凝聚态物理、统计物理和信息科学，也乐于参与跨学科合作。除了物理研究之外，我也是一名[业余钢琴爱好者](/personal/)。如果你有有趣的想法或项目，且与我的兴趣有所交集，非常欢迎和我交流讨论！
+这些方向是我学术兴趣的核心，但我也对更广泛的物理领域很感兴趣，比如凝聚态物理、统计物理和信息科学，也乐于参与跨学科合作。除了物理研究之外，我也是一名[业余钢琴爱好者](/personal)。如果你有有趣的想法或项目，且与我的兴趣有所交集，非常欢迎和我交流讨论！
 
 ### 学术主页与联系方式
 

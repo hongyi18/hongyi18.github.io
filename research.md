@@ -1,7 +1,12 @@
 ---
 layout: page
+lang: en
 title: Research
-permalink: /research/
+hide_title: false
+nav_title: Research
+seo_title: Research | Hong-Yi Zhang
+permalink: /research
+trans_link: /zh/research
 ---
 
 ### Research interests

@@ -3,13 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {%- if page.translation -%}
+  {%- if page.trans_link -%}
     <link rel="alternate" hreflang="{{ page.lang | default: site.lang | default: 'en' }}" href="{{ page.url | absolute_url }}">
     {%- if page.lang == "zh-Hans" -%}
-      <link rel="alternate" hreflang="en" href="{{ page.translation | absolute_url }}">
-      <link rel="alternate" hreflang="x-default" href="{{ page.translation | absolute_url }}">
+      <link rel="alternate" hreflang="en" href="{{ page.trans_link | absolute_url }}">
+      <link rel="alternate" hreflang="x-default" href="{{ page.trans_link | absolute_url }}">
     {%- else -%}
-      <link rel="alternate" hreflang="zh-Hans" href="{{ page.translation | absolute_url }}">
+      <link rel="alternate" hreflang="zh-Hans" href="{{ page.trans_link | absolute_url }}">
       <link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
     {%- endif -%}
   {%- endif -%}
