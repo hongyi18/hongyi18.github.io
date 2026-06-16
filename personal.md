@@ -2,13 +2,9 @@
 layout: page
 title: Personal
 permalink: /personal/
-
 ---
 
-
-<p align="center" width="100%">
-  <img title="piano" src="/personal/piano.png" alt="picture" width="100%">
-</p>
+<img src="/personal/piano.png" alt="Hong-Yi Zhang performing at piano" width="100%">
 
 ### Concerts and music salons
 
