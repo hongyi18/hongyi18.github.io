@@ -1,2 +1,19 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// Justify texts in the homepage (index.md).
+.home p {
+  text-align: justify;
+}
+
+// Style of the portrait photo at the homepage.
+.profile-photo {
+  float: right;
+  width: 150px;
+  margin: 10px;
+}
+
+// Allow the use of <h1 class="post-title page-title-centered">, e.g., in page.html and blog.html.
+.page-title-centered {
+  text-align: center;
+}

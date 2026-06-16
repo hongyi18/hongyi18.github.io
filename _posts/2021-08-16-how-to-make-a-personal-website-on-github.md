@@ -2,7 +2,7 @@
 layout: post
 title: How to make a personal website on Github?
 date: 2021-08-16
-modified_date: 2025-01-06
+modified_date: 2026-06-16
 excerpt_separator: <!--more-->
 ---
 
@@ -126,7 +126,7 @@ The default home page "index.md" includes the table of contents of posts, and th
 
 Modify "_config.yml", for example
 
-```bash
+```
 header_pages:
   - index.md # If index.md is written in "home" layout, then it will not be added to the header. 
   - research.md
@@ -144,7 +144,7 @@ Modify the "footer.html" in the folder "_includes".
 
 Go to "_sass">"minima">"custom-variables.scss". Add any settings to override the default ones in "initialize.scss". To increase the content width on the webpage, add
 
-```bash
+```
 // Width of the content area
 $content-width:    900px; # 1 pixel ~ 0.265 cm. You can also set the fraction, e.g. 65%.
 
@@ -154,13 +154,13 @@ $on-laptop:        900px;
 
 The default line spacing of head titles may be too large for you, and in order to decrease the spacing, one can set smaller "spacing-unit"
 
-```bash
+```
 $spacing-unit:     15px;
 ```
 
 However, smaller "spacing-unit" also push the margins and makes the display in cell phones anomalous. Alternatively, you can open "_layout.scss" and modify the ".post-content" part, e.g.
 
-```bash
+```
 h1, h2, h3 { margin-top: $spacing-unit / 2 } # The default values is "$spacing-unit".
 h4, h5, h6 { margin-top: $spacing-unit / 4 } # The default values is "$spacing-unit /2".
 ```
@@ -169,7 +169,7 @@ h4, h5, h6 { margin-top: $spacing-unit / 4 } # The default values is "$spacing-u
 
 To support inline LaTeX equations in markdown files, we can use MathJax. First add "markdown: kramdown" in "_config.yml". Then add
 
-```bash
+```html
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -183,6 +183,17 @@ To support inline LaTeX equations in markdown files, we can use MathJax. First a
 ```
 
 in the file "_includes/head.html". Now the website will support inline math. Try `\$e^{i\theta} = \cos\theta + i\sin\theta\$`, which should be displayed as $e^{i\theta} = \cos\theta + i\sin\theta$. See [this webpage](https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages) for reference. Here `processEscapes: true` allows us to use `\\$` for writing the dollar symbol, which otherwise activates the inline math mode.
+
+**Update note:** The MathJax CDN hosted at [cdn.mathjax.org](https://www.mathjax.org/cdn-shutting-down/) has retired. We can replace `cdn.mathjax.org` with [MathJax v3](https://docs.mathjax.org/en/latest/web/start.html):
+
+```html
+<script>
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$']], processEscapes: true }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+```
 
 ### Add plugins
 
