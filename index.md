@@ -6,7 +6,7 @@ hide_title: true
 nav_title: Home
 seo_title: Hong-Yi Zhang
 permalink: /
-trans_link: /zh
+trans_link: /zh/
 description: Theoretical cosmology and astroparticle physics at Tsung-Dao Lee Institute
 ---
 

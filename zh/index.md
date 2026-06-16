@@ -5,7 +5,7 @@ title: 张闳一
 hide_title: true
 nav_title: 首页
 seo_title: 张闳一
-permalink: /zh
+permalink: /zh/
 trans_link: /
 description: 李政道研究所宇宙学和天体粒子物理
 ---

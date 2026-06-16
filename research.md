@@ -5,8 +5,8 @@ title: Research
 hide_title: false
 nav_title: Research
 seo_title: Research | Hong-Yi Zhang
-permalink: /research
-trans_link: /zh/research
+permalink: /research/
+trans_link: /zh/research/
 ---
 
 ### Research interests

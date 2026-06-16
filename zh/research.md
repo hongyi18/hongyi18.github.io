@@ -5,8 +5,8 @@ title: 科研
 hide_title: false
 nav_title: 科研
 seo_title: 科研 | 张闳一
-permalink: /zh/research
-trans_link: /research
+permalink: /zh/research/
+trans_link: /research/
 ---
 
 ### 研究兴趣
