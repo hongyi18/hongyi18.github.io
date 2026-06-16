@@ -3,15 +3,9 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/_settings.scss` to update shared variable defaults.)
 
-// Justify texts in the homepage (index.md).
-.home p {
-  text-align: justify;
-}
-
 .page-title-centered {
   text-align: center;
 }
-
 
 .home-photo {
   float: right;
@@ -21,14 +15,6 @@
   margin-bottom: 12px;
   border-radius: 8px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
-}
-
-@media screen and (max-width: 600px) {
-  .home-photo {
-    float: none;
-    display: block;
-    margin: 0 auto 16px;
-  }
 }
 
 .post-figure {
