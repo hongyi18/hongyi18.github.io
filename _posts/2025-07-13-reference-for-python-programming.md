@@ -13,8 +13,7 @@ Here is a brief guide for Python programming.
 
 **Table of contents**
 
-* TOC 
-  {:toc}
+{% include toc.md %}
 
 ### Anaconda and Conda
 

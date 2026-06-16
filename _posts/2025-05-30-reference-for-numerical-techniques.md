@@ -13,8 +13,7 @@ Here is a brief review of basic numerical techniques, including commands for usi
 
 **Table of contents**
 
-* TOC 
-  {:toc}
+{% include toc.md %}
 
 ### Linux cheatsheet
 
