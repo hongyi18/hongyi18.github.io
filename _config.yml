@@ -26,6 +26,7 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
+lang: en
 
 # Google Analytics and Google Search Console verification
 google_analytics: G-H5XYXQSZCC

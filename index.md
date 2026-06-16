@@ -1,6 +1,13 @@
 ---
 layout: home
+lang: en
+title: Hong-Yi Zhang
+description: Theoretical cosmology and astroparticle physics at Tsung-Dao Lee Institute
+translation: /zh/
+hide_title: true
 ---
+
+<p class="language-switch">English | <a href="/zh/">中文</a></p>
 
 <span style="font-size: 1.17em;">Welcome!</span>
 
