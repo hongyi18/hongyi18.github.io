@@ -10,7 +10,6 @@ description: >
 
 
 header_pages:
-  - index.md
   - research.md
   - teaching.md
   - activities.md
