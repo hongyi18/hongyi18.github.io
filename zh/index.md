@@ -20,7 +20,7 @@ hide_title: true
 
 这些方向是我学术兴趣的核心，但我也对更广泛的物理领域很感兴趣，比如凝聚态物理、统计物理和信息科学，也乐于参与跨学科合作。除了物理研究之外，我也是一名[业余钢琴爱好者](/personal/)。如果你有有趣的想法或项目，且与我的兴趣有所交集，非常欢迎和我交流讨论！
 
-### 个人简介与联系方式
+### 学术主页与联系方式
 
 - 学术主页：[INSPIRE-HEP](https://inspirehep.net/authors/1790638?ui-citation-summary=true)、[Google Scholar](https://scholar.google.com/citations?user=0PJ7FBAAAAAJ)
 - 邮箱：hongyi18 [at] sjtu [dot] edu [dot] cn
