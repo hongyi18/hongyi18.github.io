@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome! 
+**Welcome!**
 
 <img class="home-photo" src="/index/photo.jpg" alt="Portrait of Hong-Yi Zhang">
 
@@ -12,14 +12,10 @@ While these topics drive my academic passion, I am also excited about the broade
 
 ## Contact
 
-**Email:** <hongyi18@sjtu.edu.cn>
-
-**Office:** S436, Tsung-Dao Lee Institute
-
-**Address:** 1 Lisuo Road, Pudong New Area, Shanghai 201210
-
-**Research profile:** [INSPIRE-HEP](https://inspirehep.net/authors/1790638)
-
+**Email:** <hongyi18@sjtu.edu.cn> <br>
+**Office:** S436, Tsung-Dao Lee Institute <br>
+**Address:** 1 Lisuo Road, Pudong New Area, Shanghai 201210 <br>
+**Research profile:** [INSPIRE-HEP](https://inspirehep.net/authors/1790638) <br>
 **Media:** [GitHub](https://github.com/hongyi18), [Facebook](https://www.facebook.com/hongyi.zhang.52687/) and [WeChat Subscription Accounts (Cleveron)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU5ODgzMjI3OA==)
 
 ## Professional appointments & education
