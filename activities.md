@@ -38,7 +38,7 @@ description: Recent activities of Dr. Hong-Yi Zhang, including media reports, co
 16. 2021.04, Beyond Schroedinger-Poisson: Nonrelativistic effective field theory for scalar dark matter, @ AU Seminar, Rice University, Houston.
 17. 2020.04, Classical decay rates of oscillons, @ AU Seminar, Rice University, Houston.
 
-### Conferences, Symposiums, and Workshops
+### Conferences, symposiums, and workshops
 
 Invited talks:
 
