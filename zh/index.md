@@ -7,7 +7,7 @@ nav_title: 首页
 seo_title: 张闳一
 permalink: /zh/
 trans_link: /
-description: 李政道研究所宇宙学和天体粒子物理
+description: 张闳一博士的主页，李政道研究所宇宙学和天体粒子物理。
 ---
 
 <span style="font-size: 1.2em;">欢迎访问！</span>
@@ -28,6 +28,6 @@ description: 李政道研究所宇宙学和天体粒子物理
 
 ### 工作经历与教育背景
 
-- 2024.04—目前，博士后，[上海交通大学李政道研究所](https://tdli.sjtu.edu.cn/)。合作导师：[Luca Visinelli](https://lucavisinelli.com/)、[赖东](https://donglai6.github.io/)。
+- 2024.04—目前，思源博士后，[上海交通大学李政道研究所](https://tdli.sjtu.edu.cn/)。合作导师：[Luca Visinelli](https://lucavisinelli.com/)、[赖东](https://donglai6.github.io/)。
 - 2018.08—2023.12，物理学博士，[美国莱斯大学物理与天文学院](https://physics.rice.edu/)。导师：[Mustafa A. Amin](https://mustafa-amin.com/)。我的博士委员会还包括[Andrew J. Long](https://al72.blogs.rice.edu/)。
 - 2014.09—2018.06，物理学学士，[南京大学物理学院](https://physics.nju.edu.cn/)。

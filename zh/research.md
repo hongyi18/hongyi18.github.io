@@ -7,6 +7,7 @@ nav_title: 科研
 seo_title: 科研 | 张闳一
 permalink: /zh/research/
 trans_link: /research/
+description: 张闳一博士的研究兴趣，包括暗物质理论与唯象学、基础物理的天体物理实验室，以及宇宙学中的非线性动力学。
 ---
 
 ### 研究兴趣
