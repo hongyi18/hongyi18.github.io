@@ -43,7 +43,7 @@ description: Recent activities of Dr. Hong-Yi Zhang, including media reports, co
 Invited talks:
 
 1. 2026.06, Magnetic white dwarfs as time-domain axion laboratories, @ Astro Postdoc Symposium, Tsung-Dao Lee Institute (TDLI), Shanghai.
-2. 2026.01, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves [[pdf]](https://hongyi18.github.io/activities/2026-01-06-dark-matter-nonminimal-coupling.pdf), @ [COSPA’26](https://investigacion.uss.cl/evento/workshop-on-cosmology-and-particle-physics-cospa-26/), Universidad San Sebastián, Santiago.
+2. 2026.01, Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves [[pdf]](/activities/2026-01-06-dark-matter-nonminimal-coupling.pdf), @ [COSPA’26](https://investigacion.uss.cl/evento/workshop-on-cosmology-and-particle-physics-cospa-26/), Universidad San Sebastián, Santiago.
 3. 2024.12, Solitons in ultralight dark matter, @ Winter Mini-Symposium, Tsung-Dao Lee Institute (TDLI), Shanghai.
 4. 2022.06, A singularity problem for interacting massive vectors, @ [TASI](https://www.colorado.edu/physics/TASI/Program-Overview), University of Colorado Boulder (CU Boulder), Boulder.
 
