@@ -42,6 +42,7 @@ description: 张闳一博士的学术动态，包括学术讲座、研讨会、�
 
 邀请报告：
 
+1. 2026.08，当星光隐入轴子：探索新物理的时域窗口，[第五届轴子物理和实验国际会议](https://indico.itp.ac.cn/event/416/)，青岛市。
 1. 2026.06，磁白矮星作为时域轴子实验室，天体物理博士后研讨会，上海市 李政道研究所。
 2. 2026.01，暗物质与非最小耦合引力——从引力透镜到引力波 [[pdf]](https://hongyi18.github.io/activities/2026-01-06-dark-matter-nonminimal-coupling.pdf)，[宇宙学和粒子物理研讨会](https://investigacion.uss.cl/evento/workshop-on-cosmology-and-particle-physics-cospa-26/)，智利圣地亚哥 圣塞巴斯蒂安大学。
 3. 2024.12，超轻暗物质的孤子结构，冬季研讨会，上海市 李政道研究所。
