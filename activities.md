@@ -50,7 +50,7 @@ Invited talks:
 
 Contributed talks:
 
-1. 2026.07, Time-domain axion searchers with magnetic white dwarfs, @ [GGI workshop: Exploring New Frontiers in Cosmology](https://indico.in2p3.fr/event/39253/), Galileo Galilei Institute for Theoretical Physics, Firenze.
+1. 2026.07, Time-domain axion searches with magnetic white dwarfs, @ [GGI workshop: Exploring New Frontiers in Cosmology](https://indico.in2p3.fr/event/39253/), Galileo Galilei Institute for Theoretical Physics, Firenze.
 2. 2026.04, Soliton mergers and radio transients: A new window on dark photon dark matter, @ [4th TOPAC](https://indico-tdli.sjtu.edu.cn/event/4560/), University of Electronic Science and Technology of China (UESTC), Chengdu.
 3. 2026.04, Soliton mergers and radio transients: A new window on dark photon dark matter, @ [18th Symposium on Frontier Issues in the Interdisciplinary Field of Particle Physics, Nuclear Physics and Cosmology](https://indico.ihep.ac.cn/event/27088/), Guilin.
 4. 2025.09, Constraining dark photon dark matter with radio silence from soliton mergers around supermassive black holes, @ [Postdoctoral Frontier Symposium in Physics and Astronomy](https://indico-tdli.sjtu.edu.cn/event/4229/), Tsung-Dao Lee Institute (TDLI), Shanghai.

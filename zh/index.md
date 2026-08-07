@@ -31,3 +31,9 @@ description: 张闳一博士的主页，李政道研究所宇宙学和天体粒�
 - 2024.04—目前，思源博士后，[上海交通大学李政道研究所](https://tdli.sjtu.edu.cn/)。合作导师：[Luca Visinelli](https://lucavisinelli.com/)、[赖东](https://donglai6.github.io/)。
 - 2018.08—2023.12，物理学博士，[美国莱斯大学物理与天文学院](https://physics.rice.edu/)。导师：[Mustafa A. Amin](https://mustafa-amin.com/)。我的博士委员会还包括[Andrew J. Long](https://al72.blogs.rice.edu/)。
 - 2014.09—2018.06，物理学学士，[南京大学物理学院](https://physics.nju.edu.cn/)。
+
+### 近期动态
+
+- 2026.08，受邀在青岛举办的[第五届轴子物理和实验国际会议](https://indico.itp.ac.cn/event/416/)作报告“当星光隐入轴子：探索新物理的时域窗口”。
+- 2026.07，在意大利佛罗伦萨伽利略理论物理研究所举办的[宇宙学前沿研讨会](https://indico.in2p3.fr/event/39253/)作报告“利用磁白矮星开展时域轴子搜寻”。
+- 2026.07，我与西安交通大学的边恒同学、左兆宇教授合作的关于[用白矮星探测轴子](https://arxiv.org/abs/2607.18647)的工作正式在arXiv上线啦！
