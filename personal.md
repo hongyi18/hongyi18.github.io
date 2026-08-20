@@ -7,10 +7,10 @@ nav_title: Personal
 seo_title: Personal | Hong-Yi Zhang
 permalink: /personal/
 trans_link: /zh/personal/
-description: Music and life of Dr. Hong-Yi Zhang.
+description: Piano performances, concerts, music salons, and recordings by physicist and amateur pianist Hong-Yi Zhang, featuring classical and Chinese music.
 ---
 
-<img src="/personal/piano.png" alt="Hong-Yi Zhang performing at piano" width="100%">
+<img src="/personal/piano.png" alt="Hong-Yi Zhang performing classical music at the piano" width="100%">
 
 ### Concerts and music salons
 

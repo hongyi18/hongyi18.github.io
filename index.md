@@ -4,15 +4,15 @@ lang: en
 title: Hong-Yi Zhang
 hide_title: true
 nav_title: Home
-seo_title: Hong-Yi Zhang
+seo_title: Hong-Yi Zhang | Theoretical Cosmology & Astroparticle Physics
 permalink: /
 trans_link: /zh/
-description: Homepage of Dr. Hong-Yi Zhang; theoretical cosmology and astroparticle physics at the Tsung-Dao Lee Institute.
+description: Hong-Yi Zhang is a theoretical cosmologist at the Tsung-Dao Lee Institute studying dark matter, axions, ultralight fields, compact objects, and nonlinear dynamics.
 ---
 
 <span style="font-size: 1.2em;">Welcome!</span>
 
-<img class="home-photo" src="/index/photo.jpg" alt="Portrait of Hong-Yi Zhang">
+<img class="home-photo" src="/index/photo.jpg" alt="Portrait of theoretical physicist Hong-Yi Zhang">
 
 I am a postdoc at the [Tsung-Dao Lee Institute of Shanghai Jiao Tong University](https://tdli.sjtu.edu.cn/en/). I work on **theoretical cosmology and astroparticle physics**, focusing on some of the most captivating and complex challenges in fundamental physics, such as dark matter, ultralight particles and fields, astrophysical compact objects, complex systems and nonlinear dynamics, etc.
 

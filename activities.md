@@ -7,14 +7,14 @@ nav_title: Activities
 seo_title: Activities | Hong-Yi Zhang
 permalink: /activities/
 trans_link: /zh/activities/
-description: Recent activities of Dr. Hong-Yi Zhang, including media reports, colloquiums, seminars, conferences, symposiums, workshops, and outreach.
+description: Talks, conferences, media coverage, and outreach by Hong-Yi Zhang on dark matter, axions, compact objects, gravitational physics, and cosmology.
 ---
 
 **Table of contents**
 
 {% include toc.md %}
 
-### Colloquiums
+### Colloquia
 
 1. 2025.11, Soliton mergers and radio transients: A new window on dark photon dark matter, @ University of Electronic Science and Technology of China (UESTC), Chengdu.
 

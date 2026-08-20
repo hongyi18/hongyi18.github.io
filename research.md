@@ -7,7 +7,7 @@ nav_title: Research
 seo_title: Research | Hong-Yi Zhang
 permalink: /research/
 trans_link: /zh/research/
-description: Research interests of Dr. Hong-Yi Zhang, including dark matter theory and phenomenology, astrophysical laboratories for fundamental physics, and nonlinear dynamics in cosmology.
+description: Research by Hong-Yi Zhang on ultralight dark matter, axions, dark photons, compact objects, astrophysical probes of new physics, and nonlinear cosmology.
 ---
 
 ### Research interests
