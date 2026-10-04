@@ -1174,6 +1174,10 @@
     display_date: "2022年"
     title: "William & Elva Gordon 奖研金"
     organization: "莱斯大学"
+  links:
+    - en: "Recipients"
+      zh: "获奖名单"
+      url: "https://physics.rice.edu/past-william-and-elva-gordon-award-recipients"
 
 # 2021
 
@@ -1379,6 +1383,10 @@
     display_date: "2020年"
     title: "Chuoke 奖"
     organization: "莱斯大学"
+  links:
+    - en: "Recipients"
+      zh: "获奖名单"
+      url: "https://physics.rice.edu/past-chuoke-award-recipients"
 
 # 2019
 
