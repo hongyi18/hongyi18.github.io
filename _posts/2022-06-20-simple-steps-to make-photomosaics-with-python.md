@@ -12,9 +12,10 @@ Fancy photographic mosaics appear everywhere, and many of them are made by profe
 <!--more-->
 
 <figure class="post-figure">
-  <img src="/blog/2022-06-20/schubert.jpg">
+  <img src="/blog/2022-06-20/schubert.jpg" alt="Photomosaic portrait of Franz Schubert">
   <figcaption>Franz Peter Schubert, one of my favoriate musician. This portrait is a photomosaic made up of pure color squares.</figcaption>
 </figure>
+
 
 First, we need to install photomosaic package
 
