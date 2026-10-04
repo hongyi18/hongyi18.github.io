@@ -1,0 +1,1542 @@
+# Shared facts once; adjacent English and Chinese display text.
+# See docs/activities-maintenance.md for editing rules.
+
+# 2026
+
+- id: "paper-2026-09-metastable-neutron-stars"
+  date: "2026-09-24"
+  type: "paper"
+  subtype: "paper"
+  highlight: true
+  en:
+    display_date: "24 Sep 2026"
+    title: "Metastable neutron stars as transient-rate detectors of heavy dark matter"
+    organization: "arXiv preprint"
+    highlight_title: "Neutron stars could reveal heavy dark matter"
+    highlight_text: "Our study proposes a new dark-matter test using the rates of neutron-star transients."
+  zh:
+    display_date: "2026年9月24日"
+    title: "亚稳态中子星作为重暗物质的瞬变事件率探测器"
+    organization: "arXiv 预印本"
+    highlight_title: "中子星或能揭开重暗物质的踪迹"
+    highlight_text: "我们的研究提出利用中子星瞬变事件率，为重暗物质寻找新的检验途径。"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2609.30335"
+
+- id: "talk-2026-08-axion-qingdao"
+  date: "2026-08-11"
+  type: "talk"
+  subtype: "conference_talk"
+  highlight: true
+  has_slides: true
+  en:
+    display_date: "11 Aug 2026"
+    distinction: "Invited talk"
+    title: "When stars dim into axions: A time-domain window on new physics"
+    organization: "5th International Conference on Axion Physics and Experiment"
+    location: "Qingdao, China"
+    highlight_title: "Fading starlight could reveal axions"
+    highlight_text: "My invited Axion 2026 talk explores how magnetic white dwarfs could expose new physics through changing brightness."
+  zh:
+    display_date: "2026年8月11日"
+    distinction: "邀请报告"
+    title: "当星光隐入轴子：探索新物理的时域窗口"
+    organization: "第五届轴子物理和实验国际会议"
+    location: "中国，青岛"
+    highlight_title: "星光明暗之间，寻找轴子的踪迹"
+    highlight_text: "在2026年轴子会议的邀请报告中，我介绍如何利用磁白矮星的亮度变化探寻新物理。"
+  links:
+    - label: "event"
+      url: "https://indico.itp.ac.cn/event/416/"
+    - label: "slides"
+      url: "/activities/2026-08-11-mwd-axion.pdf"
+
+- id: "talk-2026-07-ggi"
+  date: "2026-07-22"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "22 Jul 2026"
+    title: "Time-domain axion searches with magnetic white dwarfs"
+    organization: "Exploring New Frontiers in Cosmology"
+    host: "Galileo Galilei Institute for Theoretical Physics (GGI)"
+    location: "Florence, Italy"
+  zh:
+    display_date: "2026年7月22日"
+    title: "利用磁白矮星开展时域轴子搜寻"
+    organization: "探索宇宙学新前沿研讨会"
+    host: "伽利略理论物理研究所"
+    location: "意大利，佛罗伦萨"
+  links:
+    - label: "event"
+      url: "https://indico.in2p3.fr/event/39253/"
+
+- id: "paper-2026-07-time-domain-axion"
+  date: "2026-07-21"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "21 Jul 2026"
+    title: "Time-domain axion searches with magnetic white dwarfs"
+    organization: "arXiv preprint"
+  zh:
+    display_date: "2026年7月21日"
+    title: "利用磁白矮星开展时域轴子搜寻"
+    organization: "arXiv 预印本"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2607.18647"
+
+- id: "talk-2026-07-salerno"
+  date: "2026-07-17"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "17 Jul 2026"
+    title: "Time-domain axion searches with magnetic white dwarfs"
+    organization: "Seminar"
+    location: "Fisciano, Italy"
+    host: "University of Salerno"
+  zh:
+    display_date: "2026年7月17日"
+    title: "利用磁白矮星开展时域轴子搜寻"
+    organization: "研讨会"
+    location: "意大利，菲夏诺"
+    host: "萨莱诺大学"
+  links:
+    - label: "event"
+      url: "https://www.df.unisa.it/unisa-rescue-page/dettaglio/id/2080/module/487/row/12594/time-domain-axion-searches-with-magnetic-white-dwarfs"
+
+- id: "talk-2026-07-bonn"
+  date: "2026-07-13"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "13 Jul 2026"
+    title: "Time-domain axion searches with magnetic white dwarfs"
+    organization: "Bethe Center for Theoretical Physics (BCTP)"
+    host: "University of Bonn"
+    location: "Bonn, Germany"
+  zh:
+    display_date: "2026年7月13日"
+    title: "利用磁白矮星开展时域轴子搜寻"
+    organization: "贝特理论物理中心"
+    host: "波恩大学"
+    location: "德国，波恩"
+
+- id: "talk-2026-07-lisbon"
+  date: "2026-07-08"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "8 Jul 2026"
+    title: "Time-domain axion searches with magnetic white dwarfs"
+    organization: "Instituto Superior Técnico (IST)"
+    host: "University of Lisbon"
+    location: "Lisbon, Portugal"
+  zh:
+    display_date: "2026年7月8日"
+    title: "利用磁白矮星开展时域轴子搜寻"
+    organization: "高等理工学院"
+    host: "里斯本大学"
+    location: "葡萄牙，里斯本"
+
+- id: "talk-2026-06-tdli-astro"
+  date: "2026-06-09"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "9 Jun 2026"
+    distinction: "Invited talk"
+    title: "Magnetic white dwarfs as time-domain axion laboratories"
+    organization: "1st Astro Postdoc Symposium"
+    host: "Tsung-Dao Lee Institute (TDLI)"
+    location: "Shanghai, China"
+  zh:
+    display_date: "2026年6月9日"
+    distinction: "邀请报告"
+    title: "磁白矮星作为时域轴子实验室"
+    organization: "首届天体物理博士后研讨会"
+    host: "李政道研究所"
+    location: "中国，上海"
+  links:
+    - label: "event"
+      url: "https://indico-tdli.sjtu.edu.cn/event/4983/"
+
+- id: "talk-2026-04-topac"
+  date: "2026-04-19"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "19 Apr 2026"
+    title: "Soliton mergers and radio transients: A new window on dark photon dark matter"
+    organization: "4th Topics of Particle, Astro and Cosmo Frontiers (TOPAC)"
+    host: "University of Electronic Science and Technology of China (UESTC)"
+    location: "Chengdu, China"
+  zh:
+    display_date: "2026年4月19日"
+    title: "孤子合并与射电瞬变：暗光子暗物质的新观测窗口"
+    organization: "第四届粒子物理、天体物理和宇宙学前沿研讨会（TOPAC）"
+    host: "电子科技大学"
+    location: "中国，成都"
+  links:
+    - label: "event"
+      url: "https://indico-tdli.sjtu.edu.cn/event/4560/"
+
+- id: "talk-2026-04-guilin"
+  date: "2026-04-12"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "12 Apr 2026"
+    title: "Soliton mergers and radio transients: A new window on dark photon dark matter"
+    organization: "18th Symposium on Frontier Issues in the Interdisciplinary Field of Particle Physics, Nuclear Physics and Cosmology"
+    location: "Guilin, China"
+  zh:
+    display_date: "2026年4月12日"
+    title: "孤子合并与射电瞬变：暗光子暗物质的新观测窗口"
+    organization: "第十八届粒子物理、核物理和宇宙学交叉学科前沿问题研讨会"
+    location: "中国，桂林"
+  links:
+    - label: "event"
+      url: "https://indico.ihep.ac.cn/event/27088/"
+
+- id: "media-2026-04-lensing"
+  date: "2026-04"
+  type: "media"
+  subtype: "media_coverage"
+  en:
+    display_date: "Apr 2026"
+    title: "Demagnifying gravitational lenses reveal dark matter structures and modified gravity"
+    organization: "Tsung-Dao Lee Institute (TDLI) and Shanghai Jiao Tong University (SJTU)"
+  zh:
+    display_date: "2026年4月"
+    title: "减放大引力透镜揭示暗物质结构与修正引力"
+    organization: "李政道研究所与上海交通大学"
+  links:
+    - label: "tdli"
+      url: "https://mp.weixin.qq.com/s/gNE0DwjH2VNGLZKW4LtHsA"
+    - label: "sjtu_news"
+      url: "https://news.sjtu.edu.cn/jdzh/20260422/221997.html"
+    - label: "related_paper"
+      url: "#paper-2025-10-demagnifying-lenses"
+
+- id: "talk-2026-01-cospa"
+  date: "2026-01-06"
+  type: "talk"
+  subtype: "conference_talk"
+  has_slides: true
+  en:
+    display_date: "6 Jan 2026"
+    distinction: "Invited talk"
+    title: "Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves"
+    organization: "Workshop on Cosmology and Particle Physics (COSPA'26)"
+    host: "Universidad San Sebastián"
+    location: "Santiago, Chile"
+  zh:
+    display_date: "2026年1月6日"
+    distinction: "邀请报告"
+    title: "暗物质与非最小耦合引力：从引力透镜到引力波"
+    organization: "宇宙学和粒子物理研讨会（COSPA'26）"
+    host: "圣塞巴斯蒂安大学"
+    location: "智利，圣地亚哥"
+  links:
+    - label: "event"
+      url: "https://investigacion.uss.cl/evento/workshop-on-cosmology-and-particle-physics-cospa-26/"
+    - label: "slides"
+      url: "/activities/2026-01-06-dark-matter-nonminimal-coupling.pdf"
+
+# 2025
+
+- id: "talk-2025-11-fuzhou"
+  date: "2025-11-28"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "28 Nov 2025"
+    title: "Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves"
+    organization: "International Young Scholar Forum"
+    host: "Fuzhou University"
+    location: "Fuzhou, China"
+  zh:
+    display_date: "2025年11月28日"
+    title: "暗物质与非最小耦合引力：从引力透镜到引力波"
+    organization: "国际青年学者论坛"
+    host: "福州大学"
+    location: "中国，福州"
+
+- id: "talk-2025-11-uestc"
+  date: "2025-11-10"
+  type: "talk"
+  subtype: "colloquium"
+  en:
+    display_date: "10 Nov 2025"
+    title: "Soliton mergers and radio transients: A new window on dark photon dark matter"
+    organization: "Colloquium"
+    location: "Chengdu, China"
+    host: "University of Electronic Science and Technology of China (UESTC)"
+  zh:
+    display_date: "2025年11月10日"
+    title: "孤子合并与射电瞬变：暗光子暗物质的新观测窗口"
+    organization: "学术讲座"
+    location: "中国，成都"
+    host: "电子科技大学"
+  links:
+    - label: "event"
+      url: "https://www.sp.uestc.edu.cn/info/1082/3007.htm"
+
+- id: "talk-2025-11-southwest"
+  date: "2025-11-06"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "6 Nov 2025"
+    title: "Soliton mergers and radio transients: A new window on dark photon dark matter"
+    organization: "Southwest University"
+    location: "Chongqing, China"
+  zh:
+    display_date: "2025年11月6日"
+    title: "孤子合并与射电瞬变：暗光子暗物质的新观测窗口"
+    organization: "西南大学"
+    location: "中国，重庆"
+  links:
+    - label: "event"
+      url: "https://www.swu.edu.cn/info/1085/26208.htm"
+
+- id: "talk-2025-11-xian"
+  date: "2025-11-01"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "1 Nov 2025"
+    title: "Dark matter and nonminimal couplings to gravity: From gravitational lensing to gravitational waves"
+    organization: "Silk Road International Symposium"
+    host: "Xi'an Jiaotong University"
+    location: "Xi'an, China"
+  zh:
+    display_date: "2025年11月1日"
+    title: "暗物质与非最小耦合引力：从引力透镜到引力波"
+    organization: "丝绸之路国际研讨会"
+    host: "西安交通大学"
+    location: "中国，西安"
+
+- id: "paper-2025-10-demagnifying-lenses"
+  date: "2025-10-07"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "7 Oct 2025"
+    title: "Demagnifying gravitational lenses as probes of dark matter structures and nonminimal couplings to gravity"
+    organization: "The Astrophysical Journal Letters (2026)"
+    distinction: "Media coverage"
+  zh:
+    display_date: "2025年10月7日"
+    title: "利用减放大引力透镜探测暗物质结构及其与引力的非最小耦合"
+    organization: "The Astrophysical Journal Letters (2026)"
+    distinction: "媒体报道"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2510.05575"
+    - label: "journal"
+      url: "https://doi.org/10.3847/2041-8213/ae5a90"
+    - label: "related_coverage"
+      url: "#media-2026-04-lensing"
+
+- id: "talk-2025-09-postdoc"
+  date: "2025-09-26"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "26 Sep 2025"
+    title: "Constraining dark photon dark matter with radio silence from soliton mergers around supermassive black holes"
+    organization: "Postdoctoral Frontier Symposium in Physics and Astronomy"
+    host: "Tsung-Dao Lee Institute (TDLI)"
+    location: "Shanghai, China"
+  zh:
+    display_date: "2025年9月26日"
+    title: "利用超大质量黑洞周围孤子并合的射电静默约束暗光子暗物质"
+    organization: "物理学与天文学博士后前沿研讨会"
+    host: "李政道研究所"
+    location: "中国，上海"
+  links:
+    - label: "event"
+      url: "https://indico-tdli.sjtu.edu.cn/event/4229/"
+
+- id: "paper-2025-09-radio-silence"
+  date: "2025-09-10"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "10 Sep 2025"
+    title: "Constraining dark photon dark matter with radio silence from soliton mergers around supermassive black holes"
+    organization: "Journal of Cosmology and Astroparticle Physics (2026)"
+  zh:
+    display_date: "2025年9月10日"
+    title: "利用超大质量黑洞周围孤子并合的射电静默约束暗光子暗物质"
+    organization: "Journal of Cosmology and Astroparticle Physics (2026)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2509.08932"
+    - label: "journal"
+      url: "https://doi.org/10.1088/1475-7516/2026/07/104"
+
+- id: "talk-2025-08-taup"
+  date: "2025-08-25"
+  type: "talk"
+  subtype: "conference_talk"
+  has_slides: true
+  en:
+    display_date: "25 Aug 2025"
+    title: "Dark photon dark matter from flattened axion potentials"
+    organization: "XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP 2025)"
+    location: "Xichang, China"
+  zh:
+    display_date: "2025年8月25日"
+    title: "利用平坦轴子势产生暗光子暗物质"
+    organization: "第十九届天体粒子物理与地下物理国际会议（TAUP 2025）"
+    location: "中国，西昌"
+  links:
+    - label: "event"
+      url: "https://indico-cdex.ep.tsinghua.edu.cn/event/175/"
+    - label: "slides"
+      url: "/activities/2025-08-25-dark-photon-axion.pdf"
+
+- id: "tool-2025-07-axion-dark-photon-simulator"
+  date: "2025-07-28"
+  tie_order: 1
+  type: "tool"
+  subtype: "software"
+  highlight: true
+  en:
+    display_date: "28 Jul 2025"
+    title: "AxionDarkPhotonSimulator"
+    organization: "Python package"
+    highlight_text: "Follow axions and dark photons through an expanding universe with my open-source Python simulator."
+    note: "Axion–dark-photon simulations in an expanding universe"
+  zh:
+    display_date: "2025年7月28日"
+    title: "AxionDarkPhotonSimulator"
+    organization: "Python 软件包"
+    highlight_text: "用我开发的开源 Python 模拟器，追踪膨胀宇宙中轴子与暗光子的演化。"
+    note: "模拟膨胀宇宙中的轴子–暗光子动力学"
+  links:
+    - label: "github"
+      url: "https://github.com/hongyi18/AxionDarkPhotonSimulator/"
+    - label: "related_paper"
+      url: "#paper-2025-07-flattened-axion"
+
+- id: "paper-2025-07-flattened-axion"
+  date: "2025-07-28"
+  tie_order: 2
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "28 Jul 2025"
+    title: "Dark photon dark matter from flattened axion potentials"
+    organization: "Journal of High Energy Physics (2025)"
+  zh:
+    display_date: "2025年7月28日"
+    title: "利用平坦轴子势产生暗光子暗物质"
+    organization: "Journal of High Energy Physics (2025)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2507.20484"
+    - label: "journal"
+      url: "https://doi.org/10.1007/JHEP10(2025)142"
+    - label: "related_software"
+      url: "#tool-2025-07-axion-dark-photon-simulator"
+
+- id: "media-2025-07-neutrino"
+  date: "2025-07"
+  type: "media"
+  subtype: "media_coverage"
+  highlight: true
+  en:
+    display_date: "Jul–Aug 2025"
+    title: "Neutrino experiments challenge a dark-matter origin of neutrino mass"
+    organization: "Tsung-Dao Lee Institute (TDLI) and Shanghai Jiao Tong University (SJTU)"
+    distinction: "Featured on Phys.org"
+    highlight_title: "Can dark matter give neutrinos mass? Experiments weigh in"
+    highlight_text: "Phys.org features our study testing the idea with neutrino oscillation experiments."
+  zh:
+    display_date: "2025年7–8月"
+    title: "中微子实验对中微子质量的暗物质起源提出挑战"
+    organization: "李政道研究所与上海交通大学"
+    distinction: "获 Phys.org 专题报道"
+    highlight_title: "暗物质能赋予中微子质量吗？实验来检验"
+    highlight_text: "我们利用中微子振荡实验检验这一设想的研究，获 Phys.org 专题报道。"
+  links:
+    - label: "tdli"
+      url: "https://mp.weixin.qq.com/s/nCmDFHN5hIirzIvGPKIwNg"
+    - label: "sjtu_news"
+      url: "https://news.sjtu.edu.cn/jdzh/20250724/213260.html"
+    - label: "phys_org"
+      url: "https://phys.org/news/2025-07-neutrino-masses-interactions-dark.html"
+    - label: "related_paper"
+      url: "#paper-2025-03-dark-origin-neutrino"
+
+- id: "talk-2025-06-naples"
+  date: "2025-06-12"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "12 Jun 2025"
+    title: "Ultralight dark matter: From small-scale structure to dynamic neutrino mass"
+    organization: "Scuola Superiore Meridionale"
+    host: "University of Naples Federico II"
+    location: "Naples, Italy"
+  zh:
+    display_date: "2025年6月12日"
+    title: "超轻暗物质：从小尺度结构到动态中微子质量"
+    organization: "南方高等研究学院"
+    host: "那不勒斯腓特烈二世大学"
+    location: "意大利，那不勒斯"
+
+- id: "talk-2025-06-salerno"
+  date: "2025-06-10"
+  type: "talk"
+  subtype: "seminar"
+  has_slides: true
+  en:
+    display_date: "10 Jun 2025"
+    title: "Ultralight dark matter: From small-scale structure to dynamic neutrino mass"
+    organization: "Seminar"
+    location: "Fisciano, Italy"
+    host: "University of Salerno"
+  zh:
+    display_date: "2025年6月10日"
+    title: "超轻暗物质：从小尺度结构到动态中微子质量"
+    organization: "研讨会"
+    location: "意大利，菲夏诺"
+    host: "萨莱诺大学"
+  links:
+    - label: "event"
+      url: "https://www.df.unisa.it/unisa-rescue-page/dettaglio/id/2080/module/487/row/11538/ultralight-dark-matter-from-small-scale-structure-to-the-dynamical-origin-of-neutrino-mass"
+    - label: "slides"
+      url: "/activities/2025-06-10-dm-nu-mass.pdf"
+
+- id: "talk-2025-06-dark-matter"
+  date: "2025-06-02"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "2 Jun 2025"
+    title: "Testing the dark origin of neutrino masses with oscillation experiments"
+    organization: "Dark Matter 2025"
+    location: "Santander, Spain"
+  zh:
+    display_date: "2025年6月2日"
+    title: "利用中微子振荡实验检验中微子质量的暗物质起源"
+    organization: "暗物质 2025 研讨会"
+    location: "西班牙，桑坦德"
+  links:
+    - label: "event"
+      url: "https://indico.ifca.es/event/3234/"
+
+- id: "talk-2025-05-planck"
+  date: "2025-05-27"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "27 May 2025"
+    title: "Testing the dark origin of neutrino masses with oscillation experiments"
+    organization: "PLANCK 2025"
+    location: "Padua, Italy"
+  zh:
+    display_date: "2025年5月27日"
+    title: "利用中微子振荡实验检验中微子质量的暗物质起源"
+    organization: "普朗克 2025 会议"
+    location: "意大利，帕多瓦"
+  links:
+    - label: "event"
+      url: "https://indico.dfa.unipd.it/event/1200/"
+
+- id: "talk-2025-05-ihp"
+  date: "2025-05-16"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "16 May 2025"
+    title: "Testing the dark origin of neutrino masses with oscillation experiments"
+    organization: "Dark Matter and Neutrinos"
+    host: "Institut Henri Poincaré (IHP)"
+    location: "Paris, France"
+  zh:
+    display_date: "2025年5月16日"
+    title: "利用中微子振荡实验检验中微子质量的暗物质起源"
+    organization: "暗物质与中微子研讨会"
+    host: "亨利·庞加莱研究所"
+    location: "法国，巴黎"
+  links:
+    - label: "event"
+      url: "https://indico.math.cnrs.fr/event/12305"
+
+- id: "paper-2025-03-dark-origin-neutrino"
+  date: "2025-03-11"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "11 Mar 2025"
+    title: "Testing the dark origin of neutrino masses with oscillation experiments"
+    organization: "Physical Review Letters (2025)"
+    distinction: "Media coverage"
+  zh:
+    display_date: "2025年3月11日"
+    title: "利用中微子振荡实验检验中微子质量的暗物质起源"
+    organization: "Physical Review Letters (2025)"
+    distinction: "媒体报道"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2503.08439"
+    - label: "journal"
+      url: "https://doi.org/10.1103/wyns-m4y5"
+    - label: "related_coverage"
+      url: "#media-2025-07-neutrino"
+
+- id: "outreach-2025-01-dimensions"
+  date: "2025-01"
+  type: "outreach"
+  subtype: "video"
+  highlight: true
+  en:
+    display_date: "Jan 2025"
+    title: "Why is our space 3-dimensional?"
+    organization: "Popular-science video"
+    distinction: "Video received Bronze Award, ShanghaiTech University's 2024 Popular Science Works Competition"
+    highlight_title: "Why is space three-dimensional?"
+    highlight_text: "An award-winning video brings my article on the dimensions of space to the screen."
+    note: "Source article author"
+  zh:
+    display_date: "2025年1月"
+    title: "为什么我们的空间是三维的？"
+    organization: "科普视频"
+    distinction: "视频获上海科技大学2024年原创科普作品大赛科普铜星奖"
+    highlight_title: "空间为什么偏偏是三维？"
+    highlight_text: "改编自我文章的科普视频，将空间维度之问搬上屏幕，并获科普作品奖项。"
+    note: "原文作者"
+  links:
+    - label: "video"
+      url: "https://www.bilibili.com/video/BV16X6iYyEHS/"
+    - label: "original_article"
+      url: "https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ"
+    - label: "award_announcement"
+      url: "https://mp.weixin.qq.com/s/dKpLlUb1KS3pm7QND-ZF7A"
+
+- id: "recognition-2025-cpsf-fellowship"
+  date: "2025"
+  tie_order: 1
+  type: "recognition"
+  subtype: "honor"
+  en:
+    display_date: "2025"
+    title: "CPSF Postdoctoral Fellowship Program"
+    organization: "China Postdoctoral Science Foundation (CPSF)"
+    note: "Funding not received because of incompatibility with other fellowships"
+  zh:
+    display_date: "2025年"
+    title: "国家资助博士后研究人员计划"
+    organization: "中国博士后科学基金会"
+    note: "已获评；因与其他资助不兼容，未领取经费"
+
+- id: "recognition-2025-cpsf-general-program"
+  date: "2025"
+  tie_order: 2
+  type: "recognition"
+  subtype: "grant"
+  en:
+    display_date: "2025–2026"
+    title: "CPSF General Program"
+    organization: "China Postdoctoral Science Foundation (CPSF)"
+    note: "¥80k research support"
+  zh:
+    display_date: "2025–2026年"
+    title: "中国博士后科学基金面上资助"
+    organization: "中国博士后科学基金会"
+    note: "8万元科研资助"
+
+- id: "recognition-2025-magnolia-plan-pujiang"
+  date: "2025"
+  tie_order: 3
+  type: "recognition"
+  subtype: "grant"
+  highlight: true
+  en:
+    display_date: "2025–2027"
+    title: "Shanghai Magnolia Talent Plan Pujiang Program"
+    organization: "Science and Technology Commission of Shanghai Municipality (STCSM)"
+    note: "¥300k research support"
+    highlight_title: "Shanghai’s Pujiang Program backs research with ¥300k"
+    highlight_text: "Research support through the Shanghai Magnolia Talent Plan Pujiang Program for 2025–2027."
+  zh:
+    display_date: "2025–2027年"
+    title: "上海白玉兰人才计划浦江项目"
+    organization: "上海市科学技术委员会"
+    note: "30万元科研资助"
+    highlight_title: "浦江项目资助30万元，支持科研探索"
+    highlight_text: "获上海白玉兰人才计划浦江项目支持，资助期为2025–2027年。"
+
+# 2024
+
+- id: "talk-2024-12-tdli"
+  date: "2024-12-16"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "16 Dec 2024"
+    distinction: "Invited talk"
+    title: "Solitons in ultralight dark matter"
+    organization: "Winter Mini-Symposium"
+    host: "Tsung-Dao Lee Institute (TDLI)"
+    location: "Shanghai, China"
+  zh:
+    display_date: "2024年12月16日"
+    distinction: "邀请报告"
+    title: "超轻暗物质中的孤子"
+    organization: "冬季小型研讨会"
+    host: "李政道研究所"
+    location: "中国，上海"
+  links:
+    - label: "event"
+      url: "https://indico-tdli.sjtu.edu.cn/event/2764/"
+
+- id: "talk-2024-11-fudan"
+  date: "2024-11-22"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "22 Nov 2024"
+    title: "Nonminimally gravitating ultralight dark matter"
+    organization: "Astronomy and Astrophysics Seminar"
+    location: "Shanghai, China"
+    host: "Fudan University"
+  zh:
+    display_date: "2024年11月22日"
+    title: "非最小引力耦合的超轻暗物质"
+    organization: "天文学与天体物理研讨会"
+    location: "中国，上海"
+    host: "复旦大学"
+
+- id: "tool-2024-11-unitconversion"
+  date: "2024-11-05"
+  type: "tool"
+  subtype: "software"
+  en:
+    display_date: "5 Nov 2024"
+    title: "UnitConversion"
+    organization: "Mathematica package"
+    note: "Unit conversion with customizable natural units"
+  zh:
+    display_date: "2024年11月5日"
+    title: "UnitConversion"
+    organization: "Mathematica 软件包"
+    note: "在可自定义的自然单位制中转换物理量"
+  links:
+    - label: "github"
+      url: "https://github.com/hongyi18/UnitConversion"
+    - label: "zenodo"
+      url: "https://doi.org/10.5281/zenodo.14086594"
+
+- id: "talk-2024-09-ustc"
+  date: "2024-09-25"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "25 Sep 2024"
+    title: "Solitons in ultralight dark matter"
+    organization: "Seminar"
+    location: "Hefei, China"
+    host: "University of Science and Technology of China (USTC)"
+  zh:
+    display_date: "2024年9月25日"
+    title: "超轻暗物质中的孤子"
+    organization: "研讨会"
+    location: "中国，合肥"
+    host: "中国科学技术大学"
+
+- id: "paper-2024-07-novel-solitons"
+  date: "2024-07-12"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "12 Jul 2024"
+    title: "Novel structures and collapse of solitons in nonminimally gravitating dark matter halos"
+    organization: "Journal of Cosmology and Astroparticle Physics (2024)"
+  zh:
+    display_date: "2024年7月12日"
+    title: "非最小引力耦合暗物质晕中孤子的新结构与坍缩"
+    organization: "Journal of Cosmology and Astroparticle Physics (2024)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2407.09265"
+    - label: "journal"
+      url: "https://doi.org/10.1088/1475-7516/2024/10/005"
+
+- id: "tool-2024-06-dm-soliton-finder"
+  date: "2024-06-07"
+  tie_order: 1
+  type: "tool"
+  subtype: "software"
+  en:
+    display_date: "7 Jun 2024"
+    title: "DMSolitonFinder"
+    organization: "Mathematica package"
+    distinction: "Featured in Wolfram Community Staff Picks and Publication Materials"
+    note: "Automated computation of dark-matter soliton profiles"
+  zh:
+    display_date: "2024年6月7日"
+    title: "DMSolitonFinder"
+    organization: "Mathematica 软件包"
+    distinction: "入选 Wolfram 社区的官方精选与出版资料栏目"
+    note: "自动计算暗物质孤子的解"
+  links:
+    - label: "github"
+      url: "https://github.com/hongyi18/DMSolitonFinder/"
+    - label: "related_paper"
+      url: "#paper-2024-06-unified-solitons"
+
+- id: "paper-2024-06-unified-solitons"
+  date: "2024-06-07"
+  tie_order: 2
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "7 Jun 2024"
+    title: "Unified view of scalar and vector dark matter solitons"
+    organization: "Journal of High Energy Physics (2025)"
+  zh:
+    display_date: "2024年6月7日"
+    title: "标量与矢量暗物质孤子的统一描述"
+    organization: "Journal of High Energy Physics (2025)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2406.05031"
+    - label: "journal"
+      url: "https://doi.org/10.1007/JHEP04(2025)174"
+    - label: "related_software"
+      url: "#tool-2024-06-dm-soliton-finder"
+
+- id: "poster-2024-05-topac"
+  date: "2024-05-31"
+  type: "talk"
+  subtype: "poster"
+  has_slides: true
+  en:
+    display_date: "31 May 2024"
+    title: "Neutron star cooling with lepton-flavor-violating axions"
+    organization: "2nd Topics of Particle, Astro and Cosmo Frontiers (TOPAC)"
+    host: "Southeast University"
+    location: "Nanjing, China"
+    distinction: "Best Poster Award"
+  zh:
+    display_date: "2024年5月31日"
+    title: "轻子味破坏轴子与中子星冷却"
+    organization: "第二届粒子物理、天体物理和宇宙学前沿研讨会（TOPAC）"
+    host: "东南大学"
+    location: "中国，南京"
+    distinction: "最佳墙报奖"
+  links:
+    - label: "event"
+      url: "https://indico-tdli.sjtu.edu.cn/event/2116/"
+    - label: "poster"
+      url: "/activities/2024-05-31-neutron-star-cooling.pdf"
+
+- id: "recognition-2024-siyuan-fellowship"
+  date: "2024"
+  type: "recognition"
+  subtype: "fellowship"
+  en:
+    display_date: "2024–2026"
+    title: "Siyuan Postdoctoral Fellowship"
+    organization: "Shanghai Jiao Tong University"
+    note: "¥450k/year"
+  zh:
+    display_date: "2024–2026年"
+    title: "思源博士后项目"
+    organization: "上海交通大学"
+    note: "每年45万元资助"
+
+# 2023
+
+- id: "paper-2023-12-phd-thesis"
+  date: "2023-12-29"
+  type: "paper"
+  subtype: "thesis"
+  en:
+    display_date: "29 Dec 2023"
+    title: "Probing ultralight dark fields in cosmological and astrophysical systems"
+    organization: "PhD thesis"
+    host: "Rice University"
+  zh:
+    display_date: "2023年12月29日"
+    title: "在宇宙学和天体物理系统中探测超轻暗场"
+    organization: "博士学位论文"
+    host: "莱斯大学"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2401.00043"
+    - label: "publisher"
+      url: "https://www.elivabooks.com/en/book/book-4550467859"
+
+- id: "talk-2023-10-tacos"
+  date: "2023-10-09"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "9 Oct 2023"
+    title: "Neutron star cooling with symmetry-violating axions"
+    organization: "Theoretical Astroparticle and Cosmology Symposium (TACOS)"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2023年10月9日"
+    title: "对称性破坏轴子与中子星冷却"
+    organization: "理论天体粒子物理与宇宙学研讨会（TACOS）"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://indico.cern.ch/event/1319151/"
+
+- id: "paper-2023-09-neutron-star-cooling"
+  date: "2023-09-07"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "7 Sep 2023"
+    title: "Neutron star cooling with lepton-flavor-violating axions"
+    organization: "Physical Review D (2024)"
+  zh:
+    display_date: "2023年9月7日"
+    title: "轻子味破坏轴子与中子星冷却"
+    organization: "Physical Review D (2024)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2309.03889"
+    - label: "journal"
+      url: "https://doi.org/10.1103/PhysRevD.109.103005"
+
+- id: "talk-2023-06-kek"
+  date: "2023-06"
+  type: "talk"
+  subtype: "seminar"
+  remote: true
+  en:
+    display_date: "Jun 2023"
+    title: "Unveiling the nature of wave dark matter"
+    organization: "Theory seminar"
+    location: "Tsukuba, Japan"
+    host: "High Energy Accelerator Research Organization (KEK) Theory Center"
+  zh:
+    display_date: "2023年6月"
+    title: "揭示波动型暗物质的本质"
+    organization: "理论物理研讨会"
+    location: "日本，筑波"
+    host: "高能加速器研究机构理论中心"
+
+- id: "talk-2023-05-phenomenology"
+  date: "2023-05-08"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "8 May 2023"
+    title: "Phenomenology of wavelike vector dark matter nonminimally coupled to gravity"
+    organization: "Phenomenology Symposium"
+    host: "University of Pittsburgh"
+    location: "Pittsburgh, United States"
+  zh:
+    display_date: "2023年5月8日"
+    title: "非最小引力耦合波动型矢量暗物质的唯象研究"
+    organization: "唯象学研讨会"
+    host: "匹兹堡大学"
+    location: "美国，匹兹堡"
+  links:
+    - label: "event"
+      url: "https://www.pittpacc.pitt.edu/meetings/phenomenology-symposia"
+
+- id: "paper-2023-05-vector-dark-matter"
+  date: "2023-05-05"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "5 May 2023"
+    title: "Phenomenology of wavelike vector dark matter nonminimally coupled to gravity"
+    organization: "Journal of Cosmology and Astroparticle Physics (2023)"
+  zh:
+    display_date: "2023年5月5日"
+    title: "非最小引力耦合波动型矢量暗物质的唯象研究"
+    organization: "Journal of Cosmology and Astroparticle Physics (2023)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2305.03841"
+    - label: "journal"
+      url: "https://doi.org/10.1088/1475-7516/2023/07/055"
+
+- id: "talk-2023-03-rice"
+  date: "2023-03-29"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "29 Mar 2023"
+    title: "Constraining axions from neutron star cooling"
+    organization: "AU Seminar"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2023年3月29日"
+    title: "利用中子星冷却约束轴子"
+    organization: "AU 研讨会"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+- id: "recognition-2023-rice-travel-award"
+  date: "2023"
+  tie_order: 1
+  type: "recognition"
+  subtype: "award"
+  en:
+    display_date: "2023"
+    title: "Graduate Student Travel Award"
+    organization: "Rice University"
+  zh:
+    display_date: "2023年"
+    title: "研究生差旅资助奖"
+    organization: "莱斯大学"
+
+- id: "recognition-2023-outstanding-students-abroad"
+  date: "2023"
+  tie_order: 2
+  type: "recognition"
+  subtype: "award"
+  en:
+    display_date: "2023"
+    title: "National Award for Outstanding Students Abroad"
+    organization: "China Scholarship Council"
+    note: "$6k"
+  zh:
+    display_date: "2023年"
+    title: "国家优秀自费留学生奖学金"
+    organization: "国家留学基金管理委员会"
+    note: "6千美元奖金"
+
+- id: "recognition-2023-entrance-energy-case"
+  date: "2023"
+  tie_order: 3
+  type: "recognition"
+  subtype: "award"
+  en:
+    display_date: "2023"
+    title: "Top-three team in the EnTranCE Energy Case Competition"
+    organization: "2023 EnTranCE Energy Case Competition"
+    location: "Texas, United States"
+    note: "20+ participating teams; $3k shared team prize"
+  zh:
+    display_date: "2023年"
+    title: "EnTranCE 能源案例竞赛前三名团队"
+    organization: "2023年 EnTranCE 能源案例竞赛"
+    location: "美国，得克萨斯州"
+    note: "20多支参赛团队；团队共享3千美元奖金"
+
+# 2022
+
+- id: "talk-2022-11-rice"
+  date: "2022-11-02"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "2 Nov 2022"
+    title: "Non-minimally coupled dark photon dark matter"
+    organization: "AU Seminar"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2022年11月2日"
+    title: "非最小耦合的暗光子暗物质"
+    organization: "AU 研讨会"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+- id: "outreach-2022-06-photomosaic"
+  date: "2022-06-23"
+  type: "outreach"
+  subtype: "public_talk"
+  has_slides: true
+  en:
+    display_date: "23 Jun 2022"
+    title: "Making photomosaics"
+    organization: "Theoretical Advanced Study Institute (TASI)"
+    location: "Boulder, United States"
+    host: "University of Colorado Boulder"
+    note: "Public talk on creating photomosaics"
+  zh:
+    display_date: "2022年6月23日"
+    title: "制作图片马赛克"
+    organization: "理论高级研究所暑期学校（TASI）"
+    location: "美国，博尔德"
+    host: "科罗拉多大学博尔德分校"
+    note: "关于制作图片马赛克的科普报告"
+  links:
+    - label: "event"
+      url: "https://www.colorado.edu/physics/TASI/Program-Overview"
+    - label: "slides"
+      url: "/activities/2022-06-23-squaaaaak.pdf"
+
+- id: "talk-2022-06-tasi"
+  date: "2022-06"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "Jun 2022"
+    distinction: "Invited talk"
+    title: "A singularity problem for interacting massive vectors"
+    organization: "Theoretical Advanced Study Institute (TASI)"
+    host: "University of Colorado Boulder"
+    location: "Boulder, United States"
+  zh:
+    display_date: "2022年6月"
+    distinction: "邀请报告"
+    title: "相互作用有质量矢量场的奇点问题"
+    organization: "理论高级研究所暑期学校（TASI）"
+    host: "科罗拉多大学博尔德分校"
+    location: "美国，博尔德"
+  links:
+    - label: "event"
+      url: "https://www.colorado.edu/physics/TASI/Program-Overview"
+
+- id: "paper-2022-04-massive-vectors"
+  date: "2022-04-24"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "24 Apr 2022"
+    title: "Singularity problem for interacting massive vectors"
+    organization: "Physical Review Letters (2022)"
+  zh:
+    display_date: "2022年4月24日"
+    title: "相互作用有质量矢量场的奇点问题"
+    organization: "Physical Review Letters (2022)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2204.11324"
+    - label: "journal"
+      url: "https://doi.org/10.1103/PhysRevLett.129.151101"
+
+- id: "talk-2022-04-rice"
+  date: "2022-04-06"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "6 Apr 2022"
+    title: "Dark photon substructure and formation of vector solitons"
+    organization: "AU Seminar"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2022年4月6日"
+    title: "暗光子子结构与矢量孤子的形成"
+    organization: "AU 研讨会"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+- id: "recognition-2022-rice-travel-award"
+  date: "2022"
+  tie_order: 1
+  type: "recognition"
+  subtype: "award"
+  en:
+    display_date: "2022"
+    title: "Graduate Student Travel Award"
+    organization: "Rice University"
+  zh:
+    display_date: "2022年"
+    title: "研究生差旅资助奖"
+    organization: "莱斯大学"
+
+- id: "recognition-2022-gordon-fellowship"
+  date: "2022"
+  tie_order: 2
+  type: "recognition"
+  subtype: "fellowship"
+  en:
+    display_date: "2022"
+    title: "William & Elva Gordon Fellowship"
+    organization: "Rice University"
+  zh:
+    display_date: "2022年"
+    title: "William & Elva Gordon 奖研金"
+    organization: "莱斯大学"
+
+# 2021
+
+- id: "paper-2021-11-polarized-vector-oscillons"
+  date: "2021-11-16"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "16 Nov 2021"
+    title: "Polarized vector oscillons"
+    organization: "Physical Review D (2022)"
+  zh:
+    display_date: "2021年11月16日"
+    title: "极化矢量振荡子"
+    organization: "Physical Review D (2022)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2111.08700"
+    - label: "journal"
+      url: "https://doi.org/10.1103/PhysRevD.105.096037"
+
+- id: "talk-2021-10-rice"
+  date: "2021-10-27"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "27 Oct 2021"
+    title: "Vector oscillons"
+    organization: "AU Seminar"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2021年10月27日"
+    title: "矢量振荡子"
+    organization: "AU 研讨会"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+- id: "talk-2021-08-cosmo"
+  date: "2021-08-03"
+  type: "talk"
+  subtype: "conference_talk"
+  remote: true
+  en:
+    display_date: "3 Aug 2021"
+    title: "Gravitational effects on oscillon lifetimes"
+    organization: "COSMO'21"
+    host: "University of Illinois Urbana-Champaign (UIUC)"
+    location: "Champaign, United States"
+  zh:
+    display_date: "2021年8月3日"
+    title: "引力效应对振荡子寿命的影响"
+    organization: "COSMO'21 会议"
+    host: "伊利诺伊大学厄巴纳–香槟分校"
+    location: "美国，香槟"
+  links:
+    - label: "event"
+      url: "https://caps.ncsa.illinois.edu/conferences/cosmo21/"
+
+- id: "paper-2021-04-beyond-schrodinger-poisson"
+  date: "2021-04-20"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "20 Apr 2021"
+    title: "Beyond Schrödinger-Poisson: Nonrelativistic effective field theory for scalar dark matter"
+    organization: "Journal of High Energy Physics (2021)"
+  zh:
+    display_date: "2021年4月20日"
+    title: "超越薛定谔–泊松：标量暗物质的非相对论有效场论"
+    organization: "Journal of High Energy Physics (2021)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2104.10128"
+    - label: "journal"
+      url: "https://doi.org/10.1007/JHEP09(2021)050"
+
+- id: "talk-2021-04-rice"
+  date: "2021-04-14"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "14 Apr 2021"
+    title: "Beyond Schrodinger-Poisson: Non-relativistic effective field theory for scalar dark matter"
+    organization: "AU Seminar"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2021年4月14日"
+    title: "超越薛定谔–泊松：标量暗物质的非相对论有效场论"
+    organization: "AU 研讨会"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+- id: "talk-2021-04-tsaps"
+  date: "2021-04"
+  type: "talk"
+  subtype: "conference_talk"
+  remote: true
+  en:
+    display_date: "Apr 2021"
+    title: "Gravitational effects on oscillon lifetimes"
+    organization: "Texas Section of the American Physical Society (TSAPS) Conference"
+    host: "Texas A&M University-Corpus Christi"
+    location: "Corpus Christi, United States"
+  zh:
+    display_date: "2021年4月"
+    title: "引力效应对振荡子寿命的影响"
+    organization: "美国物理学会得克萨斯分会会议（TSAPS）"
+    host: "得克萨斯农工大学科珀斯克里斯蒂分校"
+    location: "美国，科珀斯克里斯蒂"
+
+# 2020
+
+- id: "paper-2020-11-oscillon-lifetimes"
+  date: "2020-11-23"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "23 Nov 2020"
+    title: "Gravitational effects on oscillon lifetimes"
+    organization: "Journal of Cosmology and Astroparticle Physics (2021)"
+  zh:
+    display_date: "2020年11月23日"
+    title: "引力效应对振荡子寿命的影响"
+    organization: "Journal of Cosmology and Astroparticle Physics (2021)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2011.11720"
+    - label: "journal"
+      url: "https://doi.org/10.1088/1475-7516/2021/03/102"
+
+- id: "talk-2020-11-tsaps"
+  date: "2020-11"
+  type: "talk"
+  subtype: "conference_talk"
+  en:
+    display_date: "Nov 2020"
+    title: "Classical decay rates of oscillons"
+    organization: "Texas Section of the American Physical Society (TSAPS) Conference"
+    host: "University of Texas at Arlington (UT Arlington)"
+    location: "Arlington, United States"
+  zh:
+    display_date: "2020年11月"
+    title: "振荡子的经典衰变率"
+    organization: "美国物理学会得克萨斯分会会议（TSAPS）"
+    host: "得克萨斯大学阿灵顿分校"
+    location: "美国，阿灵顿"
+
+- id: "talk-2020-04-rice"
+  date: "2020-04-08"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "8 Apr 2020"
+    title: "Oscillons and fuzzy dark matter"
+    organization: "AU Seminar"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2020年4月8日"
+    title: "振荡子与模糊暗物质"
+    organization: "AU 研讨会"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+- id: "paper-2020-04-classical-decay"
+  date: "2020-04-02"
+  type: "paper"
+  subtype: "paper"
+  en:
+    display_date: "2 Apr 2020"
+    title: "Classical decay rates of oscillons"
+    organization: "Journal of Cosmology and Astroparticle Physics (2020)"
+  zh:
+    display_date: "2020年4月2日"
+    title: "振荡子的经典衰变率"
+    organization: "Journal of Cosmology and Astroparticle Physics (2020)"
+  links:
+    - label: "arxiv"
+      url: "https://arxiv.org/abs/2004.01202"
+    - label: "journal"
+      url: "https://doi.org/10.1088/1475-7516/2020/07/055"
+
+- id: "recognition-2020-chuoke-award"
+  date: "2020"
+  type: "recognition"
+  subtype: "award"
+  en:
+    display_date: "2020"
+    title: "Chuoke Award"
+    organization: "Rice University"
+  zh:
+    display_date: "2020年"
+    title: "Chuoke 奖"
+    organization: "莱斯大学"
+
+# 2019
+
+- id: "talk-2019-12-rice"
+  date: "2019-12-04"
+  type: "talk"
+  subtype: "seminar"
+  en:
+    display_date: "4 Dec 2019"
+    title: "Large-misalignment mechanism of fuzzy dark matter"
+    organization: "AU Seminar"
+    host: "Rice University"
+    location: "Houston, United States"
+  zh:
+    display_date: "2019年12月4日"
+    title: "模糊暗物质的大初始错位机制"
+    organization: "AU 研讨会"
+    host: "莱斯大学"
+    location: "美国，休斯顿"
+  links:
+    - label: "event"
+      url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+# 2018
+
+- id: "recognition-2018-outstanding-graduate"
+  date: "2018"
+  type: "recognition"
+  subtype: "honor"
+  en:
+    display_date: "2018"
+    title: "Outstanding Graduate"
+    organization: "Nanjing University"
+  zh:
+    display_date: "2018年"
+    title: "优秀毕业生"
+    organization: "南京大学"
+
+# 2017
+
+- id: "recognition-2017-talent-scholarship"
+  date: "2017"
+  tie_order: 1
+  type: "recognition"
+  subtype: "scholarship"
+  en:
+    display_date: "2017"
+    title: "IHEP Talent Scholarship"
+    organization: "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences (CAS)"
+  zh:
+    display_date: "2017年"
+    title: "高能物理研究所人才奖学金"
+    organization: "中国科学院高能物理研究所"
+
+- id: "recognition-2017-national-peoples-scholarship"
+  date: "2017"
+  tie_order: 2
+  type: "recognition"
+  subtype: "scholarship"
+  en:
+    display_date: "2017"
+    title: "National People’s Scholarship"
+    organization: "Nanjing University"
+  zh:
+    display_date: "2017年"
+    title: "人民奖学金"
+    organization: "南京大学"
+
+# 2016
+
+- id: "recognition-2016-national-endeavor-fellowship"
+  date: "2016"
+  tie_order: 1
+  type: "recognition"
+  subtype: "scholarship"
+  en:
+    display_date: "2016"
+    title: "National Encouragement Scholarship"
+    organization: "Nanjing University"
+  zh:
+    display_date: "2016年"
+    title: "国家励志奖学金"
+    organization: "南京大学"
+
+- id: "recognition-2016-national-peoples-scholarship"
+  date: "2016"
+  tie_order: 2
+  type: "recognition"
+  subtype: "scholarship"
+  en:
+    display_date: "2016"
+    title: "National People’s Scholarship"
+    organization: "Nanjing University"
+  zh:
+    display_date: "2016年"
+    title: "人民奖学金"
+    organization: "南京大学"
+
+# 2015
+
+- id: "outreach-2015-12-college-video"
+  date: "2015-12-09"
+  type: "outreach"
+  subtype: "video"
+  en:
+    display_date: "9 Dec 2015"
+    title: "Hysteria and gender anxiety"
+    organization: "Popular-science video"
+    note: "Director during undergraduate studies"
+  zh:
+    display_date: "2015年12月9日"
+    title: "歇斯底里与性别焦虑"
+    organization: "科普视频"
+    note: "本科期间担任导演"
+  links:
+    - label: "video"
+      url: "https://v.qq.com/x/page/f0175uygl0z.html"
+
+- id: "recognition-2015-nunchaku-first-prize"
+  date: "2015"
+  tie_order: 1
+  type: "recognition"
+  subtype: "award"
+  en:
+    display_date: "2015"
+    title: "First Prize, Nanjing Intercollegiate Nunchaku Combat Competition"
+    organization: "Nanjing Intercollegiate Nunchaku Alliance"
+  zh:
+    display_date: "2015年"
+    title: "南京高校双节棍实战比赛一等奖"
+    organization: "南京高校棍盟"
+
+- id: "recognition-2015-national-peoples-scholarship"
+  date: "2015"
+  tie_order: 2
+  type: "recognition"
+  subtype: "scholarship"
+  en:
+    display_date: "2015"
+    title: "National People’s Scholarship"
+    organization: "Nanjing University"
+  zh:
+    display_date: "2015年"
+    title: "人民奖学金"
+    organization: "南京大学"
+
+# 2008
+
+- id: "recognition-2008-youth-china-piano"
+  date: "2008"
+  type: "recognition"
+  subtype: "award"
+  en:
+    display_date: "2008"
+    title: "First place, Youth China Piano Competition (Gansu Division)"
+    organization: "Youth China Piano Competition"
+  zh:
+    display_date: "2008年"
+    title: "青春中国钢琴比赛甘肃赛区第一名"
+    organization: "青春中国钢琴比赛"
+

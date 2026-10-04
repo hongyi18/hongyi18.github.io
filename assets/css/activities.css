@@ -1,0 +1,337 @@
+.activities-page {
+  --activities-accent: #236b8e;
+  --activities-border: #dfe5e8;
+  --activities-muted: #5f6b73;
+}
+
+.activities-intro {
+  max-width: 46rem;
+  margin: 0 auto 2.25rem;
+  color: var(--activities-muted);
+  font-size: 1.05rem;
+  text-align: center;
+}
+
+.activities-page .activities-section-heading {
+  margin: 0 0 1rem;
+  font-size: 1.55rem;
+}
+
+.activity-highlights {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 2.75rem;
+}
+
+.activity-highlight-card {
+  display: flex;
+  min-height: 13rem;
+  padding: 1.1rem;
+  color: inherit;
+  background: linear-gradient(145deg, #ffffff, #f6f9fb);
+  border: 1px solid var(--activities-border);
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(22, 49, 64, 0.06);
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.activity-highlight-card:visited {
+  color: inherit;
+}
+
+.activity-highlight-card:hover,
+.activity-highlight-card:focus-visible {
+  color: inherit;
+  text-decoration: none;
+  border-color: var(--activities-accent);
+  box-shadow: 0 10px 24px rgba(22, 49, 64, 0.11);
+  transform: translateY(-2px);
+}
+
+.activity-highlight-card__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.activity-kicker {
+  color: var(--activities-accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+}
+
+.activity-highlight-card h3 {
+  margin: 0.55rem 0 0.65rem;
+  font-size: 1.02rem;
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.activity-highlight-card p {
+  margin: 0 0 1rem;
+  color: var(--activities-muted);
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.activity-highlight-card__link {
+  margin-top: auto;
+  color: var(--activities-accent);
+  font-size: 0.86rem;
+  font-weight: 650;
+}
+
+.activity-controls {
+  display: none;
+  margin-bottom: 1.25rem;
+}
+
+.activities-page[data-enhanced] .activity-controls {
+  display: block;
+}
+
+.activity-filter-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0;
+  list-style: none;
+}
+
+.activity-filter {
+  padding: 0.38rem 0.72rem;
+  color: #34434c;
+  background: #fff;
+  border: 1px solid var(--activities-border);
+  border-radius: 999px;
+  font: inherit;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.activity-filter:hover,
+.activity-filter:focus-visible {
+  border-color: var(--activities-accent);
+}
+
+.activity-filter[aria-pressed="true"] {
+  color: #fff;
+  background: var(--activities-accent);
+  border-color: var(--activities-accent);
+}
+
+.activity-filter-count {
+  opacity: 0.78;
+}
+
+.activity-filter-status {
+  margin: 0.8rem 0 0;
+  color: var(--activities-muted);
+  font-size: 0.82rem;
+}
+
+.activity-year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.85rem;
+  margin: 0 0 1.5rem;
+  font-size: 0.84rem;
+}
+
+.activity-year-nav__label {
+  color: var(--activities-muted);
+}
+
+.activity-year-actions {
+  display: none;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: -0.75rem 0 1.25rem;
+}
+
+.activities-page[data-enhanced] .activity-year-actions {
+  display: flex;
+}
+
+.activity-year-action {
+  padding: 0.28rem 0.65rem;
+  color: var(--activities-accent);
+  background: transparent;
+  border: 1px solid var(--activities-border);
+  border-radius: 999px;
+  font: inherit;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.activity-year-action:hover,
+.activity-year-action:focus-visible {
+  border-color: var(--activities-accent);
+}
+
+.activity-year {
+  margin-bottom: 0.8rem;
+  border-top: 1px solid var(--activities-border);
+}
+
+.activity-year[hidden],
+.activity-entry[hidden] {
+  display: none !important;
+}
+
+.activity-year > summary {
+  display: grid;
+  grid-template-columns: 1rem minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 0.55rem;
+  padding: 1rem 0 0.8rem;
+  list-style: none;
+  cursor: pointer;
+}
+
+.activity-year > summary::-webkit-details-marker {
+  display: none;
+}
+
+.activity-year > summary::before {
+  content: "+";
+  color: var(--activities-accent);
+  font-weight: 700;
+}
+
+.activity-year[open] > summary::before {
+  content: "−";
+}
+
+.activity-year > summary .activity-year-title {
+  display: inline;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+.activity-year-count {
+  color: var(--activities-muted);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.activity-year-list {
+  margin: 0;
+}
+
+.activity-entry {
+  display: grid;
+  grid-template-columns: 7.3rem minmax(0, 1fr);
+  gap: 1.1rem;
+  padding: 1rem 0;
+  border-top: 1px solid #edf0f2;
+  scroll-margin-top: 1.5rem;
+}
+
+.activity-entry:first-child {
+  border-top: 0;
+}
+
+.activity-entry-meta time {
+  display: block;
+  color: #34434c;
+  font-size: 0.86rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+}
+
+.activity-entry-type {
+  display: inline-block;
+  margin-top: 0.32rem;
+  color: var(--activities-accent);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.055em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.activity-entry h4 {
+  margin: 0 0 0.3rem;
+  font-size: 1rem;
+  font-weight: 650;
+  line-height: 1.42;
+}
+
+.activity-entry-venue {
+  margin: 0;
+  color: var(--activities-muted);
+  font-size: 0.86rem;
+  line-height: 1.5;
+}
+
+.activity-entry-distinction {
+  color: #8a5a00;
+  font-weight: 650;
+}
+
+.activity-entry-detail + .activity-entry-detail::before {
+  content: "•";
+  margin: 0 0.42rem;
+  color: #8b969c;
+  font-weight: 800;
+}
+
+.activity-entry-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.75rem;
+  margin: 0.55rem 0 0;
+  font-size: 0.8rem;
+}
+
+.activity-entry-links a {
+  font-weight: 600;
+}
+
+@media screen and (max-width: 760px) {
+  .activity-highlights {
+    grid-template-columns: 1fr;
+  }
+
+  .activity-highlight-card {
+    min-height: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .activities-intro {
+    text-align: left;
+  }
+
+  .activity-filter-list {
+    margin-left: 0;
+  }
+  
+  .activity-entry {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+  
+  .activity-entry-meta {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+  }
+  
+  .activity-entry-type {
+    margin-top: 0;
+  }
+
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .activity-highlight-card {
+    transition: none;
+  }
+}
+
