@@ -3,6 +3,16 @@ layout: default
 ---
 
 <div class="blog">
+  {%- if page.trans_link -%}
+    <p class="language-switch">
+      {%- if page.lang == "zh-Hans" -%}
+        <a href="{{ page.trans_link | relative_url }}">English</a> | 中文
+      {%- else -%}
+        English | <a href="{{ page.trans_link | relative_url }}">中文</a>
+      {%- endif -%}
+    </p>
+  {%- endif -%}
+
   {%- if page.title -%}
     <h1 class="post-title page-title-centered">{{ page.title | escape }}</h1>
   {%- endif -%}
@@ -23,6 +33,9 @@ layout: default
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- if page.lang == "zh-Hans" -%}
+        {%- assign date_format = "%Y年%-m月%-d日" -%}
+      {%- endif -%}
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.published_date | date: date_format }}</span>
