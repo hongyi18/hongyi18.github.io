@@ -88,6 +88,29 @@
     - label: "arxiv"
       url: "https://arxiv.org/abs/2607.18647"
 
+- id: "music-2026-07-naples-china"
+  date: "2026-07-18"
+  type: "music"
+  subtype: "concert"
+  en:
+    display_date: "18 Jul 2026"
+    title: "Notte d'estate: Canti da Napoli alla Cina"
+    organization: "Piano performance"
+    host: "Hotel Terme Rosapepe"
+    location: "Contursi Terme, Italy"
+    note: "With soprano Dr. Xia Liu, soprano Katerina Furstova, and physicist and pianist Massimo Blasone"
+  zh:
+    display_date: "2026年7月18日"
+    title: "仲夏之夜：歌声从那不勒斯到中国"
+    organization: "钢琴演出"
+    host: "Rosapepe 温泉酒店"
+    location: "意大利，孔图尔西泰尔梅"
+    note: "与女高音刘霞博士、Katerina Furstova，以及物理学者兼钢琴家 Massimo Blasone 合作"
+  links:
+    - en: "Poster"
+      zh: "海报"
+      url: "/personal/canti_da_napoli_alla_cina.jpg"
+
 - id: "talk-2026-07-salerno"
   date: "2026-07-17"
   type: "talk"
@@ -572,6 +595,26 @@
     - label: "event"
       url: "https://indico.math.cnrs.fr/event/12305"
 
+- id: "music-2025-04-shanghai-nights"
+  date: "2025-04-26"
+  type: "music"
+  subtype: "concert"
+  en:
+    display_date: "26 Apr 2025"
+    title: "Enchanted by Shanghai nights: A concert of pop, jazz, and tango classics"
+    organization: "Piano performance"
+    location: "Shanghai, China"
+    note: "With soprano Dr. Xia Liu"
+  zh:
+    display_date: "2025年4月26日"
+    title: "情迷夜上海：流行、爵士与探戈经典音乐会"
+    organization: "钢琴演出"
+    location: "中国，上海"
+    note: "与女高音刘霞博士合作"
+  links:
+    - label: "event"
+      url: "https://mp.weixin.qq.com/s/I0zXM4hB3aksxNIO-8P5Sw"
+
 - id: "paper-2025-03-dark-origin-neutrino"
   date: "2025-03-11"
   type: "paper"
@@ -596,6 +639,7 @@
 
 - id: "outreach-2025-01-dimensions"
   date: "2025-01"
+  tie_order: 1
   type: "outreach"
   subtype: "video"
   highlight: true
@@ -622,6 +666,26 @@
       url: "https://mp.weixin.qq.com/s/sDDQjzepyaf9qAtBqEdwUQ"
     - label: "award_announcement"
       url: "https://mp.weixin.qq.com/s/dKpLlUb1KS3pm7QND-ZF7A"
+
+- id: "music-2025-01-fairy-tales"
+  date: "2025-01-05"
+  type: "music"
+  subtype: "music_salon"
+  en:
+    display_date: "5 Jan 2025"
+    title: "Fairy tales and wisdom: A salon of German and Austrian art songs"
+    organization: "Piano performance"
+    location: "Shanghai, China"
+    note: "With soprano Dr. Xia Liu and pianist and tenor Yinhe Fang"
+  zh:
+    display_date: "2025年1月5日"
+    title: "童话与智慧：德奥艺术歌曲音乐沙龙"
+    organization: "钢琴演出"
+    location: "中国，上海"
+    note: "与女高音刘霞博士、钢琴师兼男高音方银河合作"
+  links:
+    - label: "event"
+      url: "https://mp.weixin.qq.com/s/hqGqkhUbOGgd1VF-oS-Nnw"
 
 - id: "recognition-2025-cpsf-fellowship"
   date: "2025"
@@ -991,6 +1055,29 @@
   links:
     - label: "event"
       url: "https://sparky.rice.edu/astr500/past_speakers.html"
+
+- id: "music-2023-01-plum-blossom"
+  date: "2023-01-08"
+  type: "music"
+  subtype: "concert"
+  en:
+    display_date: "8 Jan 2023"
+    title: "The plum blossom on snow"
+    organization: "Piano performance"
+    host: "KHG Köln–Aula"
+    location: "Cologne, Germany"
+    note: "With soprano Xia Liu"
+  zh:
+    display_date: "2023年1月8日"
+    title: "踏雪寻梅音乐会"
+    organization: "钢琴演出"
+    host: "KHG Köln–Aula"
+    location: "德国，科隆"
+    note: "与女高音刘霞合作"
+  links:
+    - en: "Concert program"
+      zh: "音乐会曲目"
+      url: "/2023/01/08/the-plum-blossom-on-snow.html"
 
 - id: "recognition-2023-rice-travel-award"
   date: "2023"

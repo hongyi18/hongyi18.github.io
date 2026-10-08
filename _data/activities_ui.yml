@@ -29,6 +29,8 @@ en:
     fellowship: "Fellowship"
     award: "Award"
     scholarship: "Scholarship"
+    concert: "Concert"
+    music_salon: "Music salon"
   link_labels:
     arxiv: "arXiv"
     journal: "Journal"
@@ -77,6 +79,8 @@ zh:
     fellowship: "奖研金"
     award: "奖项"
     scholarship: "奖学金"
+    concert: "音乐会"
+    music_salon: "音乐沙龙"
   link_labels:
     arxiv: "arXiv"
     journal: "期刊"
@@ -120,3 +124,6 @@ filters:
   - key: "recognition"
     en: "Honors & grants"
     zh: "荣誉与科研资助"
+  - key: "music"
+    en: "Music"
+    zh: "音乐"

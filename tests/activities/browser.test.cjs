@@ -90,7 +90,7 @@ for (const lang of ['en', 'zh']) {
   test(`${lang}: every filter, counts, expansion, and All reset`, async () => {
     await withPage(lang, {}, async page => {
       const all = await page.locator('.activity-entry').evaluateAll(entries => entries.map(entry => ({ id: entry.id, type: entry.dataset.type, slides: entry.dataset.hasSlides === 'true', year: entry.closest('.activity-year').dataset.yearSection })));
-      const filters = ['all', 'paper', 'tool', 'talk', 'slides', 'media', 'outreach', 'recognition'];
+      const filters = ['all', 'paper', 'tool', 'talk', 'slides', 'media', 'outreach', 'recognition', 'music'];
       assert.deepEqual(await page.locator('[data-activity-filter]').evaluateAll(buttons => buttons.map(button => button.dataset.activityFilter)), filters);
       for (const filter of filters) {
         const expected = all.filter(entry => filter === 'all' || (filter === 'slides' ? entry.slides : entry.type === filter));
@@ -104,6 +104,24 @@ for (const lang of ['en', 'zh']) {
       }
       await page.locator('[data-activity-filter="all"]').click();
       assert.deepEqual(await openYears(page), ['2026']);
+    });
+  });
+
+  test(`${lang}: music deep link selects four events and supports history`, async () => {
+    await withPage(lang, { hash: '#filter-music' }, async page => {
+      assert.equal(await page.locator('[data-activity-filter="music"]').getAttribute('aria-pressed'), 'true');
+      assert.deepEqual(await visibleIds(page), [
+        'music-2026-07-naples-china', 'music-2025-04-shanghai-nights',
+        'music-2025-01-fairy-tales', 'music-2023-01-plum-blossom'
+      ]);
+      assert.deepEqual(await openYears(page), ['2026', '2025', '2023']);
+      await page.evaluate(() => { location.hash = '#paper-2025-07-flattened-axion'; });
+      await page.waitForFunction(() => location.hash === '#paper-2025-07-flattened-axion');
+      assert.equal(await page.locator('#paper-2025-07-flattened-axion').isVisible(), true);
+      await page.goBack();
+      await page.waitForFunction(() => location.hash === '#filter-music');
+      assert.equal(await page.locator('[data-activity-filter="music"]').getAttribute('aria-pressed'), 'true');
+      assert.equal((await visibleIds(page)).length, 4);
     });
   });
 

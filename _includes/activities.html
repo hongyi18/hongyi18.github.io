@@ -37,7 +37,7 @@
     <div class="activity-controls">
       <div class="activity-filter-list" role="group" aria-label="{{ activity_ui.filter_label | escape }}">
         {% for filter in site.data.activities_ui.filters %}
-          <button class="activity-filter" type="button" data-activity-filter="{{ filter.key | escape }}" aria-pressed="{% if filter.key == 'all' %}true{% else %}false{% endif %}">
+          <button id="filter-{{ filter.key | escape }}" class="activity-filter" type="button" data-activity-filter="{{ filter.key | escape }}" aria-pressed="{% if filter.key == 'all' %}true{% else %}false{% endif %}">
             {{ filter[activity_lang] | escape }} <span class="activity-filter-count" data-filter-count></span>
           </button>
         {% endfor %}

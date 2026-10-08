@@ -47,10 +47,11 @@ Shared canonical keys are independent of the displayed translations:
 | `media` | `media_coverage` |
 | `outreach` | `video`, `public_talk` |
 | `recognition` | `honor`, `grant`, `fellowship`, `award`, `scholarship` |
+| `music` | `concert`, `music_salon` |
 
 Subtype names, common link labels, filter names/order, section titles, status messages, and the shared Remote label are translated in `_data/activities_ui.yml`. Invited status and awards attached to other activities remain localized `distinction` text rather than new subtypes.
 
-Common links use a `label` key from `link_labels`. For an unusual label, use explicit `en` and `zh` fields on the link instead of `label`. Keep a shared `url` in either case. Local PDFs use root-relative paths; related entries use `#existing-entry-id`. External links retain their full URLs.
+Common links use a `label` key from `link_labels`. For an unusual label, use explicit `en` and `zh` fields on the link instead of `label`. Keep a shared `url` in either case. Local files and blog posts use root-relative paths; related entries use `#existing-entry-id`. External links retain their full URLs.
 
 ## Highlights and optional flags
 
@@ -61,6 +62,8 @@ Set `has_slides: true` for entries with a slides/poster PDF and `remote: true` f
 ## Behavior
 
 Only the current calendar year's archive opens initially; if it is absent, none opens. Non-All filters expand all matching years; All restores the initial rule. Expand/collapse affects visible years. Highlight and related links reset the filter and reveal the target. History navigation clears a filter only when necessary to reveal the target. Without JavaScript, native disclosures and links work, while JavaScript-only controls are hidden.
+
+Links such as `/activities/#filter-music` (or `/zh/activities/#filter-music`) open the archive with that filter selected. Use these to link from the personal pages to the complete music history.
 
 ## Checks
 

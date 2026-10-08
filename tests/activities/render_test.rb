@@ -29,6 +29,7 @@ class ActivitiesRenderTest < Minitest::Test
       assert_includes html, 'href="/example/assets/css/activities.css"'
       assert_includes html, 'src="/example/assets/js/activities.js"'
       assert_includes html, 'href="/example/activities/'
+      assert_includes html, 'href="/example/2023/01/08/the-plum-blossom-on-snow.html"'
     end
   end
 end

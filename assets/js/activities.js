@@ -52,6 +52,11 @@
     function revealHashTarget() {
       var target = findTarget(window.location.hash);
       if (!target) return;
+      if (target.hasAttribute('data-activity-filter')) {
+        applyFilter(target.dataset.activityFilter);
+        target.scrollIntoView();
+        return;
+      }
       var year = target.closest('.activity-year');
       if (!year) return;
       var entry = target.closest('.activity-entry');

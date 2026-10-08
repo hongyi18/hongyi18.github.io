@@ -18,7 +18,7 @@ description: Hong-Yi Zhang, a theoretical physicist at Tsung-Dao Lee Institute, 
 
 I am a physicist working on theoretical cosmology and astroparticle physics. My research focuses on some of the most captivating and complex challenges in fundamental physics, such as dark matter, ultralight particles and fields, astrophysical compact objects, complex systems, and nonlinear dynamics. [More about my research →](/research/)
 
-While these topics drive my academic passion, I am also excited about the broader realms of physics and interdisciplinary collaborations. Outside physics, I am also an [amateur pianist](/personal/). If you have intriguing ideas or projects that intersect with my interests, I would be thrilled to engage in a discussion!
+While these topics drive my academic passion, I am also excited about the broader realms of physics and interdisciplinary collaborations. Outside physics, I am also a [pianist](/personal/). If you have intriguing ideas or projects that intersect with my interests, I would be thrilled to engage in a discussion!
 
 ## Latest news
 {: style="clear: both;"}
