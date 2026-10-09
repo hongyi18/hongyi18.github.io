@@ -5,7 +5,7 @@ require 'jekyll'
 class FooterTest < Minitest::Test
   ROOT = File.expand_path('..', __dir__)
 
-  def test_shared_head_has_no_favicon_links_in_both_languages
+  def test_shared_head_uses_logo_as_favicon_in_both_languages
     config = Jekyll.configuration('source' => ROOT, 'quiet' => true, 'disable_disk_cache' => true)
     config['theme'] = nil
     config['plugins'] = []
@@ -20,17 +20,20 @@ class FooterTest < Minitest::Test
     site.render
     assert_equal 2, site.pages.length
     site.pages.each do |page|
-      refute_match(/<link[^>]*rel="(?:icon|shortcut icon|apple-touch-icon)"/, page.output)
+      assert_includes page.output, '<link rel="icon" type="image/x-icon" href="/example/index/favico.ico">'
+      assert_includes page.output, '<link rel="apple-touch-icon" href="/example/index/logo.png">'
       assert_includes page.output, 'window.MathJax'
     end
   end
 
   def test_auto_discovered_favicon_files_are_removed
+    assert File.exist?(File.join(ROOT, 'index/logo.png'))
+    assert File.exist?(File.join(ROOT, 'index/favico.ico'))
     refute File.exist?(File.join(ROOT, 'favicon.ico'))
     refute File.exist?(File.join(ROOT, 'apple-touch-icon.png'))
   end
 
-  def test_footer_has_no_image_and_retains_localized_text
+  def test_footer_uses_logo_and_retains_localized_text
     config = Jekyll.configuration('source' => ROOT, 'quiet' => true, 'disable_disk_cache' => true)
     config['theme'] = nil
     config['plugins'] = []
@@ -45,7 +48,7 @@ class FooterTest < Minitest::Test
     site.render
     assert_equal 2, site.pages.length
     site.pages.each do |page|
-      refute_match(/<img\b/, page.output)
+      assert_match(/<img[^>]*class="footer-image"[^>]*src="\/example\/index\/logo.png"[^>]*alt=""[^>]*width="96"[^>]*height="96"/, page.output)
       if page.data['lang'] == 'zh-Hans'
         assert_includes page.output, '&copy; 2026 张闳一'
         assert_includes page.output, '李政道研究所 理论宇宙学和天体粒子物理'

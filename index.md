@@ -24,7 +24,7 @@ While these topics drive my academic passion, I am also excited about the broade
 {: style="clear: both;"}
 
 - **Sep 2026 — A new dark-matter test is on arXiv!**  
-  Can neutron-star transients uncover heavy dark matter? My new preprint with Ziwen Yin at Tsung-Dao Lee Institute explores this exciting possibility.
+  Can neutron star transients uncover heavy dark matter? My new preprint with Ziwen Yin at Tsung-Dao Lee Institute explores this exciting possibility.
 - **Aug 2026 — When stars dim into axions**  
   I brought a time-domain window on new physics to Qingdao, giving an invited talk at the 5th International Conference on Axion Physics and Experiment on searching for axions through changes in starlight.
 - **Jul 2026 — Taking axion searches to Florence**  

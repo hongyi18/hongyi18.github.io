@@ -1,10 +1,10 @@
 ---
 layout: page_zh
 lang: zh-Hans
-title: 音乐与生活
+title: 光年之外
 hide_title: false
-nav_title: 音乐与生活
-seo_title: 音乐与生活 | 张闳一
+nav_title: 光年之外
+seo_title: 光年之外 | 张闳一
 permalink: /zh/personal/
 trans_link: /personal/
 description: 物理学者与钢琴演奏者张闳一的音乐与生活，分享演奏录音、音乐会与音乐沙龙片段。

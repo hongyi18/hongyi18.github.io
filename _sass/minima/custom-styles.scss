@@ -66,3 +66,11 @@
   width: auto;
   padding: 0;
 }
+
+.footer-image {
+  display: block;
+  flex-shrink: 0;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+}

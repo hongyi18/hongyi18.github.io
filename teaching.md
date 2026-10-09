@@ -1,17 +1,34 @@
 ---
 layout: page
+lang: en
 title: Teaching
+nav_title: Teaching
+seo_title: Teaching | Hong-Yi Zhang
 permalink: /teaching/
+trans_link: /zh/teaching/
+description: Hong-Yi Zhang's teaching experience as a physics teaching assistant at Rice University, from modern physics and computation to cosmology and quantum field theory.
 ---
 
+I am excited about teaching physics and the opportunities it brings to learn alongside students.
 
-> "We all know that the real reason universities have students is in order to educate the professors." -- John A. Wheeler
+> “We all know that the real reason universities have students is in order to educate the professors.” — John A. Wheeler
+>
 
-I am excited about teaching! Here are some of the courses I've been involved in:
-- 2023.08-2023.12, TA for "Introduction to General Relativity". Lecturer: Mustafa Amin.
-- 2023.01-2023.05, TA for “Galaxies and cosmology”. Lecturer: Mustafa Amin.
-- 2021.01-2021.05, TA for “Galaxies and cosmology”. Lecturer: Mustafa Amin.
-- 2020.08-2020.12, TA for “Statistical and thermal physics”. Lecturer: Randy Hulet.
-- 2020.01-2020.05, TA for “Computational physics”. Lecturer: Frank Toffoletto.
-- 2019.08-2019.12, TA for “Quantum field theory”. Lecturer: Mustafa Amin.
-- 2019.01-2019.05, TA for “Modern physics”. Lecturer: Randy Hulet.
+## Teaching experience
+
+I served as a teaching assistant at Rice University for the following courses:
+
+- **Aug–Dec 2023 — Introduction to general relativity**  
+  Lecturer: Mustafa A. Amin
+- **Jan–May 2023 — Galaxies and cosmology**  
+  Lecturer: Mustafa A. Amin
+- **Jan–May 2021 — Galaxies and cosmology**  
+  Lecturer: Mustafa A. Amin
+- **Aug–Dec 2020 — Statistical and thermal physics**  
+  Lecturer: Randy Hulet
+- **Jan–May 2020 — Computational physics**  
+  Lecturer: Frank Toffoletto
+- **Aug–Dec 2019 — Quantum field theory**  
+  Lecturer: Mustafa A. Amin
+- **Jan–May 2019 — Modern physics**  
+  Lecturer: Randy Hulet

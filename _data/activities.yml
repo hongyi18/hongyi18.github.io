@@ -13,7 +13,7 @@
     title: "Metastable neutron stars as transient-rate detectors of heavy dark matter"
     organization: "arXiv preprint"
     highlight_title: "Neutron stars could reveal heavy dark matter"
-    highlight_text: "Our study proposes a new dark-matter test using the rates of neutron-star transients."
+    highlight_text: "Our study proposes a new dark matter test using the rates of neutron star transients."
   zh:
     display_date: "2026年9月24日"
     title: "亚稳态中子星作为重暗物质的瞬变事件率探测器"
@@ -436,7 +436,7 @@
     title: "AxionDarkPhotonSimulator"
     organization: "Python package"
     highlight_text: "Follow axions and dark photons through an expanding universe with my open-source Python simulator."
-    note: "Axion–dark-photon simulations in an expanding universe"
+    note: "Axion-dark-photon simulations in an expanding universe"
   zh:
     display_date: "2025年7月28日"
     title: "AxionDarkPhotonSimulator"
@@ -477,7 +477,7 @@
   highlight: true
   en:
     display_date: "Jul–Aug 2025"
-    title: "Neutrino experiments challenge a dark-matter origin of neutrino mass"
+    title: "Neutrino experiments challenge a dark matter origin of neutrino mass"
     organization: "Tsung-Dao Lee Institute (TDLI) and Shanghai Jiao Tong University (SJTU)"
     distinction: "Featured on Phys.org"
     highlight_title: "Can dark matter give neutrinos mass? Experiments weigh in"
@@ -646,7 +646,7 @@
   en:
     display_date: "Jan 2025"
     title: "Why is our space 3-dimensional?"
-    organization: "Popular-science video"
+    organization: "Popular science video"
     distinction: "Video received Bronze Award, ShanghaiTech University's 2024 Popular Science Works Competition"
     highlight_title: "Why is space three-dimensional?"
     highlight_text: "An award-winning video brings my article on the dimensions of space to the screen."
@@ -846,7 +846,7 @@
     title: "DMSolitonFinder"
     organization: "Mathematica package"
     distinction: "Featured in Wolfram Community Staff Picks and Publication Materials"
-    note: "Automated computation of dark-matter soliton profiles"
+    note: "Automated computation of dark matter soliton profiles"
   zh:
     display_date: "2024年6月7日"
     title: "DMSolitonFinder"
@@ -1581,7 +1581,7 @@
   en:
     display_date: "9 Dec 2015"
     title: "Hysteria and gender anxiety"
-    organization: "Popular-science video"
+    organization: "Popular science video"
     note: "Director during undergraduate studies"
   zh:
     display_date: "2015年12月9日"
