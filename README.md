@@ -53,7 +53,7 @@ These files and folders should **always be committed to GitHub**.
 - tests/ (Automated checks for activity data, templates, and other features)
 - docs/ (Maintenance instructions)
 
-These files and folders are useful for maintenance, but not required by online website deployment. It is still recommended to commit them to GitHub so that they remain available after cloning onto another computer.
+These files and folders are useful for maintenance, but not required by online website deployment. It is still recommended to **keep them on GitHub but off the public website** so that they remain available after cloning onto another computer.
 
 ## Local repository data
 
