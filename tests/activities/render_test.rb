@@ -18,18 +18,30 @@ class ActivitiesRenderTest < Minitest::Test
       site.data['activities'].first[lang]['title'] = 'A & B <test> "quoted"'
       site.data['activities'].first[lang]['organization'] = '<img src=x onerror=alert(1)>'
     end
+    # Controlled links test URL handling without depending on a particular event.
+    site.data['activities'].first['links'] = [
+      { 'label' => 'slides', 'url' => '/activities/example.pdf' },
+      { 'label' => 'event', 'url' => '/example-post/' }
+    ]
     site.pages.each { |page| page.data['layout'] = nil }
     site.render
     assert_equal 2, site.pages.length
+    expected_ids = site.data['activities']
+      .sort_by { |item| item.fetch('date') }.reverse
+      .group_by { |item| item.fetch('date') }.values
+      .flat_map { |items| items.sort_by { |item| item.fetch('tie_order', 0) } }
+      .map { |item| item.fetch('id') }
     site.pages.each do |page|
       html = page.output
+      assert_equal expected_ids, html.scan(/<article id="([^"]+)" class="activity-entry"/).flatten,
+        'Each activity must render once, in date/tie order'
       assert_includes html, 'A &amp; B &lt;test&gt; &quot;quoted&quot;'
       assert_includes html, '&lt;img src=x onerror=alert(1)&gt;'
       refute_includes html, '<img src=x onerror=alert(1)>'
       assert_includes html, 'href="/example/assets/css/activities.css"'
       assert_includes html, 'src="/example/assets/js/activities.js"'
-      assert_includes html, 'href="/example/activities/'
-      assert_includes html, 'href="/example/2023/01/08/the-plum-blossom-on-snow.html"'
+      assert_includes html, 'href="/example/activities/example.pdf"'
+      assert_includes html, 'href="/example/example-post/"'
     end
   end
 end

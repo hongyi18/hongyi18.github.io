@@ -1,6 +1,8 @@
 # Run: ruby tests/blog_render_test.rb
 require 'minitest/autorun'
 require 'jekyll'
+require 'time'
+require 'cgi'
 
 class BlogRenderTest < Minitest::Test
   def test_chinese_blog_reuses_posts_with_localized_navigation_and_dates
@@ -21,19 +23,27 @@ class BlogRenderTest < Minitest::Test
 
     assert_equal '/zh/blog/', chinese.url
     assert_equal 'zh-Hans', chinese.data.fetch('lang')
-    assert_includes chinese.output, '>博客</h1>'
+    assert_includes chinese.output, ">#{CGI.escapeHTML(chinese.data.fetch('title'))}</h1>"
     assert_match(/\d{4}年\d{1,2}月\d{1,2}日/, chinese.output)
     assert_includes chinese.output, '<a href="/blog/">English</a> | 中文'
     assert_includes english.output, 'English | <a href="/zh/blog/">中文</a>'
-    assert_includes chinese.output, 'class="page-link" href="/zh/blog/">博客</a>'
+    nav_title = chinese.data['nav_title'] || chinese.data.fetch('title')
+    assert_includes chinese.output, "class=\"page-link\" href=\"#{chinese.url}\">#{CGI.escapeHTML(nav_title)}</a>"
 
     post_links = ->(page) { page.output.scan(/class="post-link" href="([^"]+)"/) }
     refute_empty post_links.call(chinese)
     assert_equal site.posts.docs.length, post_links.call(chinese).length
     assert_equal post_links.call(english), post_links.call(chinese)
-    assert_match(/13 Jul 2025/, english.output)
-    python_post = site.posts.docs.find { |post| post.data['title'] == 'Reference for Python programming' }
-    assert_match(/13 Jul 2025/, python_post.output)
-    assert_match(/14 May 2026/, python_post.output)
+    site.posts.docs.each do |post|
+      date = post.data.fetch('published_date')
+      english_date = Time.parse(date.to_s).strftime(site.config.fetch('minima').fetch('date_format'))
+      chinese_date = Time.parse(date.to_s).strftime('%Y年%-m月%-d日')
+      assert_includes english.output, english_date
+      assert_includes chinese.output, chinese_date
+      assert_includes post.output, english_date
+      Array(post.data['modified_dates']).each do |modified|
+        assert_includes post.output, Time.parse(modified.to_s).strftime(site.config.fetch('minima').fetch('date_format'))
+      end
+    end
   end
 end

@@ -37,6 +37,15 @@ plugins:
  - jekyll-sitemap
 lang: en
 
+# Keep repository maintenance and dependency files out of the public website.
+exclude:
+  - README.md
+  - docs/
+  - tests/
+  - Gemfile
+  - Gemfile.lock
+  - minima.gemspec
+
 # Match the day–month–year format used in the activities archive.
 minima:
   date_format: "%-d %b %Y"

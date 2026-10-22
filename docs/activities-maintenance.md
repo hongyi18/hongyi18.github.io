@@ -67,13 +67,14 @@ Links such as `/activities/#filter-music` (or `/zh/activities/#filter-music`) op
 
 ## Checks
 
-With the site's Ruby/Jekyll environment available:
+The tests check current data and behavior, not snapshots of old content. With the site's Ruby/Jekyll environment available, run all fast Ruby checks from the repository root:
 
 ```sh
-ruby tests/activities/data_test.rb
-ruby tests/activities/render_test.rb
+ruby -e 'Dir.glob("tests/**/*_test.rb").sort.each { |file| require_relative file }'
 bundle exec jekyll build
 ```
+
+These validate activity records, translations, local links, date ordering, HTML escaping, URL prefixes, blog dates, and shared footer assets. You can also run an individual `*_test.rb` file when working on one area.
 
 The Node browser checks require Playwright and an installed browser:
 
@@ -81,8 +82,8 @@ The Node browser checks require Playwright and an installed browser:
 ACTIVITIES_BUILD=_site node --test tests/activities/browser.test.cjs
 ```
 
-If Playwright is installed outside the project, set `PLAYWRIGHT_MODULE` to its module path. If needed, set `CHROME_PATH` to Chrome's executable. `ACTIVITIES_SCREENSHOTS` optionally enables desktop/mobile captures. No Node dependencies are required by the website itself.
+If Playwright is installed outside the project, set `PLAYWRIGHT_MODULE` to its module path. If needed, set `CHROME_PATH` to Chrome's executable. The browser checks cover filtering, current-year expansion, deep links, browser history, the no-JavaScript fallback, and desktop/mobile overflow in both languages. Set `ACTIVITIES_SCREENSHOTS` to a directory to also save captures; layout checks run even without captures. No Node dependencies are required by the website itself.
 
 When optional full-site gems are unavailable, `ruby tests/activities/build_component.rb /absolute/path/to/output` renders both activity components with real Jekyll, without the site layouts or optional plugins. Point the browser checks at that output. This is component validation, not a replacement for a full-site build.
 
-Migration-only comparisons accept `ACTIVITIES_BASELINE` (a JSON content snapshot) for the data test and `ACTIVITIES_BASELINE_BUILD` (pre-migration rendered output) for the browser tests. These snapshots live outside the repository so routine updates do not require maintaining a second copy of all activity content.
+Normal content updates should not require editing tests: browser expectations use the current entries and archive years, and blog/footer checks use the current dates and configuration. Update tests when the intended behavior changes. Tests are run manually; the deployment workflow does not currently run them.

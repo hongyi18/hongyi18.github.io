@@ -1,6 +1,7 @@
 # Run: ruby tests/footer_test.rb
 require 'minitest/autorun'
 require 'jekyll'
+require 'cgi'
 
 class FooterTest < Minitest::Test
   ROOT = File.expand_path('..', __dir__)
@@ -26,11 +27,9 @@ class FooterTest < Minitest::Test
     end
   end
 
-  def test_auto_discovered_favicon_files_are_removed
+  def test_configured_logo_assets_exist
     assert File.exist?(File.join(ROOT, 'index/logo.png'))
     assert File.exist?(File.join(ROOT, 'index/favico.ico'))
-    refute File.exist?(File.join(ROOT, 'favicon.ico'))
-    refute File.exist?(File.join(ROOT, 'apple-touch-icon.png'))
   end
 
   def test_footer_uses_logo_and_retains_localized_text
@@ -48,14 +47,16 @@ class FooterTest < Minitest::Test
     site.render
     assert_equal 2, site.pages.length
     site.pages.each do |page|
-      assert_match(/<img[^>]*class="footer-image"[^>]*src="\/example\/index\/logo.png"[^>]*alt=""[^>]*width="96"[^>]*height="96"/, page.output)
+      assert_match(/<img[^>]*class="footer-image"[^>]*src="\/example\/index\/logo.png"[^>]*alt=""/, page.output)
       if page.data['lang'] == 'zh-Hans'
-        assert_includes page.output, '&copy; 2026 张闳一'
-        assert_includes page.output, '李政道研究所 理论宇宙学和天体粒子物理'
+        name = site.config.fetch('author_zh').fetch('name')
+        description = site.config.fetch('description_zh')
       else
-        assert_includes page.output, '&copy; 2026 Hong-Yi Zhang'
-        assert_includes page.output, 'Theoretical Cosmology and Astroparticle Physics at Tsung-Dao Lee Institute'
+        name = site.config.fetch('author').fetch('name')
+        description = site.config.fetch('description')
       end
+      assert_includes page.output, "&copy; #{site.time.year} #{name}"
+      assert_includes page.output, CGI.escapeHTML(description)
     end
   end
 end

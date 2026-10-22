@@ -2,7 +2,6 @@
 require 'minitest/autorun'
 require 'yaml'
 require 'date'
-require 'json'
 require 'jekyll'
 
 class ActivitiesDataTest < Minitest::Test
@@ -77,26 +76,4 @@ class ActivitiesDataTest < Minitest::Test
     end
   end
 
-  def test_migration_preserves_every_field
-    path = ENV['ACTIVITIES_BASELINE']
-    skip 'Migration-only snapshot not supplied' unless path
-    baseline = JSON.parse(File.read(path))
-    %w[en zh].each do |lang|
-      actual = @items.sort_by { |item| item.fetch('date') }.reverse
-        .group_by { |item| item.fetch('date') }.values.flat_map { |items| items.sort_by { |item| item.fetch('tie_order', 0) } }
-        .map do |item|
-          record = item.slice('id', 'date', 'type', 'has_slides', 'remote', 'highlight')
-          record.merge!(item.fetch(lang))
-          record['subtype'] = @ui.fetch(lang).fetch('subtypes').fetch(item.fetch('subtype'))
-          record['highlight_title'] ||= record['title'] if item['highlight']
-          if item['links']
-            record['links'] = item['links'].map do |link|
-              { 'url' => link['url'], 'label' => link[lang] || @ui.fetch(lang).fetch('link_labels').fetch(link.fetch('label')) }
-            end
-          end
-          record
-        end
-      assert_equal baseline.fetch(lang), actual, "Content changed in #{lang}"
-    end
-  end
 end
