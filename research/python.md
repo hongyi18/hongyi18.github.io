@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Reference for Python programming
+layout: research_note
+lang: en
+title: Python programming
+permalink: /research/python/
 published_date: 2025-07-13
 modified_dates: 
   - 2026-05-14
-excerpt_separator: <!--more-->
 ---
 
 Here is a brief guide for Python programming.
-
-<!--more-->
 
 **Table of contents**
 

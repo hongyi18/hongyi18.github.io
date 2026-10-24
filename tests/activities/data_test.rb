@@ -41,7 +41,7 @@ class ActivitiesDataTest < Minitest::Test
         if url.start_with?('#')
           assert_includes ids, url.delete_prefix('#'), 'Broken related-entry anchor'
         elsif url.start_with?('/')
-          assert File.file?(File.join(ROOT, url.delete_prefix('/'))) || post_urls.include?(url), "Missing local file or post: #{url}"
+          assert File.file?(File.join(ROOT, url.delete_prefix('/'))) || local_urls.include?(url), "Missing local file or page: #{url}"
         else
           assert_match(/\Ahttps?:\/\//, url)
         end
@@ -55,15 +55,15 @@ class ActivitiesDataTest < Minitest::Test
     end
   end
 
-  def post_urls
-    @post_urls ||= begin
+  def local_urls
+    @local_urls ||= begin
       config = Jekyll.configuration('source' => ROOT, 'quiet' => true, 'disable_disk_cache' => true)
       config['theme'] = nil
       config['plugins'] = []
       site = Jekyll::Site.new(config)
       site.reset
       site.read
-      site.posts.docs.map(&:url)
+      (site.posts.docs + site.pages).map(&:url)
     end
   end
 

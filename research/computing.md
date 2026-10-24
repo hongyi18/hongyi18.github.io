@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Reference for numerical techniques
+layout: research_note
+lang: en
+title: Linux and cluster computing
+permalink: /research/computing/
 published_date: 2025-05-30
 modified_dates: 
   - 2025-07-13
-excerpt_separator: <!--more-->
 ---
 
 Here is a brief review of basic numerical techniques, including commands for using Linux and computational clusters.
-
-<!--more-->
 
 **Table of contents**
 

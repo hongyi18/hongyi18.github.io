@@ -7,7 +7,7 @@ The main pages of the site include:
 - index.md (Homepage and introduction)
   - index/
 - research.md (Research interests and publications)
-  - research/
+  - research/ (Research reference notes and compatibility redirects for their former post URLs)
 - teaching.md (Teaching experience and materials)
   - teaching/
 - activities.md (Selected highlights and chronological activity archive)
@@ -15,7 +15,7 @@ The main pages of the site include:
   - _data/ (Records and interface translations for the activity page)
 - blog.md (List of blog posts)
   + _posts/ (Posts in markdown. Name convention for posts: "2023-09-04-my-post.md")
-  + blog/ (Attachments for each post)
+  + blog/ (Attachments for posts and research notes)
 - personal.md (Personal interests and activities)
   - personal/
 
@@ -32,6 +32,8 @@ The website is built based on the template Minima v2.5.1. The supporting folders
   + page.html (Layout for pages except the homepage)
   + blog.html (Layout for the blog page that lists all posts)
   + post.html (Layout for posts)
+  + research_note.html (Research notes with a return link)
+  + redirect.html (HTML redirects for moved pages)
   + home_zh.html
   + page_zh.html
 - _sass/ and assets/ (Theme styles, page styles, scripts, and shared assets)

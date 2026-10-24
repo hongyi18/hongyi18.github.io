@@ -39,8 +39,8 @@ At this German and Austrian art-song salon in Shanghai, hosted by soprano Dr. Xi
 
 ### The plum blossom on snow
 
-In Cologne, Xia Liu and I presented a concert of Chinese art songs, folk songs, and piano music. The concert program is available in my blog.
+In Cologne, Xia Liu and I presented a concert of Chinese art songs, folk songs, and piano music. The full concert program and translated lyrics are available below.
 
-[Explore the program →]({% post_url 2023-01-08-the-plum-blossom-on-snow %}) · [View in archive →](/activities/#music-2023-01-plum-blossom)
+[Explore the program →](/personal/the-plum-blossom-on-snow/) · [View in archive →](/activities/#music-2023-01-plum-blossom)
 
 [All concerts and music salons →](/activities/#filter-music)

@@ -53,6 +53,6 @@ I develop tools for my research and share them for others to use:
 
 Practical references for research and computation:
 
-- [Research tools and resources]({% post_url 2025-04-27-list-of-useful-research-tools %})
-- [Numerical methods]({% post_url 2025-05-30-reference-for-numerical-techniques %})
-- [Python programming]({% post_url 2025-07-13-reference-for-python-programming %})
+- [Research tools and resources](/research/resources/)
+- [Linux and cluster computing](/research/computing/)
+- [Python programming](/research/python/)

@@ -1,21 +1,27 @@
 ---
-layout: post
-title: List of useful research tools
+layout: research_note
+lang: en
+title: Research tools and resources
+permalink: /research/resources/
 published_date: 2025-04-27
-excerpt_separator: <!--more-->
 ---
 
 Here is a short list of tools I find useful during research, including code packages, online tools, and software and add-ins.
 
-<!--more-->
+## AI plugins & skills
 
-### Code packages
+- [grill-me](https://github.com/mattpocock/skills) for idea development.
+- [caveman](https://github.com/juliusbrussee/caveman) for token saving.
+- [ponytail ](https://github.com/DietrichGebert/ponytail)for coding.
+- [Karpathy-inspired custom instructions](https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md) for general purposes.
+
+## Code packages
 
 - [UnitConversion](https://github.com/hongyi18/UnitConversion)  (Mathematica) for unit conversion between standard and natural units.
 - [DMSolitonFinder](https://github.com/hongyi18/DMSolitonFinder/) (Mathematica) for solving dark matter soliton profiles.
 - [AxionDarkPhotonSimulator](https://github.com/hongyi18/AxionDarkPhotonSimulator/) (Python) for simulating the nonlinear dynamics between axions and dark photons in an expanding universe.
 
-### Online tools
+## Online tools
 
 - [AxionLimits](https://github.com/cajohare/AxionLimits) for constraints on axion couplings.
 - [GWPlotter](https://gwplotter.com/) for gravitational wave sensitivity curve plots.
@@ -23,7 +29,7 @@ Here is a short list of tools I find useful during research, including code pack
 - [Bibliography generator](https://inspirehep.net/bibliography-generator) for generating an organized LaTeX bibliography.
 - [Overleaf](https://www.overleaf.com/) for cowriting LaTeX documents online with collaborators.
 
-### Software and add-ins
+## Software and add-ins
 
 - [Anaconda](https://www.anaconda.com/) for using Python.
 - [Zotero](https://www.zotero.org/) for literature management.

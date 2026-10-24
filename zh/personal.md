@@ -39,8 +39,8 @@ description: 物理学者与钢琴演奏者张闳一的音乐与生活，分享�
 
 ### 踏雪寻梅
 
-在德国科隆，我与女高音刘霞共同举办了一场音乐会，曲目包括中国艺术歌曲、民歌与钢琴独奏曲。完整曲目可在博客中查看。
+在德国科隆，我与女高音刘霞共同举办了一场音乐会，曲目包括中国艺术歌曲、民歌与钢琴独奏曲。完整曲目与歌词译文见下方链接。
 
-[查看音乐会曲目 →]({% post_url 2023-01-08-the-plum-blossom-on-snow %}) · [查看历年记录 →](/zh/activities/#music-2023-01-plum-blossom)
+[查看音乐会曲目 →](/personal/the-plum-blossom-on-snow/) · [查看历年记录 →](/zh/activities/#music-2023-01-plum-blossom)
 
 [全部音乐会与音乐沙龙 →](/zh/activities/#filter-music)

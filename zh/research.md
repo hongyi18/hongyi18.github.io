@@ -53,6 +53,6 @@ description: 张闳一的研究涉及天体物理环境中的基础物理、暗�
 
 整理研究与计算中常用的工具和方法：
 
-- [科研工具与资源]({% post_url 2025-04-27-list-of-useful-research-tools %})
-- [数值计算方法]({% post_url 2025-05-30-reference-for-numerical-techniques %})
-- [Python编程]({% post_url 2025-07-13-reference-for-python-programming %})
+- [科研工具与资源](/research/resources/)
+- [Linux 与集群计算](/research/computing/)
+- [Python 编程](/research/python/)
